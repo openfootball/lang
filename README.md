@@ -1,4 +1,5 @@
-lang
-====
+# lang
 
-Fixture Reader Translations (English, Español, Deutsch, etc.)
+Football (soccer) fixture reader translations for English, Español, Deutsch, etc.
+
+

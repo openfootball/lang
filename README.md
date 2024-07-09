@@ -1,4 +1,4 @@
-# World 
+# World (Top) Leagues & Cups
 
 Free open public domain football datasets in the Football.TXT format incl.
 

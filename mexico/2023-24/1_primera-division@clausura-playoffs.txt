@@ -1,0 +1,48 @@
+= Mexico Primera División 2023/24, Clausura Playoffs
+
+# 17 match(es), 10 team(s), 5 round(s)
+
+
+
+Qual. 1. Runde
+[Thu May/2]
+  20.00  Club Necaxa              3-2 pen. (1-1, 0-0)  Gallos Blancos
+  22.15  CF Pachuca               3-5 pen. (0-0)  Pumas UNAM
+
+
+Qual. 2. Runde
+[Sun May/5]
+  21.05  CF Pachuca               2-1 (0-0)  Club Necaxa
+
+
+Quarterfinals
+[Wed May/8]
+  20.05  Deportivo Guadalajara    1-0 (0-0)  Deportivo Toluca
+  22.16  CF Pachuca               1-1 (1-1)  CF América
+[Thu May/9]
+  20.00  Pumas UNAM               0-2 (0-1)  Cruz Azul
+  22.10  UANL Tigres              1-2 (1-1)  CF Monterrey
+[Sat May/11]
+  19.00  CF América               1-1 (0-1)  CF Pachuca
+  21.10  Deportivo Toluca         0-0  Deportivo Guadalajara
+[Sun May/12]
+  20.00  Cruz Azul                2-2 (0-0)  Pumas UNAM
+  22.10  CF Monterrey             1-1 (0-1)  UANL Tigres
+
+
+Semifinals
+[Wed May/15]
+  21.05  Deportivo Guadalajara    0-0  CF América
+[Thu May/16]
+  22.00  CF Monterrey             0-1 (0-1)  Cruz Azul
+[Sat May/18]
+  21.00  CF América               1-0 (0-0)  Deportivo Guadalajara
+[Sun May/19]
+  19.00  Cruz Azul                1-2 (0-0)  CF Monterrey
+
+
+Final
+[Thu May/23]
+  21.00  Cruz Azul                1-1 (1-1)  CF América
+[Sun May/26]
+  20.35  CF América               1-0 (0-0)  Cruz Azul

@@ -1,0 +1,236 @@
+= Switzerland Super League 2024/25
+
+# 132 match(es), 12 team(s), 22 round(s)
+
+
+
+Matchday 1
+[Sat Jul/20]
+  18.00  FC Lugano                -  Grasshopper Club Zürich
+         Yverdon Sport FC         -  FC Zürich
+  20.30  FC Winterthur            -  FC St. Gallen
+[Sun Jul/21]
+  14.15  BSC Young Boys           -  FC Sion
+  16.30  FC Lausanne-Sport        -  FC Basel
+         FC Luzern                -  Servette FC
+
+
+Matchday 2
+[Sat Jul/27]
+  18.00  FC Sion                  -  FC Lausanne-Sport
+         Grasshopper Club Zürich  -  FC Luzern
+  20.30  FC Basel                 -  FC Lugano
+[Sun Jul/28]
+  14.15  Servette FC              -  Yverdon Sport FC
+  16.30  FC St. Gallen            -  BSC Young Boys
+         FC Zürich                -  FC Winterthur
+
+
+Matchday 3
+[Sat Aug/3]
+  18.00  FC Lugano                -  Servette FC
+         Grasshopper Club Zürich  -  FC Basel
+  20.30  FC Luzern                -  FC Sion
+[Sun Aug/4]
+  14.15  FC Lausanne-Sport        -  FC St. Gallen
+  16.30  FC Winterthur            -  Yverdon Sport FC
+         BSC Young Boys           -  FC Zürich
+
+
+Matchday 4
+[Sat Aug/10]
+  18.00  FC Lugano                -  FC Luzern
+         FC Sion                  -  FC Winterthur
+  20.30  Yverdon Sport FC         -  BSC Young Boys
+[Sun Aug/11]
+  14.15  FC St. Gallen            -  Grasshopper Club Zürich
+  16.30  FC Zürich                -  FC Lausanne-Sport
+         Servette FC              -  FC Basel
+
+
+Matchday 5
+[Wed Jul/24]
+  20.30  Servette FC              -  BSC Young Boys
+[Sat Aug/24]
+  18.00  FC Lausanne-Sport        -  FC Lugano
+         FC Luzern                -  FC Winterthur
+  20.30  Grasshopper Club Zürich  -  FC Sion
+[Sun Aug/25]
+  16.30  FC Basel                 -  Yverdon Sport FC
+         FC St. Gallen            -  FC Zürich
+
+
+Matchday 6
+[Sat Aug/31]
+  18.00  FC Sion                  -  FC Basel
+         Yverdon Sport FC         -  Grasshopper Club Zürich
+  20.30  BSC Young Boys           -  FC Lausanne-Sport
+[Sun Sep/1]
+  14.15  FC Winterthur            -  Servette FC
+  16.30  FC Lugano                -  FC St. Gallen
+         FC Zürich                -  FC Luzern
+
+
+Matchday 7
+[Sat Sep/21]
+  18.00  FC St. Gallen            -  FC Luzern
+         Grasshopper Club Zürich  -  Servette FC
+  20.30  FC Basel                 -  FC Zürich
+[Sun Sep/22]
+  14.15  FC Lausanne-Sport        -  Yverdon Sport FC
+  16.30  FC Sion                  -  FC Lugano
+         FC Winterthur            -  BSC Young Boys
+
+
+Matchday 8
+[Sat Sep/28]
+  FC Lugano                -  FC Winterthur
+  FC Zürich                -  FC Sion
+  Servette FC              -  FC Lausanne-Sport
+  BSC Young Boys           -  Grasshopper Club Zürich
+  18.00  Yverdon Sport FC         -  FC St. Gallen
+[Sun Sep/29]
+  16.30  FC Luzern                -  FC Basel
+
+
+Matchday 9
+[Sat Oct/5]
+  18.00  FC Luzern                -  FC Lausanne-Sport
+         FC Sion                  -  Yverdon Sport FC
+  20.30  FC Winterthur            -  Grasshopper Club Zürich
+[Sun Oct/6]
+  14.15  FC Zürich                -  FC Lugano
+  16.30  FC Basel                 -  BSC Young Boys
+         FC St. Gallen            -  Servette FC
+
+
+Matchday 10
+[Sat Oct/19]
+  18.00  Grasshopper Club Zürich  -  FC Zürich
+         BSC Young Boys           -  FC Luzern
+  20.30  Servette FC              -  FC Sion
+[Sun Oct/20]
+  16.30  FC Basel                 -  FC St. Gallen
+         FC Lausanne-Sport        -  FC Winterthur
+         Yverdon Sport FC         -  FC Lugano
+
+
+Matchday 11
+[Sat Oct/26]
+  18.00  FC Lausanne-Sport        -  Grasshopper Club Zürich
+         FC Winterthur            -  FC Basel
+  20.30  FC Luzern                -  Yverdon Sport FC
+[Sun Oct/27]
+  14.15  FC Sion                  -  FC St. Gallen
+  16.30  FC Lugano                -  BSC Young Boys
+         FC Zürich                -  Servette FC
+
+
+Matchday 12
+[Tue Oct/29]
+  FC Sion                  -  FC Zürich
+  FC St. Gallen            -  FC Winterthur
+  Grasshopper Club Zürich  -  FC Lugano
+  Servette FC              -  FC Luzern
+  BSC Young Boys           -  FC Basel
+  Yverdon Sport FC         -  FC Lausanne-Sport
+
+
+Matchday 13
+[Sat Nov/2]
+  FC Basel                 -  FC Winterthur
+  FC Lausanne-Sport        -  Servette FC
+  FC Lugano                -  Yverdon Sport FC
+  FC Luzern                -  Grasshopper Club Zürich
+  FC St. Gallen            -  FC Sion
+  FC Zürich                -  BSC Young Boys
+
+
+Matchday 14
+[Sat Nov/9]
+  FC Sion                  -  FC Luzern
+  FC Winterthur            -  FC Lausanne-Sport
+  Grasshopper Club Zürich  -  FC St. Gallen
+  Servette FC              -  FC Zürich
+  BSC Young Boys           -  FC Lugano
+  Yverdon Sport FC         -  FC Basel
+
+
+Matchday 15
+[Sat Nov/23]
+  FC Basel                 -  Servette FC
+  FC Lausanne-Sport        -  FC Sion
+  FC Lugano                -  FC Zürich
+  FC Luzern                -  BSC Young Boys
+  FC St. Gallen            -  Yverdon Sport FC
+  Grasshopper Club Zürich  -  FC Winterthur
+
+
+Matchday 16
+[Sat Nov/30]
+  FC Basel                 -  FC Lausanne-Sport
+  FC Winterthur            -  FC Sion
+  FC Zürich                -  Grasshopper Club Zürich
+  Servette FC              -  FC Lugano
+  BSC Young Boys           -  FC St. Gallen
+  Yverdon Sport FC         -  FC Luzern
+
+
+Matchday 17
+[Sat Dec/7]
+  FC Lausanne-Sport        -  FC Zürich
+  FC Luzern                -  FC Lugano
+  FC Sion                  -  BSC Young Boys
+  FC St. Gallen            -  FC Basel
+  Grasshopper Club Zürich  -  Yverdon Sport FC
+  Servette FC              -  FC Winterthur
+
+
+Matchday 18
+[Sat Dec/14]
+  FC Basel                 -  Grasshopper Club Zürich
+  FC Lugano                -  FC Lausanne-Sport
+  FC Winterthur            -  FC Luzern
+  FC Zürich                -  FC St. Gallen
+  BSC Young Boys           -  Servette FC
+  Yverdon Sport FC         -  FC Sion
+
+
+Matchday 19
+[Sat Jan/18]
+  FC Lausanne-Sport        -  FC Luzern
+  FC Lugano                -  FC Basel
+  FC Sion                  -  Grasshopper Club Zürich
+  FC Zürich                -  Yverdon Sport FC
+  Servette FC              -  FC St. Gallen
+  BSC Young Boys           -  FC Winterthur
+
+
+Matchday 20
+[Sat Jan/25]
+  FC Basel                 -  FC Sion
+  FC Luzern                -  FC Zürich
+  FC St. Gallen            -  FC Lausanne-Sport
+  FC Winterthur            -  FC Lugano
+  Grasshopper Club Zürich  -  BSC Young Boys
+  Yverdon Sport FC         -  Servette FC
+
+
+Matchday 21
+[Sat Feb/1]
+  FC Lausanne-Sport        -  BSC Young Boys
+  FC Lugano                -  FC Sion
+  FC Luzern                -  FC St. Gallen
+  FC Zürich                -  FC Basel
+  Servette FC              -  Grasshopper Club Zürich
+  Yverdon Sport FC         -  FC Winterthur
+
+
+Matchday 22
+[Tue Feb/4]
+  FC Basel                 -  FC Luzern
+  FC Sion                  -  Servette FC
+  FC St. Gallen            -  FC Lugano
+  FC Winterthur            -  FC Zürich
+  Grasshopper Club Zürich  -  FC Lausanne-Sport
+  BSC Young Boys           -  Yverdon Sport FC

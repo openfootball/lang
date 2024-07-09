@@ -1,0 +1,372 @@
+= Belgium Eerste klasse B 2024/25
+
+# 240 match(es), 16 team(s), 30 round(s)
+
+
+
+Matchday 1
+[Fri Aug/16]
+  20.00  RFC Seraing              -  KRC Genk II
+         RSCA Futures             -  SK Deinze
+[Sat Aug/17]
+  16.00  Club NXT                 -  KSC Lokeren-Temse
+  20.00  RWDM Brussels FC         -  Patro Eisden MM
+         SK Beveren               -  Lommel SK
+[Sun Aug/18]
+  13.30  Royal Francs Borains     -  RAA La Louviére
+  16.00  RFC Liège                -  KAS Eupen
+  19.15  SV Zulte Waregem         -  Lierse Kempenzonen
+
+
+Matchday 2
+[Fri Aug/23]
+  20.00  KAS Eupen                -  SK Beveren
+         KSC Lokeren-Temse        -  Royal Francs Borains
+[Sat Aug/24]
+  16.00  Patro Eisden MM          -  RSCA Futures
+  20.00  Lierse Kempenzonen       -  RFC Seraing
+         RAA La Louviére          -  Club NXT
+[Sun Aug/25]
+  13.30  Lommel SK                -  RWDM Brussels FC
+  16.00  SK Deinze                -  SV Zulte Waregem
+  19.15  KRC Genk II              -  RFC Liège
+
+
+Matchday 3
+[Fri Aug/30]
+  20.00  RWDM Brussels FC         -  KAS Eupen
+         SV Zulte Waregem         -  KSC Lokeren-Temse
+[Sat Aug/31]
+  16.00  RSCA Futures             -  RAA La Louviére
+  20.00  Patro Eisden MM          -  Club NXT
+         RFC Liège                -  SK Beveren
+[Sun Sep/1]
+  13.30  KRC Genk II              -  Royal Francs Borains
+  16.00  Lierse Kempenzonen       -  SK Deinze
+  19.15  RFC Seraing              -  Lommel SK
+
+
+Matchday 4
+[Fri Sep/13]
+  20.00  Club NXT                 -  RFC Seraing
+         KSC Lokeren-Temse        -  Patro Eisden MM
+[Sat Sep/14]
+  16.00  Royal Francs Borains     -  Lommel SK
+  20.00  RFC Liège                -  RSCA Futures
+         RWDM Brussels FC         -  Lierse Kempenzonen
+[Sun Sep/15]
+  13.30  KAS Eupen                -  SV Zulte Waregem
+  16.00  SK Beveren               -  KRC Genk II
+  19.15  SK Deinze                -  RAA La Louviére
+
+
+Matchday 5
+[Sat Sep/21]
+  SK Beveren               -  RFC Seraing
+  SV Zulte Waregem         -  RFC Liège
+  Lierse Kempenzonen       -  KAS Eupen
+  Lommel SK                -  RSCA Futures
+  SK Deinze                -  Club NXT
+  KRC Genk II              -  RWDM Brussels FC
+  RAA La Louviére          -  KSC Lokeren-Temse
+  Patro Eisden MM          -  Royal Francs Borains
+
+
+Matchday 6
+[Sat Sep/28]
+  Club NXT                 -  SK Beveren
+  RSCA Futures             -  SV Zulte Waregem
+  Lommel SK                -  Lierse Kempenzonen
+  KAS Eupen                -  KRC Genk II
+  RAA La Louviére          -  Patro Eisden MM
+  KSC Lokeren-Temse        -  SK Deinze
+  RFC Seraing              -  RFC Liège
+  Royal Francs Borains     -  RWDM Brussels FC
+
+
+Matchday 7
+[Sat Oct/5]
+  SK Beveren               -  KSC Lokeren-Temse
+  SV Zulte Waregem         -  Club NXT
+  RWDM Brussels FC         -  RAA La Louviére
+  Lierse Kempenzonen       -  Royal Francs Borains
+  KRC Genk II              -  RSCA Futures
+  RFC Seraing              -  KAS Eupen
+  Patro Eisden MM          -  SK Deinze
+  RFC Liège                -  Lommel SK
+
+
+Matchday 8
+[Sat Oct/19]
+  Club NXT                 -  Lierse Kempenzonen
+  RSCA Futures             -  RWDM Brussels FC
+  Lommel SK                -  KAS Eupen
+  SK Deinze                -  KRC Genk II
+  RAA La Louviére          -  SK Beveren
+  KSC Lokeren-Temse        -  RFC Seraing
+  Patro Eisden MM          -  SV Zulte Waregem
+  Royal Francs Borains     -  RFC Liège
+
+
+Matchday 9
+[Sat Oct/26]
+  SK Beveren               -  RSCA Futures
+  SV Zulte Waregem         -  Royal Francs Borains
+  RWDM Brussels FC         -  SK Deinze
+  Lierse Kempenzonen       -  RAA La Louviére
+  KAS Eupen                -  KSC Lokeren-Temse
+  KRC Genk II              -  Lommel SK
+  RFC Seraing              -  Patro Eisden MM
+  RFC Liège                -  Club NXT
+
+
+Matchday 10
+[Sat Nov/2]
+  Club NXT                 -  Lommel SK
+  RWDM Brussels FC         -  SV Zulte Waregem
+  RSCA Futures             -  KAS Eupen
+  SK Deinze                -  SK Beveren
+  RAA La Louviére          -  RFC Liège
+  KSC Lokeren-Temse        -  KRC Genk II
+  Patro Eisden MM          -  Lierse Kempenzonen
+  Royal Francs Borains     -  RFC Seraing
+
+
+Matchday 11
+[Sat Nov/9]
+  SK Beveren               -  Royal Francs Borains
+  SV Zulte Waregem         -  RAA La Louviére
+  Lierse Kempenzonen       -  KSC Lokeren-Temse
+  Lommel SK                -  SK Deinze
+  KAS Eupen                -  Patro Eisden MM
+  KRC Genk II              -  Club NXT
+  RFC Seraing              -  RSCA Futures
+  RFC Liège                -  RWDM Brussels FC
+
+
+Matchday 12
+[Sat Nov/23]
+  SV Zulte Waregem         -  RFC Seraing
+  Club NXT                 -  KAS Eupen
+  RWDM Brussels FC         -  SK Beveren
+  Lierse Kempenzonen       -  KRC Genk II
+  SK Deinze                -  Royal Francs Borains
+  RAA La Louviére          -  Lommel SK
+  KSC Lokeren-Temse        -  RSCA Futures
+  Patro Eisden MM          -  RFC Liège
+
+
+Matchday 13
+[Sat Nov/30]
+  SK Beveren               -  Patro Eisden MM
+  RSCA Futures             -  Lierse Kempenzonen
+  Lommel SK                -  KSC Lokeren-Temse
+  KAS Eupen                -  RAA La Louviére
+  KRC Genk II              -  SV Zulte Waregem
+  RFC Seraing              -  RWDM Brussels FC
+  RFC Liège                -  SK Deinze
+  Royal Francs Borains     -  Club NXT
+
+
+Matchday 14
+[Sat Dec/7]
+  SV Zulte Waregem         -  SK Beveren
+  Club NXT                 -  RSCA Futures
+  Lierse Kempenzonen       -  RFC Liège
+  SK Deinze                -  RFC Seraing
+  RAA La Louviére          -  KRC Genk II
+  KSC Lokeren-Temse        -  RWDM Brussels FC
+  Patro Eisden MM          -  Lommel SK
+  Royal Francs Borains     -  KAS Eupen
+
+
+Matchday 15
+[Sat Dec/14]
+  SK Beveren               -  Lierse Kempenzonen
+  RWDM Brussels FC         -  Club NXT
+  RSCA Futures             -  Royal Francs Borains
+  Lommel SK                -  SV Zulte Waregem
+  KAS Eupen                -  SK Deinze
+  KRC Genk II              -  Patro Eisden MM
+  RFC Seraing              -  RAA La Louviére
+  RFC Liège                -  KSC Lokeren-Temse
+
+
+Matchday 16
+[Sat Dec/21]
+  Club NXT                 -  SV Zulte Waregem
+  Lierse Kempenzonen       -  Lommel SK
+  SK Deinze                -  RSCA Futures
+  KAS Eupen                -  RFC Liège
+  RAA La Louviére          -  RWDM Brussels FC
+  KSC Lokeren-Temse        -  SK Beveren
+  Patro Eisden MM          -  RFC Seraing
+  Royal Francs Borains     -  KRC Genk II
+
+
+Matchday 17
+[Sat Jan/11]
+  SK Beveren               -  RAA La Louviére
+  SV Zulte Waregem         -  Patro Eisden MM
+  Club NXT                 -  SK Deinze
+  RWDM Brussels FC         -  RFC Liège
+  RSCA Futures             -  KRC Genk II
+  Lommel SK                -  Royal Francs Borains
+  KSC Lokeren-Temse        -  KAS Eupen
+  RFC Seraing              -  Lierse Kempenzonen
+
+
+Matchday 18
+[Sat Jan/18]
+  Lierse Kempenzonen       -  Club NXT
+  SK Deinze                -  Lommel SK
+  KAS Eupen                -  RWDM Brussels FC
+  KRC Genk II              -  RFC Seraing
+  RAA La Louviére          -  RSCA Futures
+  Patro Eisden MM          -  KSC Lokeren-Temse
+  RFC Liège                -  SV Zulte Waregem
+  Royal Francs Borains     -  SK Beveren
+
+
+Matchday 19
+[Sat Jan/25]
+  SK Beveren               -  SK Deinze
+  SV Zulte Waregem         -  KAS Eupen
+  Club NXT                 -  RAA La Louviére
+  RWDM Brussels FC         -  KRC Genk II
+  RSCA Futures             -  Patro Eisden MM
+  Lommel SK                -  RFC Liège
+  KSC Lokeren-Temse        -  Lierse Kempenzonen
+  RFC Seraing              -  Royal Francs Borains
+
+
+Matchday 20
+[Sat Feb/1]
+  Lierse Kempenzonen       -  RWDM Brussels FC
+  RSCA Futures             -  Club NXT
+  SK Deinze                -  KSC Lokeren-Temse
+  KAS Eupen                -  Lommel SK
+  KRC Genk II              -  SK Beveren
+  RAA La Louviére          -  SV Zulte Waregem
+  RFC Liège                -  RFC Seraing
+  Royal Francs Borains     -  Patro Eisden MM
+
+
+Matchday 21
+[Sat Feb/8]
+  SV Zulte Waregem         -  SK Deinze
+  RWDM Brussels FC         -  RSCA Futures
+  Lommel SK                -  Club NXT
+  KAS Eupen                -  Lierse Kempenzonen
+  KSC Lokeren-Temse        -  RAA La Louviére
+  RFC Seraing              -  SK Beveren
+  Patro Eisden MM          -  KRC Genk II
+  RFC Liège                -  Royal Francs Borains
+
+
+Matchday 22
+[Sat Feb/15]
+  SK Beveren               -  RFC Liège
+  Club NXT                 -  RWDM Brussels FC
+  Lierse Kempenzonen       -  SV Zulte Waregem
+  RSCA Futures             -  Lommel SK
+  SK Deinze                -  Patro Eisden MM
+  KRC Genk II              -  KAS Eupen
+  RAA La Louviére          -  RFC Seraing
+  Royal Francs Borains     -  KSC Lokeren-Temse
+
+
+Matchday 23
+[Sat Feb/22]
+  SV Zulte Waregem         -  KRC Genk II
+  RWDM Brussels FC         -  Royal Francs Borains
+  Lommel SK                -  SK Beveren
+  KAS Eupen                -  RSCA Futures
+  KSC Lokeren-Temse        -  Club NXT
+  RFC Seraing              -  SK Deinze
+  Patro Eisden MM          -  RAA La Louviére
+  RFC Liège                -  Lierse Kempenzonen
+
+
+Matchday 24
+[Sat Mar/1]
+  SK Beveren               -  SV Zulte Waregem
+  Club NXT                 -  Patro Eisden MM
+  RSCA Futures             -  RFC Liège
+  Lommel SK                -  RFC Seraing
+  SK Deinze                -  RWDM Brussels FC
+  KRC Genk II              -  KSC Lokeren-Temse
+  RAA La Louviére          -  KAS Eupen
+  Royal Francs Borains     -  Lierse Kempenzonen
+
+
+Matchday 25
+[Sat Mar/8]
+  SV Zulte Waregem         -  Lommel SK
+  RWDM Brussels FC         -  KSC Lokeren-Temse
+  Lierse Kempenzonen       -  RSCA Futures
+  KAS Eupen                -  Royal Francs Borains
+  KRC Genk II              -  SK Deinze
+  RFC Seraing              -  Club NXT
+  Patro Eisden MM          -  SK Beveren
+  RFC Liège                -  RAA La Louviére
+
+
+Matchday 26
+[Sat Mar/15]
+  SK Beveren               -  RWDM Brussels FC
+  Club NXT                 -  KRC Genk II
+  RSCA Futures             -  RFC Seraing
+  Lommel SK                -  Patro Eisden MM
+  SK Deinze                -  KAS Eupen
+  RAA La Louviére          -  Lierse Kempenzonen
+  KSC Lokeren-Temse        -  RFC Liège
+  Royal Francs Borains     -  SV Zulte Waregem
+
+
+Matchday 27
+[Sat Mar/29]
+  SV Zulte Waregem         -  RSCA Futures
+  RWDM Brussels FC         -  RFC Seraing
+  Lierse Kempenzonen       -  SK Beveren
+  KAS Eupen                -  Club NXT
+  KRC Genk II              -  RAA La Louviére
+  KSC Lokeren-Temse        -  Lommel SK
+  RFC Liège                -  Patro Eisden MM
+  Royal Francs Borains     -  SK Deinze
+
+
+Matchday 28
+[Sat Apr/5]
+  SK Beveren               -  KAS Eupen
+  Club NXT                 -  RFC Liège
+  RSCA Futures             -  KSC Lokeren-Temse
+  Lommel SK                -  KRC Genk II
+  SK Deinze                -  Lierse Kempenzonen
+  RAA La Louviére          -  Royal Francs Borains
+  RFC Seraing              -  SV Zulte Waregem
+  Patro Eisden MM          -  RWDM Brussels FC
+
+
+Matchday 29
+[Sat Apr/12]
+  SK Beveren               -  Club NXT
+  RWDM Brussels FC         -  Lommel SK
+  Lierse Kempenzonen       -  Patro Eisden MM
+  KAS Eupen                -  RFC Seraing
+  RAA La Louviére          -  SK Deinze
+  KSC Lokeren-Temse        -  SV Zulte Waregem
+  RFC Liège                -  KRC Genk II
+  Royal Francs Borains     -  RSCA Futures
+
+
+Matchday 30
+[Sat Apr/19]
+  SV Zulte Waregem         -  RWDM Brussels FC
+  Club NXT                 -  Royal Francs Borains
+  RSCA Futures             -  SK Beveren
+  Lommel SK                -  RAA La Louviére
+  SK Deinze                -  RFC Liège
+  KRC Genk II              -  Lierse Kempenzonen
+  RFC Seraing              -  KSC Lokeren-Temse
+  Patro Eisden MM          -  KAS Eupen

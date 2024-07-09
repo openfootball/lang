@@ -1,0 +1,84 @@
+= Belgium Eerste klasse A 2023/24, Europe
+
+# 30 match(es), 6 team(s), 10 round(s)
+
+
+
+Matchday 1
+[Fri Mar/29]
+  20.45  KAA Gent                 5-1 (1-1)  Standard Liège
+[Sat Mar/30]
+  18.15  Oud-Heverlee Leuven      2-3 (0-1)  KV Mechelen
+[Sun Mar/31]
+  18.30  Sint-Truidense VV        2-0 (1-0)  KVC Westerlo
+
+
+Matchday 2
+[Fri Apr/5]
+  20.45  KV Mechelen              2-3 (1-0)  Sint-Truidense VV
+[Sat Apr/6]
+  18.15  Standard Liège           0-0  Oud-Heverlee Leuven
+[Sun Apr/7]
+  19.15  KVC Westerlo             0-3 (0-2)  KAA Gent
+
+
+Matchday 3
+[Fri Apr/12]
+  20.45  Sint-Truidense VV        3-3 (1-1)  Standard Liège
+[Sat Apr/13]
+  18.15  KV Mechelen              3-2 (0-2)  KVC Westerlo
+[Sun Apr/14]
+  19.15  Oud-Heverlee Leuven      2-1 (2-1)  KAA Gent
+
+
+Matchday 4
+[Sat Apr/20]
+  16.00  Oud-Heverlee Leuven      1-0 (0-0)  Sint-Truidense VV
+  18.15  KVC Westerlo             3-3 (1-1)  Standard Liège
+  20.00  KAA Gent                 3-1 (1-0)  KV Mechelen
+
+
+Matchday 5
+[Tue Apr/23]
+  20.30  KVC Westerlo             1-1 (1-0)  Oud-Heverlee Leuven
+         Sint-Truidense VV        0-2 (0-1)  KAA Gent
+         Standard Liège           0-0  KV Mechelen
+
+
+Matchday 6
+[Sat Apr/27]
+  16.00  KV Mechelen              3-0 (0-0)  Oud-Heverlee Leuven
+  18.15  Standard Liège           1-1 (0-1)  Sint-Truidense VV
+  20.45  KAA Gent                 3-2 (2-2)  KVC Westerlo
+
+
+Matchday 7
+[Fri May/3]
+  20.45  KVC Westerlo             2-2 (1-1)  Sint-Truidense VV
+[Sat May/4]
+  18.15  KV Mechelen              2-4 (2-3)  KAA Gent
+[Sun May/5]
+  16.00  Oud-Heverlee Leuven      3-1 (0-1)  Standard Liège
+
+
+Matchday 8
+[Fri May/10]
+  Standard Liège           0-5  KVC Westerlo             [awarded]
+[Sun May/12]
+  13.30  KAA Gent                 0-1 (0-1)  Oud-Heverlee Leuven
+  16.00  Sint-Truidense VV        2-1 (2-1)  KV Mechelen
+
+
+Matchday 9
+[Fri May/17]
+  20.45  Sint-Truidense VV        1-1 (0-0)  Oud-Heverlee Leuven
+[Sat May/18]
+  18.15  KVC Westerlo             0-2 (0-1)  KV Mechelen
+  20.45  Standard Liège           1-4 (1-1)  KAA Gent
+
+
+Matchday 10
+[Sat May/25]
+  20.30  Oud-Heverlee Leuven      1-2 (0-2)  KVC Westerlo
+         KV Mechelen              3-2 (2-0)  Standard Liège
+         KAA Gent                 2-0 (0-0)  Sint-Truidense VV

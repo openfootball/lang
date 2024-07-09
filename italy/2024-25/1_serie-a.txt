@@ -1,0 +1,536 @@
+= Italy Serie A 2024/25
+
+# 380 match(es), 20 team(s), 38 round(s)
+
+
+
+Matchday 1
+[Sun Aug/18]
+  Bologna FC               -  Udinese Calcio
+  Cagliari Calcio          -  AS Roma
+  Empoli FC                -  AC Monza
+  Genoa CFC                -  Inter
+  Hellas Verona            -  SSC Napoli
+  Juventus                 -  Calcio Como
+  Lazio Roma               -  Venezia FC
+  US Lecce                 -  Atalanta
+  AC Milan                 -  Torino FC
+  Parma Calcio 1913        -  ACF Fiorentina
+
+
+Matchday 2
+[Sun Aug/25]
+  Cagliari Calcio          -  Calcio Como
+  ACF Fiorentina           -  Venezia FC
+  Hellas Verona            -  Juventus
+  Inter                    -  US Lecce
+  AC Monza                 -  Genoa CFC
+  SSC Napoli               -  Bologna FC
+  Parma Calcio 1913        -  AC Milan
+  AS Roma                  -  Empoli FC
+  Torino FC                -  Atalanta
+  Udinese Calcio           -  Lazio Roma
+
+
+Matchday 3
+[Sun Sep/1]
+  Bologna FC               -  Empoli FC
+  ACF Fiorentina           -  AC Monza
+  Genoa CFC                -  Hellas Verona
+  Inter                    -  Atalanta
+  Juventus                 -  AS Roma
+  Lazio Roma               -  AC Milan
+  US Lecce                 -  Cagliari Calcio
+  SSC Napoli               -  Parma Calcio 1913
+  Udinese Calcio           -  Calcio Como
+  Venezia FC               -  Torino FC
+
+
+Matchday 4
+[Sun Sep/15]
+  Atalanta                 -  ACF Fiorentina
+  Cagliari Calcio          -  SSC Napoli
+  Calcio Como              -  Bologna FC
+  Empoli FC                -  Juventus
+  Genoa CFC                -  AS Roma
+  Lazio Roma               -  Hellas Verona
+  AC Milan                 -  Venezia FC
+  AC Monza                 -  Inter
+  Parma Calcio 1913        -  Udinese Calcio
+  Torino FC                -  US Lecce
+
+
+Matchday 5
+[Sun Sep/22]
+  Atalanta                 -  Calcio Como
+  Cagliari Calcio          -  Empoli FC
+  ACF Fiorentina           -  Lazio Roma
+  Hellas Verona            -  Torino FC
+  Inter                    -  AC Milan
+  Juventus                 -  SSC Napoli
+  US Lecce                 -  Parma Calcio 1913
+  AC Monza                 -  Bologna FC
+  AS Roma                  -  Udinese Calcio
+  Venezia FC               -  Genoa CFC
+
+
+Matchday 6
+[Sun Sep/29]
+  Bologna FC               -  Atalanta
+  Calcio Como              -  Hellas Verona
+  Empoli FC                -  ACF Fiorentina
+  Genoa CFC                -  Juventus
+  AC Milan                 -  US Lecce
+  SSC Napoli               -  AC Monza
+  Parma Calcio 1913        -  Cagliari Calcio
+  AS Roma                  -  Venezia FC
+  Torino FC                -  Lazio Roma
+  Udinese Calcio           -  Inter
+
+
+Matchday 7
+[Sun Oct/6]
+  Atalanta                 -  Genoa CFC
+  Bologna FC               -  Parma Calcio 1913
+  ACF Fiorentina           -  AC Milan
+  Hellas Verona            -  Venezia FC
+  Inter                    -  Torino FC
+  Juventus                 -  Cagliari Calcio
+  Lazio Roma               -  Empoli FC
+  AC Monza                 -  AS Roma
+  SSC Napoli               -  Calcio Como
+  Udinese Calcio           -  US Lecce
+
+
+Matchday 8
+[Sun Oct/20]
+  Cagliari Calcio          -  Torino FC
+  Calcio Como              -  Parma Calcio 1913
+  Empoli FC                -  SSC Napoli
+  Genoa CFC                -  Bologna FC
+  Hellas Verona            -  AC Monza
+  Juventus                 -  Lazio Roma
+  US Lecce                 -  ACF Fiorentina
+  AC Milan                 -  Udinese Calcio
+  AS Roma                  -  Inter
+  Venezia FC               -  Atalanta
+
+
+Matchday 9
+[Sun Oct/27]
+  Atalanta                 -  Hellas Verona
+  Bologna FC               -  AC Milan
+  ACF Fiorentina           -  AS Roma
+  Inter                    -  Juventus
+  Lazio Roma               -  Genoa CFC
+  AC Monza                 -  Venezia FC
+  SSC Napoli               -  US Lecce
+  Parma Calcio 1913        -  Empoli FC
+  Torino FC                -  Calcio Como
+  Udinese Calcio           -  Cagliari Calcio
+
+
+Matchday 10
+[Wed Oct/30]
+  Atalanta                 -  AC Monza
+  Cagliari Calcio          -  Bologna FC
+  Calcio Como              -  Lazio Roma
+  Empoli FC                -  Inter
+  Genoa CFC                -  ACF Fiorentina
+  Juventus                 -  Parma Calcio 1913
+  US Lecce                 -  Hellas Verona
+  AC Milan                 -  SSC Napoli
+  AS Roma                  -  Torino FC
+  Venezia FC               -  Udinese Calcio
+
+
+Matchday 11
+[Sun Nov/3]
+  Bologna FC               -  US Lecce
+  Empoli FC                -  Calcio Como
+  Hellas Verona            -  AS Roma
+  Inter                    -  Venezia FC
+  Lazio Roma               -  Cagliari Calcio
+  AC Monza                 -  AC Milan
+  SSC Napoli               -  Atalanta
+  Parma Calcio 1913        -  Genoa CFC
+  Torino FC                -  ACF Fiorentina
+  Udinese Calcio           -  Juventus
+
+
+Matchday 12
+[Sun Nov/10]
+  Atalanta                 -  Udinese Calcio
+  Cagliari Calcio          -  AC Milan
+  ACF Fiorentina           -  Hellas Verona
+  Genoa CFC                -  Calcio Como
+  Inter                    -  SSC Napoli
+  Juventus                 -  Torino FC
+  US Lecce                 -  Empoli FC
+  AC Monza                 -  Lazio Roma
+  AS Roma                  -  Bologna FC
+  Venezia FC               -  Parma Calcio 1913
+
+
+Matchday 13
+[Sun Nov/24]
+  Calcio Como              -  ACF Fiorentina
+  Empoli FC                -  Udinese Calcio
+  Genoa CFC                -  Cagliari Calcio
+  Hellas Verona            -  Inter
+  Lazio Roma               -  Bologna FC
+  AC Milan                 -  Juventus
+  SSC Napoli               -  AS Roma
+  Parma Calcio 1913        -  Atalanta
+  Torino FC                -  AC Monza
+  Venezia FC               -  US Lecce
+
+
+Matchday 14
+[Sun Dec/1]
+  Bologna FC               -  Venezia FC
+  Cagliari Calcio          -  Hellas Verona
+  Calcio Como              -  AC Monza
+  ACF Fiorentina           -  Inter
+  US Lecce                 -  Juventus
+  AC Milan                 -  Empoli FC
+  Parma Calcio 1913        -  Lazio Roma
+  AS Roma                  -  Atalanta
+  Torino FC                -  SSC Napoli
+  Udinese Calcio           -  Genoa CFC
+
+
+Matchday 15
+[Sun Dec/8]
+  Atalanta                 -  AC Milan
+  ACF Fiorentina           -  Cagliari Calcio
+  Genoa CFC                -  Torino FC
+  Hellas Verona            -  Empoli FC
+  Inter                    -  Parma Calcio 1913
+  Juventus                 -  Bologna FC
+  AC Monza                 -  Udinese Calcio
+  SSC Napoli               -  Lazio Roma
+  AS Roma                  -  US Lecce
+  Venezia FC               -  Calcio Como
+
+
+Matchday 16
+[Sun Dec/15]
+  Bologna FC               -  ACF Fiorentina
+  Cagliari Calcio          -  Atalanta
+  Calcio Como              -  AS Roma
+  Empoli FC                -  Torino FC
+  Juventus                 -  Venezia FC
+  Lazio Roma               -  Inter
+  US Lecce                 -  AC Monza
+  AC Milan                 -  Genoa CFC
+  Parma Calcio 1913        -  Hellas Verona
+  Udinese Calcio           -  SSC Napoli
+
+
+Matchday 17
+[Sun Dec/22]
+  Atalanta                 -  Empoli FC
+  ACF Fiorentina           -  Udinese Calcio
+  Genoa CFC                -  SSC Napoli
+  Hellas Verona            -  AC Milan
+  Inter                    -  Calcio Como
+  US Lecce                 -  Lazio Roma
+  AC Monza                 -  Juventus
+  AS Roma                  -  Parma Calcio 1913
+  Torino FC                -  Bologna FC
+  Venezia FC               -  Cagliari Calcio
+
+
+Matchday 18
+[Sun Dec/29]
+  Bologna FC               -  Hellas Verona
+  Cagliari Calcio          -  Inter
+  Calcio Como              -  US Lecce
+  Empoli FC                -  Genoa CFC
+  Juventus                 -  ACF Fiorentina
+  Lazio Roma               -  Atalanta
+  AC Milan                 -  AS Roma
+  SSC Napoli               -  Venezia FC
+  Parma Calcio 1913        -  AC Monza
+  Udinese Calcio           -  Torino FC
+
+
+Matchday 19
+[Sun Jan/5]
+  Atalanta                 -  Juventus
+  Calcio Como              -  AC Milan
+  ACF Fiorentina           -  SSC Napoli
+  Hellas Verona            -  Udinese Calcio
+  Inter                    -  Bologna FC
+  US Lecce                 -  Genoa CFC
+  AC Monza                 -  Cagliari Calcio
+  AS Roma                  -  Lazio Roma
+  Torino FC                -  Parma Calcio 1913
+  Venezia FC               -  Empoli FC
+
+
+Matchday 20
+[Sun Jan/12]
+  Bologna FC               -  AS Roma
+  Empoli FC                -  US Lecce
+  Genoa CFC                -  Parma Calcio 1913
+  Lazio Roma               -  Calcio Como
+  AC Milan                 -  Cagliari Calcio
+  AC Monza                 -  ACF Fiorentina
+  SSC Napoli               -  Hellas Verona
+  Torino FC                -  Juventus
+  Udinese Calcio           -  Atalanta
+  Venezia FC               -  Inter
+
+
+Matchday 21
+[Sun Jan/19]
+  Atalanta                 -  SSC Napoli
+  Bologna FC               -  AC Monza
+  Cagliari Calcio          -  US Lecce
+  Calcio Como              -  Udinese Calcio
+  ACF Fiorentina           -  Torino FC
+  Hellas Verona            -  Lazio Roma
+  Inter                    -  Empoli FC
+  Juventus                 -  AC Milan
+  Parma Calcio 1913        -  Venezia FC
+  AS Roma                  -  Genoa CFC
+
+
+Matchday 22
+[Sun Jan/26]
+  Calcio Como              -  Atalanta
+  Empoli FC                -  Bologna FC
+  Genoa CFC                -  AC Monza
+  Lazio Roma               -  ACF Fiorentina
+  US Lecce                 -  Inter
+  AC Milan                 -  Parma Calcio 1913
+  SSC Napoli               -  Juventus
+  Torino FC                -  Cagliari Calcio
+  Udinese Calcio           -  AS Roma
+  Venezia FC               -  Hellas Verona
+
+
+Matchday 23
+[Sun Feb/2]
+  Atalanta                 -  Torino FC
+  Bologna FC               -  Calcio Como
+  Cagliari Calcio          -  Lazio Roma
+  ACF Fiorentina           -  Genoa CFC
+  Juventus                 -  Empoli FC
+  AC Milan                 -  Inter
+  AC Monza                 -  Hellas Verona
+  Parma Calcio 1913        -  US Lecce
+  AS Roma                  -  SSC Napoli
+  Udinese Calcio           -  Venezia FC
+
+
+Matchday 24
+[Sun Feb/9]
+  Cagliari Calcio          -  Parma Calcio 1913
+  Calcio Como              -  Juventus
+  Empoli FC                -  AC Milan
+  Hellas Verona            -  Atalanta
+  Inter                    -  ACF Fiorentina
+  Lazio Roma               -  AC Monza
+  US Lecce                 -  Bologna FC
+  SSC Napoli               -  Udinese Calcio
+  Torino FC                -  Genoa CFC
+  Venezia FC               -  AS Roma
+
+
+Matchday 25
+[Sun Feb/16]
+  Atalanta                 -  Cagliari Calcio
+  Bologna FC               -  Torino FC
+  ACF Fiorentina           -  Calcio Como
+  Genoa CFC                -  Venezia FC
+  Juventus                 -  Inter
+  Lazio Roma               -  SSC Napoli
+  AC Milan                 -  Hellas Verona
+  AC Monza                 -  US Lecce
+  Parma Calcio 1913        -  AS Roma
+  Udinese Calcio           -  Empoli FC
+
+
+Matchday 26
+[Sun Feb/23]
+  Cagliari Calcio          -  Juventus
+  Calcio Como              -  SSC Napoli
+  Empoli FC                -  Atalanta
+  Hellas Verona            -  ACF Fiorentina
+  Inter                    -  Genoa CFC
+  US Lecce                 -  Udinese Calcio
+  Parma Calcio 1913        -  Bologna FC
+  AS Roma                  -  AC Monza
+  Torino FC                -  AC Milan
+  Venezia FC               -  Lazio Roma
+
+
+Matchday 27
+[Sun Mar/2]
+  Atalanta                 -  Venezia FC
+  Bologna FC               -  Cagliari Calcio
+  ACF Fiorentina           -  US Lecce
+  Genoa CFC                -  Empoli FC
+  Juventus                 -  Hellas Verona
+  AC Milan                 -  Lazio Roma
+  AC Monza                 -  Torino FC
+  SSC Napoli               -  Inter
+  AS Roma                  -  Calcio Como
+  Udinese Calcio           -  Parma Calcio 1913
+
+
+Matchday 28
+[Sun Mar/9]
+  Cagliari Calcio          -  Genoa CFC
+  Calcio Como              -  Venezia FC
+  Empoli FC                -  AS Roma
+  Hellas Verona            -  Bologna FC
+  Inter                    -  AC Monza
+  Juventus                 -  Atalanta
+  Lazio Roma               -  Udinese Calcio
+  US Lecce                 -  AC Milan
+  SSC Napoli               -  ACF Fiorentina
+  Parma Calcio 1913        -  Torino FC
+
+
+Matchday 29
+[Sun Mar/16]
+  Atalanta                 -  Inter
+  Bologna FC               -  Lazio Roma
+  ACF Fiorentina           -  Juventus
+  Genoa CFC                -  US Lecce
+  AC Milan                 -  Calcio Como
+  AC Monza                 -  Parma Calcio 1913
+  AS Roma                  -  Cagliari Calcio
+  Torino FC                -  Empoli FC
+  Udinese Calcio           -  Hellas Verona
+  Venezia FC               -  SSC Napoli
+
+
+Matchday 30
+[Sun Mar/30]
+  Cagliari Calcio          -  AC Monza
+  Calcio Como              -  Empoli FC
+  ACF Fiorentina           -  Atalanta
+  Hellas Verona            -  Parma Calcio 1913
+  Inter                    -  Udinese Calcio
+  Juventus                 -  Genoa CFC
+  Lazio Roma               -  Torino FC
+  US Lecce                 -  AS Roma
+  SSC Napoli               -  AC Milan
+  Venezia FC               -  Bologna FC
+
+
+Matchday 31
+[Sun Apr/6]
+  Atalanta                 -  Lazio Roma
+  Bologna FC               -  SSC Napoli
+  Empoli FC                -  Cagliari Calcio
+  Genoa CFC                -  Udinese Calcio
+  US Lecce                 -  Venezia FC
+  AC Milan                 -  ACF Fiorentina
+  AC Monza                 -  Calcio Como
+  Parma Calcio 1913        -  Inter
+  AS Roma                  -  Juventus
+  Torino FC                -  Hellas Verona
+
+
+Matchday 32
+[Sun Apr/13]
+  Atalanta                 -  Bologna FC
+  Calcio Como              -  Torino FC
+  ACF Fiorentina           -  Parma Calcio 1913
+  Hellas Verona            -  Genoa CFC
+  Inter                    -  Cagliari Calcio
+  Juventus                 -  US Lecce
+  Lazio Roma               -  AS Roma
+  SSC Napoli               -  Empoli FC
+  Udinese Calcio           -  AC Milan
+  Venezia FC               -  AC Monza
+
+
+Matchday 33
+[Sun Apr/20]
+  Bologna FC               -  Inter
+  Cagliari Calcio          -  ACF Fiorentina
+  Empoli FC                -  Venezia FC
+  Genoa CFC                -  Lazio Roma
+  US Lecce                 -  Calcio Como
+  AC Milan                 -  Atalanta
+  AC Monza                 -  SSC Napoli
+  Parma Calcio 1913        -  Juventus
+  AS Roma                  -  Hellas Verona
+  Torino FC                -  Udinese Calcio
+
+
+Matchday 34
+[Sun Apr/27]
+  Atalanta                 -  US Lecce
+  Calcio Como              -  Genoa CFC
+  ACF Fiorentina           -  Empoli FC
+  Hellas Verona            -  Cagliari Calcio
+  Inter                    -  AS Roma
+  Juventus                 -  AC Monza
+  Lazio Roma               -  Parma Calcio 1913
+  SSC Napoli               -  Torino FC
+  Udinese Calcio           -  Bologna FC
+  Venezia FC               -  AC Milan
+
+
+Matchday 35
+[Sun May/4]
+  Bologna FC               -  Juventus
+  Cagliari Calcio          -  Udinese Calcio
+  Empoli FC                -  Lazio Roma
+  Genoa CFC                -  AC Milan
+  Inter                    -  Hellas Verona
+  US Lecce                 -  SSC Napoli
+  AC Monza                 -  Atalanta
+  Parma Calcio 1913        -  Calcio Como
+  AS Roma                  -  ACF Fiorentina
+  Torino FC                -  Venezia FC
+
+
+Matchday 36
+[Sun May/11]
+  Atalanta                 -  AS Roma
+  Calcio Como              -  Cagliari Calcio
+  Empoli FC                -  Parma Calcio 1913
+  Hellas Verona            -  US Lecce
+  Lazio Roma               -  Juventus
+  AC Milan                 -  Bologna FC
+  SSC Napoli               -  Genoa CFC
+  Torino FC                -  Inter
+  Udinese Calcio           -  AC Monza
+  Venezia FC               -  ACF Fiorentina
+
+
+Matchday 37
+[Sun May/18]
+  Cagliari Calcio          -  Venezia FC
+  ACF Fiorentina           -  Bologna FC
+  Genoa CFC                -  Atalanta
+  Hellas Verona            -  Calcio Como
+  Inter                    -  Lazio Roma
+  Juventus                 -  Udinese Calcio
+  US Lecce                 -  Torino FC
+  AC Monza                 -  Empoli FC
+  Parma Calcio 1913        -  SSC Napoli
+  AS Roma                  -  AC Milan
+
+
+Matchday 38
+[Sun May/25]
+  Atalanta                 -  Parma Calcio 1913
+  Bologna FC               -  Genoa CFC
+  Calcio Como              -  Inter
+  Empoli FC                -  Hellas Verona
+  Lazio Roma               -  US Lecce
+  AC Milan                 -  AC Monza
+  SSC Napoli               -  Cagliari Calcio
+  Torino FC                -  AS Roma
+  Udinese Calcio           -  ACF Fiorentina
+  Venezia FC               -  Juventus

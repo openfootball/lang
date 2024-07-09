@@ -1,0 +1,469 @@
+= Netherlands Eredivisie 2024/25
+
+# 306 match(es), 18 team(s), 34 round(s)
+
+
+
+Matchday 1
+[Fri Aug/9]
+  20.00  FC Groningen             -  NAC Breda
+[Sat Aug/10]
+  16.30  Feyenoord                -  Willem II
+  18.45  NEC Nijmegen             -  FC Twente
+  20.00  Almere City FC           -  AZ Alkmaar
+  21.00  PSV Eindhoven            -  RKC Waalwijk
+[Sun Aug/11]
+  12.15  Sparta Rotterdam         -  Heracles Almelo
+  14.30  FC Utrecht               -  PEC Zwolle
+         Go Ahead Eagles          -  Fortuna Sittard
+  16.45  AFC Ajax                 -  sc Heerenveen
+
+
+Matchday 2
+[Fri Aug/16]
+  20.00  Fortuna Sittard          -  Almere City FC
+[Sat Aug/17]
+  16.30  sc Heerenveen            -  FC Utrecht
+  18.45  FC Twente                -  Sparta Rotterdam
+  20.00  AZ Alkmaar               -  NEC Nijmegen
+  21.00  RKC Waalwijk             -  FC Groningen
+[Sun Aug/18]
+  12.15  Heracles Almelo          -  PSV Eindhoven
+  14.30  PEC Zwolle               -  Feyenoord
+         Willem II                -  Go Ahead Eagles
+  16.45  NAC Breda                -  AFC Ajax
+
+
+Matchday 3
+[Sat Aug/24]
+  18.45  NEC Nijmegen             -  PEC Zwolle
+  20.00  Almere City FC           -  PSV Eindhoven
+  21.00  NAC Breda                -  FC Utrecht
+[Sun Aug/25]
+  12.15  FC Groningen             -  AZ Alkmaar
+  14.30  Heracles Almelo          -  Willem II
+         Sparta Rotterdam         -  Feyenoord
+  16.45  Go Ahead Eagles          -  RKC Waalwijk
+  17.00  AFC Ajax                 -  Fortuna Sittard
+         FC Twente                -  sc Heerenveen
+
+
+Matchday 4
+[Fri Aug/30]
+  20.00  RKC Waalwijk             -  AZ Alkmaar
+[Sat Aug/31]
+  16.30  Almere City FC           -  FC Groningen
+  18.45  Fortuna Sittard          -  NEC Nijmegen
+  20.00  sc Heerenveen            -  NAC Breda
+  21.00  Willem II                -  Sparta Rotterdam
+[Sun Sep/1]
+  12.15  FC Utrecht               -  FC Twente
+  14.30  Feyenoord                -  AFC Ajax
+         PEC Zwolle               -  Heracles Almelo
+  16.45  PSV Eindhoven            -  Go Ahead Eagles
+
+
+Matchday 5
+[Sat Sep/14]
+  16.30  FC Twente                -  PEC Zwolle
+  18.45  FC Groningen             -  Feyenoord
+         NAC Breda                -  Fortuna Sittard
+  21.00  AZ Alkmaar               -  sc Heerenveen
+         PSV Eindhoven            -  NEC Nijmegen
+[Sun Sep/15]
+  12.15  Sparta Rotterdam         -  Go Ahead Eagles
+  14.30  AFC Ajax                 -  FC Utrecht
+         Willem II                -  RKC Waalwijk
+  16.45  Heracles Almelo          -  Almere City FC
+
+
+Matchday 6
+[Fri Sep/20]
+  20.00  PEC Zwolle               -  AZ Alkmaar
+[Sat Sep/21]
+  16.30  FC Utrecht               -  Willem II
+  18.45  RKC Waalwijk             -  Sparta Rotterdam
+  20.00  Go Ahead Eagles          -  AFC Ajax
+  21.00  NEC Nijmegen             -  Heracles Almelo
+[Sun Sep/22]
+  12.15  sc Heerenveen            -  FC Groningen
+  14.30  Almere City FC           -  FC Twente
+         Feyenoord                -  NAC Breda
+  16.45  Fortuna Sittard          -  PSV Eindhoven
+
+
+Matchday 7
+[Fri Sep/27]
+  20.00  Heracles Almelo          -  sc Heerenveen
+[Sat Sep/28]
+  16.30  FC Twente                -  NAC Breda
+  18.45  NEC Nijmegen             -  Feyenoord
+  20.00  Sparta Rotterdam         -  Fortuna Sittard
+  21.00  Willem II                -  PSV Eindhoven
+[Sun Sep/29]
+  12.15  PEC Zwolle               -  Almere City FC
+  14.30  FC Groningen             -  Go Ahead Eagles
+         RKC Waalwijk             -  AFC Ajax
+  16.45  AZ Alkmaar               -  FC Utrecht
+
+
+Matchday 8
+[Fri Oct/4]
+  20.00  Almere City FC           -  Willem II
+[Sat Oct/5]
+  18.45  sc Heerenveen            -  PEC Zwolle
+  20.00  NAC Breda                -  NEC Nijmegen
+         PSV Eindhoven            -  Sparta Rotterdam
+  21.00  FC Utrecht               -  RKC Waalwijk
+[Sun Oct/6]
+  12.15  Feyenoord                -  FC Twente
+  14.30  AFC Ajax                 -  FC Groningen
+         Go Ahead Eagles          -  Heracles Almelo
+  16.45  Fortuna Sittard          -  AZ Alkmaar
+
+
+Matchday 9
+[Sat Oct/19]
+  16.30  Sparta Rotterdam         -  Almere City FC
+  18.45  AZ Alkmaar               -  PSV Eindhoven
+  20.00  NEC Nijmegen             -  sc Heerenveen
+         RKC Waalwijk             -  FC Twente
+  21.00  Go Ahead Eagles          -  Feyenoord
+[Sun Oct/20]
+  12.15  Willem II                -  Fortuna Sittard
+  14.30  FC Groningen             -  FC Utrecht
+         Heracles Almelo          -  AFC Ajax
+  16.45  PEC Zwolle               -  NAC Breda
+
+
+Matchday 10
+[Fri Oct/25]
+  20.00  Almere City FC           -  NEC Nijmegen
+[Sat Oct/26]
+  16.30  Fortuna Sittard          -  FC Groningen
+  18.45  NAC Breda                -  RKC Waalwijk
+  20.00  PSV Eindhoven            -  PEC Zwolle
+  21.00  sc Heerenveen            -  Sparta Rotterdam
+[Sun Oct/27]
+  12.15  FC Utrecht               -  Feyenoord
+  14.30  AZ Alkmaar               -  Go Ahead Eagles
+         FC Twente                -  Heracles Almelo
+  16.45  AFC Ajax                 -  Willem II
+
+
+Matchday 11
+[Sat Nov/2]
+  16.30  Feyenoord                -  AZ Alkmaar
+  18.45  Heracles Almelo          -  NAC Breda
+         Willem II                -  FC Twente
+  20.00  AFC Ajax                 -  PSV Eindhoven
+  21.00  Fortuna Sittard          -  sc Heerenveen
+[Sun Nov/3]
+  12.15  Go Ahead Eagles          -  PEC Zwolle
+  14.30  NEC Nijmegen             -  FC Groningen
+         Sparta Rotterdam         -  FC Utrecht
+  16.45  RKC Waalwijk             -  Almere City FC
+
+
+Matchday 12
+[Fri Nov/8]
+  20.00  FC Utrecht               -  Heracles Almelo
+[Sat Nov/9]
+  16.30  FC Groningen             -  Sparta Rotterdam
+  18.45  PEC Zwolle               -  Fortuna Sittard
+  20.00  NAC Breda                -  PSV Eindhoven
+  21.00  RKC Waalwijk             -  NEC Nijmegen
+[Sun Nov/10]
+  12.15  Almere City FC           -  Feyenoord
+  14.30  sc Heerenveen            -  Go Ahead Eagles
+         FC Twente                -  AFC Ajax
+  16.45  AZ Alkmaar               -  Willem II
+
+
+Matchday 13
+[Sat Nov/23]
+  16.30  PSV Eindhoven            -  FC Groningen
+  18.45  Go Ahead Eagles          -  Almere City FC
+  20.00  Feyenoord                -  sc Heerenveen
+         Heracles Almelo          -  RKC Waalwijk
+  21.00  Fortuna Sittard          -  FC Twente
+[Sun Nov/24]
+  12.15  NEC Nijmegen             -  FC Utrecht
+  14.30  Sparta Rotterdam         -  AZ Alkmaar
+         Willem II                -  NAC Breda
+  16.45  AFC Ajax                 -  PEC Zwolle
+
+
+Matchday 14
+[Fri Nov/29]
+  20.00  sc Heerenveen            -  RKC Waalwijk
+[Sat Nov/30]
+  16.30  NAC Breda                -  Almere City FC
+  18.45  FC Groningen             -  Willem II
+  20.00  Feyenoord                -  Fortuna Sittard
+  21.00  PEC Zwolle               -  Sparta Rotterdam
+[Sun Dec/1]
+  12.15  FC Utrecht               -  PSV Eindhoven
+  14.30  AZ Alkmaar               -  Heracles Almelo
+         FC Twente                -  Go Ahead Eagles
+  16.45  NEC Nijmegen             -  AFC Ajax
+
+
+Matchday 15
+[Sun Dec/8]
+  Almere City FC           -  FC Utrecht
+  AZ Alkmaar               -  AFC Ajax
+  FC Groningen             -  PEC Zwolle
+  Go Ahead Eagles          -  NEC Nijmegen
+  Heracles Almelo          -  Fortuna Sittard
+  PSV Eindhoven            -  FC Twente
+  RKC Waalwijk             -  Feyenoord
+  Sparta Rotterdam         -  NAC Breda
+  Willem II                -  sc Heerenveen
+
+
+Matchday 16
+[Sun Dec/15]
+  AFC Ajax                 -  Almere City FC
+  FC Utrecht               -  Go Ahead Eagles
+  Feyenoord                -  Heracles Almelo
+  Fortuna Sittard          -  RKC Waalwijk
+  NAC Breda                -  AZ Alkmaar
+  NEC Nijmegen             -  Sparta Rotterdam
+  PEC Zwolle               -  Willem II
+  sc Heerenveen            -  PSV Eindhoven
+  FC Twente                -  FC Groningen
+
+
+Matchday 17
+[Sun Dec/22]
+  Almere City FC           -  sc Heerenveen
+  AZ Alkmaar               -  FC Twente
+  FC Utrecht               -  Fortuna Sittard
+  Go Ahead Eagles          -  NAC Breda
+  Heracles Almelo          -  FC Groningen
+  PSV Eindhoven            -  Feyenoord
+  RKC Waalwijk             -  PEC Zwolle
+  Sparta Rotterdam         -  AFC Ajax
+  Willem II                -  NEC Nijmegen
+
+
+Matchday 18
+[Sun Jan/12]
+  AFC Ajax                 -  RKC Waalwijk
+  FC Groningen             -  Almere City FC
+  Feyenoord                -  FC Utrecht
+  Fortuna Sittard          -  Go Ahead Eagles
+  Heracles Almelo          -  Sparta Rotterdam
+  NAC Breda                -  sc Heerenveen
+  PEC Zwolle               -  NEC Nijmegen
+  PSV Eindhoven            -  AZ Alkmaar
+  FC Twente                -  Willem II
+
+
+Matchday 19
+[Sun Jan/19]
+  Almere City FC           -  Heracles Almelo
+  FC Utrecht               -  AZ Alkmaar
+  Go Ahead Eagles          -  FC Groningen
+  NAC Breda                -  FC Twente
+  NEC Nijmegen             -  Fortuna Sittard
+  PEC Zwolle               -  PSV Eindhoven
+  sc Heerenveen            -  AFC Ajax
+  Sparta Rotterdam         -  RKC Waalwijk
+  Willem II                -  Feyenoord
+
+
+Matchday 20
+[Sun Jan/26]
+  AFC Ajax                 -  Go Ahead Eagles
+  AZ Alkmaar               -  Sparta Rotterdam
+  FC Groningen             -  sc Heerenveen
+  Feyenoord                -  Almere City FC
+  Fortuna Sittard          -  PEC Zwolle
+  Heracles Almelo          -  FC Utrecht
+  PSV Eindhoven            -  NAC Breda
+  RKC Waalwijk             -  Willem II
+  FC Twente                -  NEC Nijmegen
+
+
+Matchday 21
+[Sun Feb/2]
+  AFC Ajax                 -  Feyenoord
+  Almere City FC           -  RKC Waalwijk
+  Go Ahead Eagles          -  FC Twente
+  NAC Breda                -  Heracles Almelo
+  NEC Nijmegen             -  PSV Eindhoven
+  PEC Zwolle               -  FC Utrecht
+  sc Heerenveen            -  Fortuna Sittard
+  Sparta Rotterdam         -  FC Groningen
+  Willem II                -  AZ Alkmaar
+
+
+Matchday 22
+[Sun Feb/9]
+  AZ Alkmaar               -  PEC Zwolle
+  FC Groningen             -  NEC Nijmegen
+  FC Utrecht               -  Almere City FC
+  Feyenoord                -  Sparta Rotterdam
+  Fortuna Sittard          -  AFC Ajax
+  Heracles Almelo          -  Go Ahead Eagles
+  PSV Eindhoven            -  Willem II
+  RKC Waalwijk             -  NAC Breda
+  sc Heerenveen            -  FC Twente
+
+
+Matchday 23
+[Sun Feb/16]
+  AFC Ajax                 -  Heracles Almelo
+  AZ Alkmaar               -  Fortuna Sittard
+  Go Ahead Eagles          -  Sparta Rotterdam
+  NAC Breda                -  Feyenoord
+  NEC Nijmegen             -  Almere City FC
+  PEC Zwolle               -  sc Heerenveen
+  PSV Eindhoven            -  FC Utrecht
+  FC Twente                -  RKC Waalwijk
+  Willem II                -  FC Groningen
+
+
+Matchday 24
+[Sun Mar/2]
+  Almere City FC           -  AFC Ajax
+  FC Groningen             -  FC Twente
+  FC Utrecht               -  NAC Breda
+  Feyenoord                -  NEC Nijmegen
+  Go Ahead Eagles          -  PSV Eindhoven
+  Heracles Almelo          -  PEC Zwolle
+  RKC Waalwijk             -  Fortuna Sittard
+  sc Heerenveen            -  AZ Alkmaar
+  Sparta Rotterdam         -  Willem II
+
+
+Matchday 25
+[Sun Mar/9]
+  AZ Alkmaar               -  RKC Waalwijk
+  Feyenoord                -  FC Groningen
+  Fortuna Sittard          -  Heracles Almelo
+  NAC Breda                -  Sparta Rotterdam
+  NEC Nijmegen             -  Go Ahead Eagles
+  PEC Zwolle               -  AFC Ajax
+  PSV Eindhoven            -  sc Heerenveen
+  FC Twente                -  Almere City FC
+  Willem II                -  FC Utrecht
+
+
+Matchday 26
+[Sun Mar/16]
+  AFC Ajax                 -  AZ Alkmaar
+  Almere City FC           -  NAC Breda
+  FC Groningen             -  Fortuna Sittard
+  FC Utrecht               -  NEC Nijmegen
+  Go Ahead Eagles          -  Willem II
+  RKC Waalwijk             -  PSV Eindhoven
+  sc Heerenveen            -  Heracles Almelo
+  Sparta Rotterdam         -  PEC Zwolle
+  FC Twente                -  Feyenoord
+
+
+Matchday 27
+[Sun Mar/30]
+  FC Utrecht               -  sc Heerenveen
+  Feyenoord                -  Go Ahead Eagles
+  Fortuna Sittard          -  Sparta Rotterdam
+  Heracles Almelo          -  FC Twente
+  NAC Breda                -  FC Groningen
+  NEC Nijmegen             -  AZ Alkmaar
+  PEC Zwolle               -  RKC Waalwijk
+  PSV Eindhoven            -  AFC Ajax
+  Willem II                -  Almere City FC
+
+
+Matchday 28
+[Sun Apr/6]
+  AFC Ajax                 -  NAC Breda
+  Almere City FC           -  PEC Zwolle
+  AZ Alkmaar               -  Feyenoord
+  FC Groningen             -  PSV Eindhoven
+  Go Ahead Eagles          -  FC Utrecht
+  RKC Waalwijk             -  Heracles Almelo
+  sc Heerenveen            -  Willem II
+  Sparta Rotterdam         -  NEC Nijmegen
+  FC Twente                -  Fortuna Sittard
+
+
+Matchday 29
+[Sun Apr/13]
+  FC Utrecht               -  FC Groningen
+  Fortuna Sittard          -  Feyenoord
+  Heracles Almelo          -  AZ Alkmaar
+  NAC Breda                -  Go Ahead Eagles
+  NEC Nijmegen             -  RKC Waalwijk
+  PEC Zwolle               -  FC Twente
+  PSV Eindhoven            -  Almere City FC
+  Sparta Rotterdam         -  sc Heerenveen
+  Willem II                -  AFC Ajax
+
+
+Matchday 30
+[Sun Apr/27]
+  AFC Ajax                 -  Sparta Rotterdam
+  Almere City FC           -  Go Ahead Eagles
+  AZ Alkmaar               -  NAC Breda
+  FC Groningen             -  Heracles Almelo
+  Feyenoord                -  PEC Zwolle
+  Fortuna Sittard          -  Willem II
+  RKC Waalwijk             -  FC Utrecht
+  sc Heerenveen            -  NEC Nijmegen
+  FC Twente                -  PSV Eindhoven
+
+
+Matchday 31
+[Sun May/4]
+  FC Groningen             -  RKC Waalwijk
+  FC Utrecht               -  AFC Ajax
+  Go Ahead Eagles          -  AZ Alkmaar
+  Heracles Almelo          -  Feyenoord
+  NAC Breda                -  PEC Zwolle
+  NEC Nijmegen             -  Willem II
+  PSV Eindhoven            -  Fortuna Sittard
+  sc Heerenveen            -  Almere City FC
+  Sparta Rotterdam         -  FC Twente
+
+
+Matchday 32
+[Sun May/11]
+  AFC Ajax                 -  NEC Nijmegen
+  Almere City FC           -  Sparta Rotterdam
+  AZ Alkmaar               -  FC Groningen
+  Feyenoord                -  PSV Eindhoven
+  Fortuna Sittard          -  NAC Breda
+  PEC Zwolle               -  Go Ahead Eagles
+  RKC Waalwijk             -  sc Heerenveen
+  FC Twente                -  FC Utrecht
+  Willem II                -  Heracles Almelo
+
+
+Matchday 33
+[Wed May/14]
+  Almere City FC           -  Fortuna Sittard
+  FC Groningen             -  AFC Ajax
+  FC Utrecht               -  Sparta Rotterdam
+  Feyenoord                -  RKC Waalwijk
+  Go Ahead Eagles          -  sc Heerenveen
+  NEC Nijmegen             -  NAC Breda
+  PSV Eindhoven            -  Heracles Almelo
+  FC Twente                -  AZ Alkmaar
+  Willem II                -  PEC Zwolle
+
+
+Matchday 34
+[Sun May/18]
+  AFC Ajax                 -  FC Twente
+  AZ Alkmaar               -  Almere City FC
+  Fortuna Sittard          -  FC Utrecht
+  Heracles Almelo          -  NEC Nijmegen
+  NAC Breda                -  Willem II
+  PEC Zwolle               -  FC Groningen
+  RKC Waalwijk             -  Go Ahead Eagles
+  sc Heerenveen            -  Feyenoord
+  Sparta Rotterdam         -  PSV Eindhoven

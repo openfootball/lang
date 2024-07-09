@@ -1,0 +1,174 @@
+= Mexico Copa MX 2018/19, Clausura
+
+# 69 match(es), 27 team(s), 13 round(s)
+
+
+
+Gruppe 1
+[Tue Jan/8]
+  19.00  Atlante                  1-2 (1-2)  CF Pachuca
+[Tue Jan/15]
+  21.06  Club Tijuana             1-1 (1-1)  Atlante
+[Wed Jan/23]
+  21.00  CF Pachuca               2-1 (2-0)  Club Tijuana
+[Tue Jan/29]
+  19.00  CF Pachuca               0-1 (0-0)  Atlante
+[Wed Feb/6]
+  19.00  Atlante                  0-1 (0-0)  Club Tijuana
+[Tue Feb/19]
+  21.06  Club Tijuana             2-1 (1-1)  CF Pachuca
+
+
+Gruppe 2
+[Wed Jan/9]
+  19.00  TM Fútbol Club           3-2 (1-0)  Puebla FC
+[Tue Jan/15]
+  19.00  FC Juárez                3-0 (0-0)  TM Fútbol Club
+[Tue Jan/22]
+  19.00  Puebla FC                1-2 (1-0)  FC Juárez
+[Tue Jan/29]
+  19.00  TM Fútbol Club           0-1 (0-1)  FC Juárez
+[Tue Feb/5]
+  19.00  Puebla FC                3-2 (2-1)  TM Fútbol Club
+[Wed Feb/20]
+  19.00  FC Juárez                1-1 (1-0)  Puebla FC
+
+
+Gruppe 3
+[Wed Jan/16]
+  19.00  Gallos Blancos           1-3 (0-1)  Dorados de Sinaloa
+[Wed Jan/23]
+  19.00  Atlético Zacatepec       0-4 (0-1)  Gallos Blancos
+[Wed Jan/30]
+  21.00  Atlético Zacatepec       1-0 (0-0)  Dorados de Sinaloa
+[Wed Feb/6]
+  19.00  Gallos Blancos           2-3 (2-1)  Atlético Zacatepec
+[Tue Feb/12]
+  21.00  Dorados de Sinaloa       3-0 (0-0)  Atlético Zacatepec
+[Wed Feb/20]
+  21.00  Dorados de Sinaloa       1-1 (1-1)  Gallos Blancos
+
+
+Gruppe 4
+[Wed Jan/9]
+  21.00  Atlético San Luis        0-2 (0-2)  Club Necaxa
+[Tue Jan/15]
+  19.00  Club Necaxa              1-2 (1-0)  CF América
+[Wed Jan/23]
+  21.00  CF América               1-0 (0-0)  Atlético San Luis
+[Wed Jan/30]
+  21.00  Atlético San Luis        2-0 (1-0)  CF América
+[Tue Feb/5]
+  21.00  CF América               3-1 (1-0)  Club Necaxa
+[Tue Feb/19]
+  19.00  Club Necaxa              2-3 (0-2)  Atlético San Luis
+
+
+Gruppe 5
+[Wed Jan/9]
+  19.00  Club León                0-1 (0-0)  Alebrijes de Oaxaca
+[Wed Jan/16]
+  19.00  Cruz Azul                2-3 (1-2)  Club León
+[Wed Jan/23]
+  19.00  Alebrijes de Oaxaca      1-2 (1-0)  Cruz Azul
+[Wed Jan/30]
+  19.00  Alebrijes de Oaxaca      1-1 (0-1)  Club León
+[Wed Feb/6]
+  19.00  Club León                1-1 (1-1)  Cruz Azul
+[Tue Feb/19]
+  21.00  Cruz Azul                0-1 (0-0)  Alebrijes de Oaxaca
+
+
+Gruppe 6
+[Tue Jan/8]
+  19.00  Potros UAEM              1-2 (0-1)  Monarcas Morelia
+[Wed Jan/16]
+  21.00  Correcaminos UAT         2-1 (0-0)  Potros UAEM
+[Wed Jan/23]
+  21.00  Monarcas Morelia         3-1 (2-1)  Correcaminos UAT
+[Tue Jan/29]
+  21.00  Potros UAEM              2-2 (1-0)  Correcaminos UAT
+[Tue Feb/5]
+  21.00  Monarcas Morelia         2-1 (2-0)  Potros UAEM
+[Tue Feb/19]
+  19.00  Correcaminos UAT         0-1 (0-0)  Monarcas Morelia
+
+
+Gruppe 7
+[Tue Jan/8]
+  21.00  Lobos BUAP               0-1 (0-0)  Mineros de Zacatecas
+[Tue Jan/15]
+  21.00  Mineros de Zacatecas     2-0 (1-0)  CD Veracruz
+[Tue Jan/22]
+  21.00  CD Veracruz              2-0 (2-0)  Lobos BUAP
+[Wed Jan/30]
+  19.00  Lobos BUAP               0-0  CD Veracruz
+[Wed Feb/6]
+  21.00  Mineros de Zacatecas     0-0  Lobos BUAP
+[Tue Feb/19]
+  21.00  CD Veracruz              2-0 (1-0)  Mineros de Zacatecas
+
+
+Gruppe 8
+[Tue Jan/8]
+  21.00  Cimarrones de Sonora     1-2 (0-2)  Deportivo Guadalajara
+[Tue Jan/15]
+  21.00  Deportivo Guadalajara    3-0 (2-0)  Cafetaleros de Tapachula
+[Tue Jan/22]
+  19.00  Cafetaleros de Tapachula  1-0 (0-0)  Cimarrones de Sonora
+[Tue Jan/29]
+  19.00  Deportivo Guadalajara    1-1 (0-0)  Cimarrones de Sonora
+[Wed Feb/6]
+  21.00  Cimarrones de Sonora     1-0 (1-0)  Cafetaleros de Tapachula
+[Wed Feb/20]
+  19.00  Cafetaleros de Tapachula  1-1 (1-0)  Deportivo Guadalajara
+
+
+Gruppe 9
+[Tue Jan/8]
+  19.00  Pumas UNAM               0-1 (0-0)  Atlas Guadalajara
+[Wed Jan/16]
+  21.00  Leones Negros            0-2 (0-1)  Pumas UNAM
+[Tue Jan/22]
+  21.00  Atlas Guadalajara        1-2 (0-1)  Leones Negros
+[Tue Jan/29]
+  21.00  Atlas Guadalajara        1-2 (0-0)  Pumas UNAM
+[Tue Feb/5]
+  19.00  Leones Negros            2-4 (2-2)  Atlas Guadalajara
+[Wed Feb/20]
+  21.00  Pumas UNAM               2-1 (1-0)  Leones Negros
+
+
+Round of 16
+[Tue Feb/26]
+  19.00  Monarcas Morelia         3-0 pen. (1-1, 0-0)  Puebla FC
+  21.15  CF América               5-2 (1-2)  CF Pachuca
+         Dorados de Sinaloa       4-2 pen. (0-0)  Atlas Guadalajara
+         Club Tijuana             4-3 pen. (1-1, 1-1)  Alebrijes de Oaxaca
+[Wed Feb/27]
+  19.00  Pumas UNAM               3-0 (2-0)  Atlético Zacatepec
+         CD Veracruz              2-1 (0-1)  Mineros de Zacatecas
+  21.15  FC Juárez                4-2 pen. (0-0)  Club León
+         Deportivo Guadalajara    2-1 (0-1)  Atlético San Luis
+
+
+Quarterfinals
+[Tue Mar/12]
+  19.00  Pumas UNAM               3-0 (1-0)  Dorados de Sinaloa
+  21.05  Monarcas Morelia         0-1 (0-0)  Club Tijuana
+[Wed Mar/13]
+  20.55  CF América               2-0 (0-0)  Deportivo Guadalajara
+[Thu Mar/14]
+  19.00  FC Juárez                3-1 pen. (2-2, 2-1)  CD Veracruz
+
+
+Semifinals
+[Tue Apr/2]
+  21.15  CF América               4-0 (2-0)  Club Tijuana
+[Wed Apr/3]
+  22.00  FC Juárez                2-0 (0-0)  Pumas UNAM
+
+
+Final
+[Wed Apr/10]
+  21.00  FC Juárez                0-1 (0-1)  CF América

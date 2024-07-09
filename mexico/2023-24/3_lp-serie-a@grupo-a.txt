@@ -1,0 +1,525 @@
+= Mexico LP - Serie A 2023/24, Grupo A
+
+# 306 match(es), 18 team(s), 34 round(s)
+
+
+
+Matchday 1
+[Fri Aug/11]
+  11.00  Correcaminos UAT II      -  Chihuahua FC             [cancelled]
+  19.00  Tecos Fútbol Club        2-1 (1-0)  CF Reynosa
+[Sat Aug/12]
+  12.00  Leones Negros II         1-0 (1-0)  Club Calor
+  18.00  Mineros de Fresnillo FC  1-1 (0-1)  Saltillo FC
+         Tritones Vallarta        2-0 (1-0)  Real Apodaca
+         Colima FC                2-1 (2-1)  Coras de Nayarit
+         Tuzos de la UAZ          3-0 (1-0)  Gavilanes de Matamoros
+  21.00  Mexicali FC              0-1  Cimarrones de Sonora II  [awarded]
+         Los Cabos United         0-0  Alacranes de Durango
+
+
+Matchday 2
+[Fri Aug/18]
+  20.00  Coras de Nayarit         0-2 (0-2)  Tritones Vallarta
+         Cimarrones de Sonora II  0-1 (0-0)  Los Cabos United
+  20.45  CF Reynosa               0-0  Colima FC
+  21.00  Alacranes de Durango     0-0  Tuzos de la UAZ
+         Club Calor               1-1 (1-1)  Mineros de Fresnillo FC
+         Chihuahua FC             -  Tecos Fútbol Club        [cancelled]
+[Sat Aug/19]
+  17.30  Gavilanes de Matamoros   1-2 (0-2)  Correcaminos UAT II
+[Sun Aug/20]
+  18.00  Real Apodaca             2-2 (0-0)  Leones Negros II
+[Tue Nov/28]
+  18.00  Mexicali FC              1-0 (0-0)  Saltillo FC
+
+
+Matchday 3
+[Fri Aug/25]
+  19.00  Tecos Fútbol Club        2-3 (1-1)  Gavilanes de Matamoros
+[Sat Aug/26]
+  12.00  Leones Negros II         3-0 (1-0)  Coras de Nayarit
+  18.00  Mineros de Fresnillo FC  4-2 (2-0)  Real Apodaca
+         Tritones Vallarta        0-0  CF Reynosa
+         Colima FC                -  Chihuahua FC             [cancelled]
+         Tuzos de la UAZ          2-0 (1-0)  Correcaminos UAT II
+         Mexicali FC              2-0 (1-0)  Club Calor
+  21.00  Los Cabos United         1-0 (1-0)  Saltillo FC
+[Mon Aug/28]
+  21.00  Alacranes de Durango     2-0 (1-0)  Cimarrones de Sonora II
+
+
+Matchday 4
+[Fri Sep/1]
+  11.00  Correcaminos UAT II      2-1 (0-0)  Tecos Fútbol Club
+  19.45  CF Reynosa               2-0 (1-0)  Leones Negros II
+  20.00  Cimarrones de Sonora II  1-0 (0-0)  Tuzos de la UAZ
+         Saltillo FC              1-1 (0-0)  Alacranes de Durango
+  21.00  Club Calor               1-4 (1-2)  Los Cabos United
+         Chihuahua FC             -  Tritones Vallarta        [cancelled]
+[Sat Sep/2]
+  17.30  Gavilanes de Matamoros   3-0 (1-0)  Colima FC
+  20.00  Coras de Nayarit         2-0 (2-0)  Mineros de Fresnillo FC
+[Sun Sep/3]
+  18.00  Real Apodaca             1-1 (1-0)  Mexicali FC
+
+
+Matchday 5
+[Fri Sep/8]
+  20.00  Cimarrones de Sonora II  1-2 (0-0)  Saltillo FC
+  21.00  Alacranes de Durango     2-1 (1-0)  Club Calor
+[Sat Sep/9]
+  12.00  Leones Negros II         -  Chihuahua FC             [cancelled]
+  18.00  Mineros de Fresnillo FC  0-0  CF Reynosa
+         Tritones Vallarta        1-1 (1-1)  Gavilanes de Matamoros
+         Colima FC                2-4 (2-2)  Correcaminos UAT II
+         Tuzos de la UAZ          1-1 (1-0)  Tecos Fútbol Club
+         Mexicali FC              1-2 (0-1)  Coras de Nayarit
+  22.00  Los Cabos United         3-1 (2-1)  Real Apodaca
+
+
+Matchday 6
+[Fri Sep/15]
+  11.00  Correcaminos UAT II      2-0 (0-0)  Tritones Vallarta
+  19.00  Tecos Fútbol Club        2-0 (0-0)  Colima FC
+  20.00  Saltillo FC              2-1 (1-0)  Tuzos de la UAZ
+  21.00  Chihuahua FC             -  Mineros de Fresnillo FC  [cancelled]
+[Sat Sep/16]
+  13.00  Club Calor               1-0 (0-0)  Cimarrones de Sonora II
+  17.30  Gavilanes de Matamoros   3-0 (1-0)  Leones Negros II
+  20.00  Coras de Nayarit         0-2 (0-1)  Los Cabos United
+[Sun Sep/17]
+  18.00  Real Apodaca             0-2 (0-1)  Alacranes de Durango
+[Mon Sep/18]
+  21.00  CF Reynosa               1-0 (1-0)  Mexicali FC
+
+
+Matchday 7
+[Fri Sep/22]
+  19.00  Cimarrones de Sonora II  3-0 (1-0)  Real Apodaca
+  20.00  Saltillo FC              1-0 (0-0)  Club Calor
+  21.00  Alacranes de Durango     1-0 (0-0)  Coras de Nayarit
+[Sat Sep/23]
+  12.00  Leones Negros II         2-1 (1-0)  Correcaminos UAT II
+  18.00  Tritones Vallarta        0-0  Tecos Fútbol Club
+         Tuzos de la UAZ          3-1 (0-0)  Colima FC
+  19.00  Mexicali FC              -  Chihuahua FC             [cancelled]
+  21.00  Los Cabos United         1-1 (0-0)  CF Reynosa
+[Mon Sep/25]
+  21.00  Mineros de Fresnillo FC  3-0 (2-0)  Gavilanes de Matamoros
+
+
+Matchday 8
+[Fri Sep/29]
+  11.00  Correcaminos UAT II      2-0 (0-0)  Mineros de Fresnillo FC
+         Tecos Fútbol Club        4-0 (2-0)  Leones Negros II
+  19.45  CF Reynosa               2-1 (0-1)  Alacranes de Durango
+  21.00  Chihuahua FC             -  Los Cabos United         [cancelled]
+[Sat Sep/30]
+  17.00  Colima FC                0-0  Tritones Vallarta
+         Gavilanes de Matamoros   5-1 (4-1)  Mexicali FC
+  19.00  Coras de Nayarit         0-1 (0-0)  Cimarrones de Sonora II
+[Sun Oct/1]
+  13.00  Club Calor               2-1 (1-0)  Tuzos de la UAZ
+  17.00  Real Apodaca             1-1 (0-0)  Saltillo FC
+
+
+Matchday 9
+[Tue Oct/3]
+  18.00  Mineros de Fresnillo FC  2-3 (1-1)  Tecos Fútbol Club
+  20.00  Cimarrones de Sonora II  1-0 (1-0)  CF Reynosa
+[Wed Oct/4]
+  12.00  Leones Negros II         1-0 (1-0)  Colima FC
+  19.00  Mexicali FC              0-2 (0-2)  Correcaminos UAT II
+  20.00  Saltillo FC              2-1 (1-0)  Coras de Nayarit
+  21.00  Club Calor               2-1 (1-0)  Real Apodaca
+         Alacranes de Durango     -  Chihuahua FC             [cancelled]
+  22.00  Los Cabos United         1-1 (0-1)  Gavilanes de Matamoros
+[Thu Oct/5]
+  18.00  Tuzos de la UAZ          2-1 (1-0)  Tritones Vallarta
+
+
+Matchday 10
+[Sat Oct/7]
+  11.00  Correcaminos UAT II      2-2 (0-1)  Los Cabos United
+  17.00  Colima FC                1-1 (1-0)  Mineros de Fresnillo FC
+         Gavilanes de Matamoros   0-3 (0-2)  Alacranes de Durango
+  19.00  Coras de Nayarit         4-0 (2-0)  Club Calor
+  19.45  CF Reynosa               0-0  Saltillo FC
+  21.00  Chihuahua FC             -  Cimarrones de Sonora II  [cancelled]
+[Sun Oct/8]
+  12.00  Tecos Fútbol Club        2-0 (2-0)  Mexicali FC
+  17.00  Tritones Vallarta        0-2 (0-0)  Leones Negros II
+         Real Apodaca             1-1 (0-0)  Tuzos de la UAZ
+
+
+Matchday 11
+[Fri Oct/13]
+  21.00  Alacranes de Durango     2-0 (1-0)  Correcaminos UAT II
+[Sat Oct/14]
+  18.00  Mineros de Fresnillo FC  0-0  Tritones Vallarta
+         Tuzos de la UAZ          2-0 (1-0)  Leones Negros II
+         Mexicali FC              1-0 (1-0)  Colima FC
+  18.30  Cimarrones de Sonora II  1-1 (0-1)  Gavilanes de Matamoros
+  22.00  Los Cabos United         2-1 (1-0)  Tecos Fútbol Club
+[Sun Oct/15]
+  13.00  Club Calor               0-2 (0-0)  CF Reynosa
+  17.00  Real Apodaca             0-0  Coras de Nayarit
+[Mon Oct/16]
+  21.00  Saltillo FC              -  Chihuahua FC             [cancelled]
+
+
+Matchday 12
+[Fri Oct/20]
+  11.00  Correcaminos UAT II      0-1 (0-1)  Cimarrones de Sonora II
+  19.00  Tecos Fútbol Club        2-0 (0-0)  Alacranes de Durango
+  19.45  CF Reynosa               0-1 (0-1)  Real Apodaca
+  21.00  Chihuahua FC             -  Club Calor               [cancelled]
+[Sat Oct/21]
+  12.00  Leones Negros II         3-0 (1-0)  Mineros de Fresnillo FC
+  16.00  Gavilanes de Matamoros   1-1 (0-1)  Saltillo FC
+  17.00  Colima FC                2-1 (0-1)  Los Cabos United
+         Tritones Vallarta        1-0 (0-0)  Mexicali FC
+  19.00  Coras de Nayarit         1-2 (1-2)  Tuzos de la UAZ
+
+
+Matchday 13
+[Fri Oct/27]
+  20.00  Saltillo FC              1-2 (1-0)  Correcaminos UAT II
+  21.00  Alacranes de Durango     4-0 (3-0)  Colima FC
+[Sat Oct/28]
+  18.00  Mexicali FC              1-3 (1-0)  Leones Negros II
+  19.00  Coras de Nayarit         0-0  CF Reynosa
+  21.00  Los Cabos United         1-0 (1-0)  Tritones Vallarta
+[Sun Oct/29]
+  12.00  Club Calor               2-2 (1-0)  Gavilanes de Matamoros
+  16.00  Real Apodaca             -  Chihuahua FC             [cancelled]
+  19.00  Cimarrones de Sonora II  1-4 (0-2)  Tecos Fútbol Club
+[Mon Oct/30]
+  20.00  Tuzos de la UAZ          1-1 (0-1)  Mineros de Fresnillo FC
+
+
+Matchday 14
+[Thu Nov/2]
+  10.00  Tecos Fútbol Club        1-0 (0-0)  Saltillo FC
+[Fri Nov/3]
+  10.00  Correcaminos UAT II      2-1 (2-1)  Club Calor
+  18.45  CF Reynosa               3-1 (2-0)  Tuzos de la UAZ
+  20.00  Chihuahua FC             -  Coras de Nayarit         [cancelled]
+[Sat Nov/4]
+  11.00  Leones Negros II         2-1 (2-1)  Los Cabos United
+  15.00  Gavilanes de Matamoros   0-0  Real Apodaca
+  16.00  Tritones Vallarta        1-1 (1-0)  Alacranes de Durango
+         Colima FC                2-1 (1-0)  Cimarrones de Sonora II
+  17.00  Mineros de Fresnillo FC  5-0 (2-0)  Mexicali FC
+
+
+Matchday 15
+[Wed Nov/8]
+  17.00  Tuzos de la UAZ          2-0 (1-0)  Mexicali FC
+[Fri Nov/10]
+  19.00  Saltillo FC              1-0 (0-0)  Colima FC
+  19.45  CF Reynosa               -  Chihuahua FC             [cancelled]
+  20.00  Alacranes de Durango     2-1 (0-0)  Leones Negros II
+[Sat Nov/11]
+  19.00  Coras de Nayarit         2-1 (2-0)  Gavilanes de Matamoros
+  21.00  Los Cabos United         1-0 (1-0)  Mineros de Fresnillo FC
+[Sun Nov/12]
+  12.00  Club Calor               1-1 (1-0)  Tecos Fútbol Club
+[Mon Nov/13]
+  20.05  Cimarrones de Sonora II  2-1 (2-0)  Tritones Vallarta
+[Wed Nov/29]
+  16.00  Real Apodaca             2-4 (0-3)  Correcaminos UAT II
+
+
+Matchday 16
+[Fri Nov/17]
+  10.00  Correcaminos UAT II      2-1 (1-0)  Coras de Nayarit
+  16.00  Mineros de Fresnillo FC  1-0 (0-0)  Alacranes de Durango
+  17.00  Tuzos de la UAZ          -  Chihuahua FC             [cancelled]
+  18.00  Tecos Fútbol Club        2-1 (0-0)  Real Apodaca
+[Sat Nov/18]
+  11.00  Leones Negros II         0-0  Cimarrones de Sonora II
+  16.00  Colima FC                4-1 (2-0)  Club Calor
+         Tritones Vallarta        1-2 (1-2)  Saltillo FC
+         Gavilanes de Matamoros   0-1 (0-1)  CF Reynosa
+  18.00  Mexicali FC              0-2 (0-2)  Los Cabos United
+
+
+Matchday 17
+[Tue Nov/21]
+  12.00  Cimarrones de Sonora II  1-1 (0-1)  Mineros de Fresnillo FC
+[Fri Nov/24]
+  19.00  Saltillo FC              3-1 (1-0)  Leones Negros II
+  19.45  CF Reynosa               2-0 (1-0)  Correcaminos UAT II
+  20.00  Chihuahua FC             -  Gavilanes de Matamoros   [cancelled]
+         Alacranes de Durango     8-0 (3-0)  Mexicali FC
+[Sat Nov/25]
+  21.00  Los Cabos United         4-4 (1-2)  Tuzos de la UAZ
+[Sun Nov/26]
+  12.00  Club Calor               1-0 (1-0)  Tritones Vallarta
+  16.00  Coras de Nayarit         2-0 (1-0)  Tecos Fútbol Club
+         Real Apodaca             0-2 (0-2)  Colima FC
+
+
+Matchday 18
+[Fri Jan/12]
+  19.00  Cimarrones de Sonora II  0-0  Mexicali FC
+  19.30  Club Calor               2-1 (1-0)  Leones Negros II
+  19.45  CF Reynosa               1-1 (0-0)  Tecos Fútbol Club
+  20.00  Chihuahua FC             -  Correcaminos UAT II      [cancelled]
+[Sat Jan/13]
+  16.00  Gavilanes de Matamoros   3-0 (1-0)  Tuzos de la UAZ
+[Sun Jan/14]
+  12.00  Saltillo FC              0-0  Mineros de Fresnillo FC
+  15.30  Real Apodaca             2-1 (2-1)  Tritones Vallarta
+  16.00  Coras de Nayarit         5-2 (0-2)  Colima FC
+[Mon Jan/15]
+  20.05  Alacranes de Durango     0-0  Los Cabos United
+
+
+Matchday 19
+[Fri Jan/19]
+  10.00  Correcaminos UAT II      1-2 (0-1)  Gavilanes de Matamoros
+  18.00  Tecos Fútbol Club        -  Chihuahua FC             [cancelled]
+[Sat Jan/20]
+  11.00  Leones Negros II         3-1 (1-1)  Real Apodaca
+  15.30  Tritones Vallarta        0-0  Coras de Nayarit
+  16.00  Colima FC                0-1 (0-0)  CF Reynosa
+  17.00  Tuzos de la UAZ          1-1 (0-1)  Alacranes de Durango
+         Mineros de Fresnillo FC  3-1 (2-1)  Club Calor
+[Sun Jan/21]
+  12.00  Saltillo FC              0-0  Mexicali FC
+  20.00  Los Cabos United         2-0 (1-0)  Cimarrones de Sonora II
+
+
+Matchday 20
+[Fri Jan/26]
+  10.00  Correcaminos UAT II      1-0 (0-0)  Tuzos de la UAZ
+  19.00  Cimarrones de Sonora II  0-0  Alacranes de Durango
+  19.30  Club Calor               4-2 (3-1)  Mexicali FC
+  19.45  CF Reynosa               0-1 (0-0)  Tritones Vallarta
+  20.00  Chihuahua FC             -  Colima FC                [cancelled]
+[Sat Jan/27]
+  16.00  Gavilanes de Matamoros   2-0 (1-0)  Tecos Fútbol Club
+[Sun Jan/28]
+  12.00  Saltillo FC              0-3 (0-2)  Los Cabos United
+  15.30  Real Apodaca             2-0 (1-0)  Mineros de Fresnillo FC
+  16.00  Coras de Nayarit         0-3 (0-1)  Leones Negros II
+
+
+Matchday 21
+[Fri Feb/2]
+  18.00  Tecos Fútbol Club        1-2 (1-1)  Correcaminos UAT II
+  20.00  Alacranes de Durango     2-2 (0-1)  Saltillo FC
+[Sat Feb/3]
+  11.00  Leones Negros II         5-0 (2-0)  CF Reynosa
+  15.30  Tritones Vallarta        -  Chihuahua FC             [cancelled]
+  17.00  Tuzos de la UAZ          3-0 (1-0)  Cimarrones de Sonora II
+         Mineros de Fresnillo FC  2-0 (0-0)  Coras de Nayarit
+  21.00  Los Cabos United         1-1 (1-0)  Club Calor
+[Mon Feb/5]
+  16.00  Colima FC                0-1 (0-1)  Gavilanes de Matamoros
+[Wed Feb/28]
+  18.00  Mexicali FC              0-4 (0-2)  Real Apodaca
+
+
+Matchday 22
+[Fri Feb/9]
+  10.00  Correcaminos UAT II      2-1 (1-0)  Colima FC
+  18.00  Tecos Fútbol Club        1-1 (0-0)  Tuzos de la UAZ
+  19.30  Club Calor               0-1 (0-1)  Alacranes de Durango
+  19.45  CF Reynosa               1-2 (1-0)  Mineros de Fresnillo FC
+  20.00  Chihuahua FC             -  Leones Negros II         [cancelled]
+[Sat Feb/10]
+  16.00  Gavilanes de Matamoros   1-0 (0-0)  Tritones Vallarta
+[Sun Feb/11]
+  12.00  Saltillo FC              0-2 (0-1)  Cimarrones de Sonora II
+  15.30  Real Apodaca             2-1 (2-1)  Los Cabos United
+  16.00  Coras de Nayarit         0-1 (0-1)  Mexicali FC
+
+
+Matchday 23
+[Fri Feb/16]
+  19.00  Cimarrones de Sonora II  1-0 (0-0)  Club Calor
+  20.00  Alacranes de Durango     1-0 (0-0)  Real Apodaca
+[Sat Feb/17]
+  11.00  Leones Negros II         1-4 (0-2)  Gavilanes de Matamoros
+  15.30  Tritones Vallarta        3-0 (0-0)  Correcaminos UAT II
+  16.00  Colima FC                1-4 (0-2)  Tecos Fútbol Club
+  17.00  Tuzos de la UAZ          2-2 (1-1)  Saltillo FC
+  18.00  Mexicali FC              1-1 (1-0)  CF Reynosa
+  21.00  Los Cabos United         1-0 (1-0)  Coras de Nayarit
+[Sun Feb/18]
+  17.00  Mineros de Fresnillo FC  -  Chihuahua FC             [cancelled]
+
+
+Matchday 24
+[Fri Feb/23]
+  10.00  Correcaminos UAT II      3-0 (1-0)  Leones Negros II
+         Tecos Fútbol Club        2-3 (0-1)  Tritones Vallarta
+  19.30  Club Calor               0-0  Saltillo FC
+  19.45  CF Reynosa               1-1 (1-0)  Los Cabos United
+  20.00  Chihuahua FC             -  Mexicali FC              [cancelled]
+[Sat Feb/24]
+  16.00  Colima FC                2-4 (0-1)  Tuzos de la UAZ
+  19.00  Gavilanes de Matamoros   0-1 (0-0)  Mineros de Fresnillo FC
+[Sun Feb/25]
+  15.30  Real Apodaca             2-0 (2-0)  Cimarrones de Sonora II
+  16.00  Coras de Nayarit         1-2 (0-2)  Alacranes de Durango
+
+
+Matchday 25
+[Fri Mar/1]
+  19.00  Cimarrones de Sonora II  3-1 (1-1)  Coras de Nayarit
+  20.00  Alacranes de Durango     2-2 (1-0)  CF Reynosa
+[Sat Mar/2]
+  11.00  Leones Negros II         1-0 (0-0)  Tecos Fútbol Club
+  16.00  Tritones Vallarta        2-3 (0-2)  Colima FC
+[Sun Mar/3]
+  Los Cabos United         -  Chihuahua FC             [cancelled]
+[Sat Mar/2]
+  17.00  Tuzos de la UAZ          0-1 (0-0)  Club Calor
+         Mineros de Fresnillo FC  3-1 (2-1)  Correcaminos UAT II
+[Sun Mar/3]
+  16.00  Saltillo FC              0-0  Real Apodaca
+[Tue Mar/26]
+  17.00  Mexicali FC              0-1 (0-1)  Gavilanes de Matamoros
+
+
+Matchday 26
+[Tue Mar/5]
+  10.00  Correcaminos UAT II      1-1 (0-1)  Mexicali FC
+[Wed Mar/6]
+  12.00  Tecos Fútbol Club        2-1 (0-1)  Mineros de Fresnillo FC
+  16.00  Colima FC                0-1 (0-0)  Leones Negros II
+         Tritones Vallarta        0-0  Tuzos de la UAZ
+         Real Apodaca             2-2 (1-2)  Club Calor
+         Gavilanes de Matamoros   1-0 (1-0)  Los Cabos United
+         Coras de Nayarit         0-2 (0-1)  Saltillo FC
+[Thu Mar/7]
+  Chihuahua FC             -  Alacranes de Durango     [cancelled]
+[Wed Mar/6]
+  19.45  CF Reynosa               1-0 (1-0)  Cimarrones de Sonora II
+
+
+Matchday 27
+[Sat Mar/9]
+  11.00  Leones Negros II         0-2 (0-0)  Tritones Vallarta
+  17.00  Tuzos de la UAZ          0-1 (0-0)  Real Apodaca
+         Mineros de Fresnillo FC  3-2 (3-0)  Colima FC
+  18.00  Mexicali FC              2-1 (0-0)  Tecos Fútbol Club
+         Alacranes de Durango     4-1 (1-1)  Gavilanes de Matamoros
+  19.30  Club Calor               2-0 (0-0)  Coras de Nayarit
+  21.00  Los Cabos United         5-1 (2-1)  Correcaminos UAT II
+[Sun Mar/10]
+  16.00  Saltillo FC              2-1 (1-0)  CF Reynosa
+[Mon Mar/11]
+  19.00  Cimarrones de Sonora II  -  Chihuahua FC             [cancelled]
+
+
+Matchday 28
+[Fri Mar/15]
+  10.00  Correcaminos UAT II      0-2 (0-1)  Alacranes de Durango
+         Tecos Fútbol Club        1-2 (0-1)  Los Cabos United
+  18.45  CF Reynosa               0-0  Club Calor
+[Sat Mar/16]
+  11.00  Leones Negros II         2-2 (0-0)  Tuzos de la UAZ
+  16.00  Tritones Vallarta        3-0 (2-0)  Mineros de Fresnillo FC
+  18.00  Gavilanes de Matamoros   1-1 (0-0)  Cimarrones de Sonora II
+[Sun Mar/17]
+  15.00  Coras de Nayarit         0-1 (0-1)  Real Apodaca
+[Wed Apr/24]
+  Chihuahua FC             -  Saltillo FC              [cancelled]
+  17.00  Colima FC                1-0 (0-0)  Mexicali FC
+
+
+Matchday 29
+[Sat Mar/23]
+  Club Calor               -  Chihuahua FC             [cancelled]
+[Fri Mar/22]
+  19.00  Cimarrones de Sonora II  3-3 (1-1)  Correcaminos UAT II
+  20.00  Alacranes de Durango     1-1 (0-0)  Tecos Fútbol Club
+[Sat Mar/23]
+  12.00  Mineros de Fresnillo FC  1-1 (0-1)  Leones Negros II
+  17.00  Mexicali FC              1-2 (1-2)  Tritones Vallarta
+  21.00  Los Cabos United         3-2 (1-1)  Colima FC
+[Sun Mar/24]
+  12.00  Tuzos de la UAZ          3-0 (0-0)  Coras de Nayarit
+  16.00  Saltillo FC              1-2 (1-1)  Gavilanes de Matamoros
+         Real Apodaca             2-0 (1-0)  CF Reynosa
+
+
+Matchday 30
+[Fri Mar/29]
+  10.00  Correcaminos UAT II      0-0  Saltillo FC
+  18.00  Tecos Fútbol Club        2-0 (1-0)  Cimarrones de Sonora II
+  18.45  CF Reynosa               2-1 (1-0)  Coras de Nayarit
+  20.00  Chihuahua FC             -  Real Apodaca             [cancelled]
+[Sat Mar/30]
+  11.00  Leones Negros II         3-1 (2-0)  Mexicali FC
+  16.00  Colima FC                0-1 (0-1)  Alacranes de Durango
+         Tritones Vallarta        3-2 (0-2)  Los Cabos United
+  17.00  Mineros de Fresnillo FC  1-1 (0-1)  Tuzos de la UAZ
+[Mon Apr/1]
+  20.05  Gavilanes de Matamoros   1-0 (1-0)  Club Calor
+
+
+Matchday 31
+[Fri Apr/5]
+  20.00  Cimarrones de Sonora II  2-1 (2-0)  Colima FC
+  20.30  Club Calor               1-3 (0-1)  Correcaminos UAT II
+  21.00  Alacranes de Durango     1-1 (1-0)  Tritones Vallarta
+[Sat Apr/6]
+  18.00  Tuzos de la UAZ          2-2 (2-0)  CF Reynosa
+         Mexicali FC              1-0 (1-0)  Mineros de Fresnillo FC
+[Sun Apr/7]
+  17.00  Saltillo FC              1-0 (1-0)  Tecos Fútbol Club
+         Coras de Nayarit         -  Chihuahua FC             [cancelled]
+         Real Apodaca             0-1 (0-0)  Gavilanes de Matamoros
+[Mon Apr/8]
+  21.00  Los Cabos United         2-0 (0-0)  Leones Negros II
+
+
+Matchday 32
+[Fri Apr/12]
+  11.00  Correcaminos UAT II      0-2 (0-0)  Real Apodaca
+  19.00  Tecos Fútbol Club        6-0 (2-0)  Club Calor
+  21.00  Chihuahua FC             -  CF Reynosa               [cancelled]
+[Sat Apr/13]
+  12.00  Leones Negros II         1-2 (0-2)  Alacranes de Durango
+  17.00  Colima FC                0-1 (0-1)  Saltillo FC
+         Tritones Vallarta        0-0  Cimarrones de Sonora II
+  18.00  Mineros de Fresnillo FC  0-2 (0-1)  Los Cabos United
+         Mexicali FC              2-1 (1-0)  Tuzos de la UAZ
+  19.00  Gavilanes de Matamoros   2-0 (2-0)  Coras de Nayarit
+
+
+Matchday 33
+[Sat Apr/20]
+  Chihuahua FC             -  Tuzos de la UAZ          [cancelled]
+[Fri Apr/19]
+  19.45  CF Reynosa               1-1 (1-0)  Gavilanes de Matamoros
+  20.00  Cimarrones de Sonora II  3-0 (1-0)  Leones Negros II
+  20.30  Club Calor               2-0 (1-0)  Colima FC
+  21.00  Alacranes de Durango     4-1 (1-0)  Mineros de Fresnillo FC
+[Sat Apr/20]
+  22.00  Los Cabos United         2-0 (1-0)  Mexicali FC
+[Sun Apr/21]
+  17.00  Saltillo FC              0-1 (0-0)  Tritones Vallarta
+         Coras de Nayarit         1-2 (1-1)  Correcaminos UAT II
+         Real Apodaca             2-3 (1-2)  Tecos Fútbol Club
+
+
+Matchday 34
+[Fri Apr/26]
+  11.00  Correcaminos UAT II      1-2 (1-2)  CF Reynosa
+  17.00  Tecos Fútbol Club        1-0 (0-0)  Coras de Nayarit
+  20.00  Cimarrones de Sonora II  2-0 (1-0)  Mineros de Fresnillo FC
+[Sat Apr/27]
+  12.00  Leones Negros II         4-1 (2-0)  Saltillo FC
+  16.30  Tritones Vallarta        1-1 (0-1)  Club Calor
+  17.00  Colima FC                0-6 (0-3)  Real Apodaca
+  18.00  Tuzos de la UAZ          0-1 (0-1)  Los Cabos United
+         Gavilanes de Matamoros   -  Chihuahua FC             [cancelled]
+         Mexicali FC              2-0 (1-0)  Alacranes de Durango

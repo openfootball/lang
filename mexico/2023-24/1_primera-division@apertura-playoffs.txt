@@ -1,0 +1,48 @@
+= Mexico Primera División 2023/24, Apertura Playoffs
+
+# 17 match(es), 10 team(s), 5 round(s)
+
+
+
+Qual. 1. Runde
+[Thu Nov/23]
+  19.00  Atlético San Luis        3-2 (2-1)  Club León
+  21.10  Santos Laguna            2-1 (1-0)  Mazatlán FC
+
+
+Qual. 2. Runde
+[Sun Nov/26]
+  20.06  Club León                3-2 (2-0)  Santos Laguna
+
+
+Quarterfinals
+[Wed Nov/29]
+  19.06  Club León                2-2 (2-1)  CF América
+  21.10  Atlético San Luis        1-0 (1-0)  CF Monterrey
+[Thu Nov/30]
+  19.00  Puebla FC                2-2 (1-1)  UANL Tigres
+  21.05  Deportivo Guadalajara    1-0 (1-0)  Pumas UNAM
+[Sat Dec/2]
+  19.00  CF América               2-0 (0-0)  Club León
+  21.10  CF Monterrey             1-1 (1-0)  Atlético San Luis
+[Sun Dec/3]
+  18.00  Pumas UNAM               3-0 (2-0)  Deportivo Guadalajara
+  20.10  UANL Tigres              3-0 (2-0)  Puebla FC
+
+
+Semifinals
+[Wed Dec/6]
+  21.00  Atlético San Luis        0-5 (0-2)  CF América
+[Thu Dec/7]
+  21.00  Pumas UNAM               0-1 (0-0)  UANL Tigres
+[Sat Dec/9]
+  20.00  CF América               0-2 (0-0)  Atlético San Luis
+[Sun Dec/10]
+  20.00  UANL Tigres              1-1 (1-1)  Pumas UNAM
+
+
+Final
+[Thu Dec/14]
+  21.00  UANL Tigres              1-1 (0-0)  CF América
+[Sun Dec/17]
+  19.30  CF América               3-0 a.e.t. (0-0)  UANL Tigres

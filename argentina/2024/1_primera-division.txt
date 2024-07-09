@@ -1,0 +1,516 @@
+= Argentina Primera División 2024
+
+# 378 match(es), 28 team(s), 27 round(s)
+
+
+
+Matchday 1
+[Fri May/10]
+  19.00  Sarmiento de Junín       1-2 (0-1)  Instituto de Córdoba
+  21.15  Argentinos Juniors       3-2 (2-2)  Rosario Central
+         Newell's Old Boys        2-0 (0-0)  Platense
+[Sat May/11]
+  14.30  Huracán                  3-1 (1-0)  Defensa y Justicia
+  15.30  Godoy Cruz               0-1 (0-0)  Barracas Central
+  17.30  Independiente            1-3 (1-1)  Talleres de Córdoba
+  19.45  River Plate              3-0 (2-0)  Central Córdoba SdE
+[Sun May/12]
+  15.30  Tigre                    0-1 (0-1)  Estudiantes
+         Deportivo Riestra        1-0 (1-0)  San Lorenzo
+  17.45  Belgrano de Córdoba      4-4 (1-3)  Racing Club
+         Lanús                    0-2 (0-1)  Independiente Rivadavia
+  20.15  Atlético Tucumán         1-0 (1-0)  Boca Juniors
+[Mon May/13]
+  19.00  Gimnasia de La Plata     3-1 (1-0)  Vélez Sarsfield
+  21.00  Unión de Santa Fe        1-0 (0-0)  Banfield
+
+
+Matchday 2
+[Sat May/18]
+  15.30  Independiente Rivadavia  0-0  Godoy Cruz
+  18.00  River Plate              3-0 (1-0)  Belgrano de Córdoba
+  20.00  Defensa y Justicia       1-1 (0-1)  Gimnasia de La Plata
+  20.30  Instituto de Córdoba     1-1 (1-1)  Unión de Santa Fe
+[Sun May/19]
+  15.00  Barracas Central         1-1 (1-1)  Sarmiento de Junín
+  15.30  Platense                 0-0  Independiente
+  17.45  Talleres de Córdoba      2-0 (1-0)  Atlético Tucumán
+         Banfield                 1-1 (0-1)  Huracán
+  20.00  Central Córdoba SdE      2-4 (2-0)  Boca Juniors
+[Mon May/20]
+  19.00  San Lorenzo              1-1 (0-1)  Lanús
+         Estudiantes              2-0 (1-0)  Deportivo Riestra
+  21.15  Rosario Central          1-1 (0-1)  Tigre
+         Racing Club              3-0 (1-0)  Argentinos Juniors
+[Tue May/21]
+  20.00  Vélez Sarsfield          1-0 (1-0)  Newell's Old Boys
+
+
+Matchday 3
+[Fri May/24]
+  15.30  Deportivo Riestra        0-2 (0-1)  Rosario Central
+  19.00  Tigre                    0-4 (0-2)  Racing Club
+  21.15  Belgrano de Córdoba      2-1 (0-1)  Central Córdoba SdE
+         Lanús                    2-1 (0-0)  Estudiantes
+[Sat May/25]
+  15.00  Argentinos Juniors       1-0 (1-0)  River Plate
+  17.30  Godoy Cruz               -  San Lorenzo              [abandoned]
+         Newell's Old Boys        1-0 (0-0)  Defensa y Justicia
+  20.00  Boca Juniors             0-0  Talleres de Córdoba
+[Sun May/26]
+  15.30  Huracán                  1-0 (0-0)  Instituto de Córdoba
+  17.30  Sarmiento de Junín       0-1 (0-0)  Independiente Rivadavia
+  17.45  Gimnasia de La Plata     3-0 (0-0)  Banfield
+  20.00  Independiente            1-1 (0-1)  Vélez Sarsfield
+[Mon May/27]
+  19.00  Unión de Santa Fe        2-0 (1-0)  Barracas Central
+  21.00  Atlético Tucumán         1-1 (0-0)  Platense
+
+
+Matchday 4
+[Sat Jun/1]
+  18.00  Racing Club              1-0 (0-0)  Deportivo Riestra
+  20.15  Vélez Sarsfield          1-1 (0-1)  Atlético Tucumán
+         Belgrano de Córdoba      1-0 (0-0)  Argentinos Juniors
+[Sun Jun/2]
+  14.30  Platense                 1-0 (0-0)  Boca Juniors
+  18.00  Central Córdoba SdE      2-4 (1-1)  Talleres de Córdoba
+         Rosario Central          1-1 (0-1)  Lanús
+  20.15  Instituto de Córdoba     2-1 (1-1)  Gimnasia de La Plata
+         River Plate              3-1 (1-1)  Tigre
+[Mon Jun/3]
+  19.00  San Lorenzo              0-1 (0-0)  Sarmiento de Junín
+  21.15  Defensa y Justicia       0-0  Independiente
+         Estudiantes              1-1 (0-1)  Godoy Cruz
+[Tue Jun/4]
+  15.00  Barracas Central         0-2 (0-1)  Huracán
+  20.00  Banfield                 2-0 (0-0)  Newell's Old Boys
+         Independiente Rivadavia  0-1 (0-0)  Unión de Santa Fe
+
+
+Matchday 5
+[Wed Jun/12]
+  17.00  Godoy Cruz               1-1 (1-1)  Rosario Central
+  19.00  Argentinos Juniors       2-1 (1-0)  Central Córdoba SdE
+  21.15  Gimnasia de La Plata     2-1 (1-0)  Barracas Central
+         Independiente            2-1 (1-1)  Banfield
+[Thu Jun/13]
+  15.00  Deportivo Riestra        2-0 (0-0)  River Plate
+  19.00  Tigre                    1-1 (1-0)  Belgrano de Córdoba
+         Sarmiento de Junín       2-0 (0-0)  Estudiantes
+  21.15  Lanús                    2-0 (1-0)  Racing Club
+         Newell's Old Boys        0-2 (0-1)  Instituto de Córdoba
+[Fri Jun/14]
+  19.00  Boca Juniors             1-0 (0-0)  Vélez Sarsfield
+         Talleres de Córdoba      2-1 (1-1)  Platense
+[Sat Jun/15]
+  16.00  Unión de Santa Fe        2-1 (0-1)  San Lorenzo
+  18.00  Huracán                  1-0 (1-0)  Independiente Rivadavia
+  20.30  Atlético Tucumán         1-1 (1-1)  Defensa y Justicia
+
+
+Matchday 6
+[Thu Jul/18]
+  18.45  Argentinos Juniors       -  Tigre
+  19.00  Independiente Rivadavia  -  Gimnasia de La Plata
+  21.00  Instituto de Córdoba     -  Independiente
+[Fri Jul/19]
+  15.00  Barracas Central         -  Newell's Old Boys
+  19.00  Belgrano de Córdoba      -  Deportivo Riestra
+  21.00  Rosario Central          -  Sarmiento de Junín
+[Sat Jul/20]
+  15.00  San Lorenzo              -  Huracán
+  17.00  Racing Club              -  Godoy Cruz
+  19.00  Banfield                 -  Atlético Tucumán
+[Sun Jul/21]
+  15.00  River Plate              -  Lanús
+  17.15  Central Córdoba SdE      -  Platense
+         Estudiantes              -  Unión de Santa Fe
+  20.00  Vélez Sarsfield          -  Talleres de Córdoba
+         Defensa y Justicia       -  Boca Juniors
+
+
+Matchday 7
+[Tue Jul/23]
+  18.45  Gimnasia de La Plata     -  San Lorenzo
+         Newell's Old Boys        -  Independiente Rivadavia
+  21.00  Independiente            -  Barracas Central
+[Wed Jul/24]
+  15.00  Deportivo Riestra        -  Argentinos Juniors
+  17.00  Talleres de Córdoba      -  Defensa y Justicia
+  18.30  Sarmiento de Junín       -  Racing Club
+  19.30  Huracán                  -  Estudiantes
+  21.00  Godoy Cruz               -  River Plate
+[Thu Jul/25]
+  18.45  Lanús                    -  Belgrano de Córdoba
+         Platense                 -  Vélez Sarsfield
+  21.00  Tigre                    -  Central Córdoba SdE
+         Atlético Tucumán         -  Instituto de Córdoba
+[Wed Jul/31]
+  18.30  Unión de Santa Fe        -  Rosario Central
+  20.30  Boca Juniors             -  Banfield
+
+
+Matchday 8
+[Sat Jul/27]
+  15.00  Independiente Rivadavia  -  Independiente
+  17.00  San Lorenzo              -  Newell's Old Boys
+  19.00  Rosario Central          -  Huracán
+[Sun Jul/28]
+  15.00  Banfield                 -  Talleres de Córdoba
+         Estudiantes              -  Gimnasia de La Plata
+  17.15  Racing Club              -  Unión de Santa Fe
+  18.30  River Plate              -  Sarmiento de Junín
+  20.30  Instituto de Córdoba     -  Boca Juniors
+[Mon Jul/29]
+  15.00  Barracas Central         -  Atlético Tucumán
+  16.30  Defensa y Justicia       -  Platense
+  18.45  Central Córdoba SdE      -  Vélez Sarsfield
+         Tigre                    -  Deportivo Riestra
+  21.00  Belgrano de Córdoba      -  Godoy Cruz
+         Argentinos Juniors       -  Lanús
+
+
+Matchday 9
+[Fri Aug/2]
+  20.00  Newell's Old Boys        -  Estudiantes
+[Sat Aug/3]
+  15.00  Godoy Cruz               -  Argentinos Juniors
+         Vélez Sarsfield          -  Defensa y Justicia
+  17.15  Talleres de Córdoba      -  Instituto de Córdoba
+  19.15  Independiente            -  San Lorenzo
+  20.30  Huracán                  -  Racing Club
+[Sun Aug/4]
+  15.00  Sarmiento de Junín       -  Belgrano de Córdoba
+         Unión de Santa Fe        -  River Plate
+  17.30  Boca Juniors             -  Barracas Central
+  20.00  Lanús                    -  Tigre
+         Atlético Tucumán         -  Independiente Rivadavia
+[Mon Aug/5]
+  15.00  Deportivo Riestra        -  Central Córdoba SdE
+  19.00  Gimnasia de La Plata     -  Rosario Central
+  20.00  Platense                 -  Banfield
+
+
+Matchday 10
+[Sun Aug/11]
+  Central Córdoba SdE      -  Defensa y Justicia
+  Banfield                 -  Vélez Sarsfield
+  Instituto de Córdoba     -  Platense
+  Barracas Central         -  Talleres de Córdoba
+  Independiente Rivadavia  -  Boca Juniors
+  San Lorenzo              -  Atlético Tucumán
+  Estudiantes              -  Independiente
+  Rosario Central          -  Newell's Old Boys
+  Racing Club              -  Gimnasia de La Plata
+  River Plate              -  Huracán
+  Belgrano de Córdoba      -  Unión de Santa Fe
+  Argentinos Juniors       -  Sarmiento de Junín
+  Tigre                    -  Godoy Cruz
+  Deportivo Riestra        -  Lanús
+
+
+Matchday 11
+[Sun Aug/18]
+  Lanús                    -  Central Córdoba SdE
+  Godoy Cruz               -  Deportivo Riestra
+  Sarmiento de Junín       -  Tigre
+  Unión de Santa Fe        -  Argentinos Juniors
+  Huracán                  -  Belgrano de Córdoba
+  Gimnasia de La Plata     -  River Plate
+  Newell's Old Boys        -  Racing Club
+  Independiente            -  Rosario Central
+  Atlético Tucumán         -  Estudiantes
+  Boca Juniors             -  San Lorenzo
+  Talleres de Córdoba      -  Independiente Rivadavia
+  Platense                 -  Barracas Central
+  Vélez Sarsfield          -  Instituto de Córdoba
+  Defensa y Justicia       -  Banfield
+
+
+Matchday 12
+[Sun Aug/25]
+  Central Córdoba SdE      -  Banfield
+  Instituto de Córdoba     -  Defensa y Justicia
+  Barracas Central         -  Vélez Sarsfield
+  Independiente Rivadavia  -  Platense
+  San Lorenzo              -  Talleres de Córdoba
+  Estudiantes              -  Boca Juniors
+  Rosario Central          -  Atlético Tucumán
+  Racing Club              -  Independiente
+  River Plate              -  Newell's Old Boys
+  Belgrano de Córdoba      -  Gimnasia de La Plata
+  Argentinos Juniors       -  Huracán
+  Tigre                    -  Unión de Santa Fe
+  Deportivo Riestra        -  Sarmiento de Junín
+  Lanús                    -  Godoy Cruz
+
+
+Matchday 13
+[Sun Sep/1]
+  Godoy Cruz               -  Central Córdoba SdE
+  Sarmiento de Junín       -  Lanús
+  Unión de Santa Fe        -  Deportivo Riestra
+  Huracán                  -  Tigre
+  Gimnasia de La Plata     -  Argentinos Juniors
+  Newell's Old Boys        -  Belgrano de Córdoba
+  Independiente            -  River Plate
+  Atlético Tucumán         -  Racing Club
+  Boca Juniors             -  Rosario Central
+  Talleres de Córdoba      -  Estudiantes
+  Platense                 -  San Lorenzo
+  Vélez Sarsfield          -  Independiente Rivadavia
+  Defensa y Justicia       -  Barracas Central
+  Banfield                 -  Instituto de Córdoba
+
+
+Matchday 14
+[Sun Sep/15]
+  Central Córdoba SdE      -  Instituto de Córdoba
+  Barracas Central         -  Banfield
+  Independiente Rivadavia  -  Defensa y Justicia
+  San Lorenzo              -  Vélez Sarsfield
+  Estudiantes              -  Platense
+  Rosario Central          -  Talleres de Córdoba
+  Racing Club              -  Boca Juniors
+  River Plate              -  Atlético Tucumán
+  Belgrano de Córdoba      -  Independiente
+  Argentinos Juniors       -  Newell's Old Boys
+  Tigre                    -  Gimnasia de La Plata
+  Deportivo Riestra        -  Huracán
+  Lanús                    -  Unión de Santa Fe
+  Godoy Cruz               -  Sarmiento de Junín
+
+
+Matchday 15
+[Sun Sep/22]
+  Sarmiento de Junín       -  Central Córdoba SdE
+  Unión de Santa Fe        -  Godoy Cruz
+  Huracán                  -  Lanús
+  Gimnasia de La Plata     -  Deportivo Riestra
+  Newell's Old Boys        -  Tigre
+  Independiente            -  Argentinos Juniors
+  Atlético Tucumán         -  Belgrano de Córdoba
+  Boca Juniors             -  River Plate
+  Talleres de Córdoba      -  Racing Club
+  Platense                 -  Rosario Central
+  Vélez Sarsfield          -  Estudiantes
+  Defensa y Justicia       -  San Lorenzo
+  Banfield                 -  Independiente Rivadavia
+  Instituto de Córdoba     -  Barracas Central
+
+
+Matchday 16
+[Sun Sep/29]
+  Central Córdoba SdE      -  Barracas Central
+  Independiente Rivadavia  -  Instituto de Córdoba
+  San Lorenzo              -  Banfield
+  Estudiantes              -  Defensa y Justicia
+  Rosario Central          -  Vélez Sarsfield
+  Racing Club              -  Platense
+  River Plate              -  Talleres de Córdoba
+  Belgrano de Córdoba      -  Boca Juniors
+  Argentinos Juniors       -  Atlético Tucumán
+  Tigre                    -  Independiente
+  Deportivo Riestra        -  Newell's Old Boys
+  Lanús                    -  Gimnasia de La Plata
+  Godoy Cruz               -  Huracán
+  Sarmiento de Junín       -  Unión de Santa Fe
+
+
+Matchday 17
+[Sun Oct/6]
+  Unión de Santa Fe        -  Central Córdoba SdE
+  Huracán                  -  Sarmiento de Junín
+  Gimnasia de La Plata     -  Godoy Cruz
+  Newell's Old Boys        -  Lanús
+  Independiente            -  Deportivo Riestra
+  Atlético Tucumán         -  Tigre
+  Boca Juniors             -  Argentinos Juniors
+  Talleres de Córdoba      -  Belgrano de Córdoba
+  Platense                 -  River Plate
+  Vélez Sarsfield          -  Racing Club
+  Defensa y Justicia       -  Rosario Central
+  Banfield                 -  Estudiantes
+  Instituto de Córdoba     -  San Lorenzo
+  Barracas Central         -  Independiente Rivadavia
+
+
+Matchday 18
+[Sun Oct/20]
+  Central Córdoba SdE      -  Independiente Rivadavia
+  San Lorenzo              -  Barracas Central
+  Estudiantes              -  Instituto de Córdoba
+  Rosario Central          -  Banfield
+  Racing Club              -  Defensa y Justicia
+  River Plate              -  Vélez Sarsfield
+  Belgrano de Córdoba      -  Platense
+  Argentinos Juniors       -  Talleres de Córdoba
+  Tigre                    -  Boca Juniors
+  Deportivo Riestra        -  Atlético Tucumán
+  Lanús                    -  Independiente
+  Godoy Cruz               -  Newell's Old Boys
+  Sarmiento de Junín       -  Gimnasia de La Plata
+  Unión de Santa Fe        -  Huracán
+
+
+Matchday 19
+[Sun Oct/27]
+  Huracán                  -  Central Córdoba SdE
+  Gimnasia de La Plata     -  Unión de Santa Fe
+  Newell's Old Boys        -  Sarmiento de Junín
+  Independiente            -  Godoy Cruz
+  Atlético Tucumán         -  Lanús
+  Boca Juniors             -  Deportivo Riestra
+  Talleres de Córdoba      -  Tigre
+  Platense                 -  Argentinos Juniors
+  Vélez Sarsfield          -  Belgrano de Córdoba
+  Defensa y Justicia       -  River Plate
+  Banfield                 -  Racing Club
+  Instituto de Córdoba     -  Rosario Central
+  Barracas Central         -  Estudiantes
+  Independiente Rivadavia  -  San Lorenzo
+
+
+Matchday 20
+[Sun Nov/3]
+  Central Córdoba SdE      -  San Lorenzo
+  Estudiantes              -  Independiente Rivadavia
+  Rosario Central          -  Barracas Central
+  Racing Club              -  Instituto de Córdoba
+  River Plate              -  Banfield
+  Belgrano de Córdoba      -  Defensa y Justicia
+  Argentinos Juniors       -  Vélez Sarsfield
+  Tigre                    -  Platense
+  Deportivo Riestra        -  Talleres de Córdoba
+  Lanús                    -  Boca Juniors
+  Godoy Cruz               -  Atlético Tucumán
+  Sarmiento de Junín       -  Independiente
+  Unión de Santa Fe        -  Newell's Old Boys
+  Huracán                  -  Gimnasia de La Plata
+
+
+Matchday 21
+[Wed Nov/6]
+  Gimnasia de La Plata     -  Central Córdoba SdE
+  Newell's Old Boys        -  Huracán
+  Independiente            -  Unión de Santa Fe
+  Atlético Tucumán         -  Sarmiento de Junín
+  Boca Juniors             -  Godoy Cruz
+  Talleres de Córdoba      -  Lanús
+  Platense                 -  Deportivo Riestra
+  Vélez Sarsfield          -  Tigre
+  Defensa y Justicia       -  Argentinos Juniors
+  Banfield                 -  Belgrano de Córdoba
+  Instituto de Córdoba     -  River Plate
+  Barracas Central         -  Racing Club
+  Independiente Rivadavia  -  Rosario Central
+  San Lorenzo              -  Estudiantes
+
+
+Matchday 22
+[Sun Nov/10]
+  Central Córdoba SdE      -  Estudiantes
+  Rosario Central          -  San Lorenzo
+  Racing Club              -  Independiente Rivadavia
+  River Plate              -  Barracas Central
+  Belgrano de Córdoba      -  Instituto de Córdoba
+  Argentinos Juniors       -  Banfield
+  Tigre                    -  Defensa y Justicia
+  Deportivo Riestra        -  Vélez Sarsfield
+  Lanús                    -  Platense
+  Godoy Cruz               -  Talleres de Córdoba
+  Sarmiento de Junín       -  Boca Juniors
+  Unión de Santa Fe        -  Atlético Tucumán
+  Huracán                  -  Independiente
+  Gimnasia de La Plata     -  Newell's Old Boys
+
+
+Matchday 23
+[Wed Nov/20]
+  Newell's Old Boys        -  Central Córdoba SdE
+  Independiente            -  Gimnasia de La Plata
+  Atlético Tucumán         -  Huracán
+  Boca Juniors             -  Unión de Santa Fe
+  Talleres de Córdoba      -  Sarmiento de Junín
+  Platense                 -  Godoy Cruz
+  Vélez Sarsfield          -  Lanús
+  Defensa y Justicia       -  Deportivo Riestra
+  Banfield                 -  Tigre
+  Instituto de Córdoba     -  Argentinos Juniors
+  Barracas Central         -  Belgrano de Córdoba
+  Independiente Rivadavia  -  River Plate
+  San Lorenzo              -  Racing Club
+  Estudiantes              -  Rosario Central
+
+
+Matchday 24
+[Sun Nov/24]
+  Central Córdoba SdE      -  Rosario Central
+  Racing Club              -  Estudiantes
+  River Plate              -  San Lorenzo
+  Belgrano de Córdoba      -  Independiente Rivadavia
+  Argentinos Juniors       -  Barracas Central
+  Tigre                    -  Instituto de Córdoba
+  Deportivo Riestra        -  Banfield
+  Lanús                    -  Defensa y Justicia
+  Godoy Cruz               -  Vélez Sarsfield
+  Sarmiento de Junín       -  Platense
+  Unión de Santa Fe        -  Talleres de Córdoba
+  Huracán                  -  Boca Juniors
+  Gimnasia de La Plata     -  Atlético Tucumán
+  Newell's Old Boys        -  Independiente
+
+
+Matchday 25
+[Sun Dec/1]
+  Independiente            -  Central Córdoba SdE
+  Atlético Tucumán         -  Newell's Old Boys
+  Boca Juniors             -  Gimnasia de La Plata
+  Talleres de Córdoba      -  Huracán
+  Platense                 -  Unión de Santa Fe
+  Vélez Sarsfield          -  Sarmiento de Junín
+  Defensa y Justicia       -  Godoy Cruz
+  Banfield                 -  Lanús
+  Instituto de Córdoba     -  Deportivo Riestra
+  Barracas Central         -  Tigre
+  Independiente Rivadavia  -  Argentinos Juniors
+  San Lorenzo              -  Belgrano de Córdoba
+  Estudiantes              -  River Plate
+  Rosario Central          -  Racing Club
+
+
+Matchday 26
+[Sun Dec/8]
+  Central Córdoba SdE      -  Racing Club
+  River Plate              -  Rosario Central
+  Belgrano de Córdoba      -  Estudiantes
+  Argentinos Juniors       -  San Lorenzo
+  Tigre                    -  Independiente Rivadavia
+  Deportivo Riestra        -  Barracas Central
+  Lanús                    -  Instituto de Córdoba
+  Godoy Cruz               -  Banfield
+  Sarmiento de Junín       -  Defensa y Justicia
+  Unión de Santa Fe        -  Vélez Sarsfield
+  Huracán                  -  Platense
+  Gimnasia de La Plata     -  Talleres de Córdoba
+  Newell's Old Boys        -  Boca Juniors
+  Independiente            -  Atlético Tucumán
+
+
+Matchday 27
+[Sun Dec/15]
+  Atlético Tucumán         -  Central Córdoba SdE
+  Boca Juniors             -  Independiente
+  Talleres de Córdoba      -  Newell's Old Boys
+  Platense                 -  Gimnasia de La Plata
+  Vélez Sarsfield          -  Huracán
+  Defensa y Justicia       -  Unión de Santa Fe
+  Banfield                 -  Sarmiento de Junín
+  Instituto de Córdoba     -  Godoy Cruz
+  Barracas Central         -  Lanús
+  Independiente Rivadavia  -  Deportivo Riestra
+  San Lorenzo              -  Tigre
+  Estudiantes              -  Argentinos Juniors
+  Rosario Central          -  Belgrano de Córdoba
+  Racing Club              -  River Plate

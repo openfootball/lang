@@ -1,0 +1,78 @@
+= Austria Bundesliga 2023/24, Qualifikationsgruppe
+
+# 30 match(es), 6 team(s), 10 round(s)
+
+
+
+Matchday 23
+[Sat Mar/16]
+  17.00  FC Blau Weiß Linz        0-0  Austria Lustenau
+         SCR Altach               1-1 (0-1)  Austria Wien
+         WSG Tirol                1-1 (0-0)  Wolfsberger AC
+
+
+Matchday 24
+[Fri Mar/29]
+  19.30  Austria Wien             0-0  FC Blau Weiß Linz
+[Sat Mar/30]
+  17.00  Wolfsberger AC           0-0  SCR Altach
+         Austria Lustenau         1-2 (0-1)  WSG Tirol
+
+
+Matchday 25
+[Fri Apr/5]
+  19.30  SCR Altach               0-0  WSG Tirol
+[Sat Apr/6]
+  17.00  Austria Wien             1-1 (0-0)  Austria Lustenau
+  19.30  FC Blau Weiß Linz        0-0  Wolfsberger AC
+
+
+Matchday 26
+[Sat Apr/13]
+  17.00  Austria Lustenau         0-1 (0-0)  SCR Altach
+         Wolfsberger AC           0-1 (0-1)  Austria Wien
+         WSG Tirol                2-1 (1-0)  FC Blau Weiß Linz
+
+
+Matchday 27
+[Sat Apr/20]
+  17.00  Wolfsberger AC           1-1 (1-1)  Austria Lustenau
+         Austria Wien             3-0 (2-0)  WSG Tirol
+         SCR Altach               2-2 (1-1)  FC Blau Weiß Linz
+
+
+Matchday 28
+[Tue Apr/23]
+  18.30  Austria Lustenau         1-2 (0-0)  Wolfsberger AC
+         WSG Tirol                1-0 (0-0)  Austria Wien
+  20.30  FC Blau Weiß Linz        2-1 (0-1)  SCR Altach
+
+
+Matchday 29
+[Fri Apr/26]
+  19.30  Austria Wien             2-2 (1-1)  SCR Altach
+[Sat Apr/27]
+  17.00  WSG Tirol                0-0  Austria Lustenau
+         Wolfsberger AC           0-2 (0-1)  FC Blau Weiß Linz
+
+
+Matchday 30
+[Fri May/3]
+  19.30  Austria Lustenau         2-0 (2-0)  Austria Wien
+[Sat May/4]
+  17.00  SCR Altach               0-1 (0-1)  Wolfsberger AC
+         FC Blau Weiß Linz        3-2 (2-1)  WSG Tirol
+
+
+Matchday 31
+[Sat May/11]
+  17.00  Austria Lustenau         1-0 (1-0)  FC Blau Weiß Linz
+         WSG Tirol                0-1 (0-1)  SCR Altach
+         Austria Wien             0-4 (0-1)  Wolfsberger AC
+
+
+Matchday 32
+[Sat May/18]
+  17.00  Wolfsberger AC           3-1 (0-1)  WSG Tirol
+         FC Blau Weiß Linz        1-2 (0-1)  Austria Wien
+         SCR Altach               2-2 (1-1)  Austria Lustenau

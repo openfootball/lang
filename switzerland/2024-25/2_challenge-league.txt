@@ -1,0 +1,178 @@
+= Switzerland Challenge League 2024/25
+
+# 90 match(es), 10 team(s), 18 round(s)
+
+
+
+Matchday 1
+[Fri Jul/19]
+  19.30  FC Schaffhausen          -  Etoile Carouge FC
+         Neuchâtel Xamax FCS      -  Stade-Lausanne-Ouchy
+  20.15  FC Aarau                 -  FC Thun Berner Oberland
+[Sat Jul/20]
+  18.00  AC Bellinzona            -  FC Wil 1900
+[Sun Jul/21]
+  14.15  FC Vaduz                 -  Stade Nyonnais
+
+
+Matchday 2
+[Fri Jul/26]
+  19.30  Stade-Lausanne-Ouchy     -  FC Schaffhausen
+         Stade Nyonnais           -  AC Bellinzona
+  20.15  Etoile Carouge FC        -  Neuchâtel Xamax FCS
+         FC Wil 1900              -  FC Aarau
+[Sun Jul/28]
+  16.30  FC Thun Berner Oberland  -  FC Vaduz
+
+
+Matchday 3
+[Fri Aug/2]
+  19.30  Stade Nyonnais           -  FC Schaffhausen
+  20.15  FC Thun Berner Oberland  -  Stade-Lausanne-Ouchy
+[Sat Aug/3]
+  18.00  AC Bellinzona            -  Etoile Carouge FC
+         FC Aarau                 -  Neuchâtel Xamax FCS
+[Sun Aug/4]
+  14.15  FC Vaduz                 -  FC Wil 1900
+
+
+Matchday 4
+[Fri Aug/9]
+  19.30  Stade-Lausanne-Ouchy     -  FC Aarau
+  20.15  Etoile Carouge FC        -  FC Thun Berner Oberland
+         Neuchâtel Xamax FCS      -  AC Bellinzona
+[Sat Aug/10]
+  18.00  FC Wil 1900              -  Stade Nyonnais
+[Sun Aug/11]
+  14.15  FC Schaffhausen          -  FC Vaduz
+
+
+Matchday 5
+[Fri Aug/23]
+  20.15  FC Wil 1900              -  Neuchâtel Xamax FCS
+[Sat Aug/24]
+  18.00  AC Bellinzona            -  FC Schaffhausen
+         FC Aarau                 -  Etoile Carouge FC
+[Sun Aug/25]
+  14.15  FC Vaduz                 -  Stade-Lausanne-Ouchy
+  16.30  FC Thun Berner Oberland  -  Stade Nyonnais
+
+
+Matchday 6
+[Fri Aug/30]
+  19.30  Neuchâtel Xamax FCS      -  FC Vaduz
+         Stade Nyonnais           -  Stade-Lausanne-Ouchy
+  20.15  Etoile Carouge FC        -  FC Wil 1900
+         FC Schaffhausen          -  FC Thun Berner Oberland
+[Sat Aug/31]
+  18.00  FC Aarau                 -  AC Bellinzona
+
+
+Matchday 7
+[Fri Sep/20]
+  19.30  FC Schaffhausen          -  Neuchâtel Xamax FCS
+         Stade-Lausanne-Ouchy     -  FC Wil 1900
+         Stade Nyonnais           -  Etoile Carouge FC
+  20.15  FC Thun Berner Oberland  -  AC Bellinzona
+         FC Vaduz                 -  FC Aarau
+
+
+Matchday 8
+[Mon Sep/23]
+  19.30  FC Wil 1900              -  FC Thun Berner Oberland
+         Neuchâtel Xamax FCS      -  Stade Nyonnais
+  20.15  FC Aarau                 -  FC Schaffhausen
+[Tue Sep/24]
+  20.15  AC Bellinzona            -  Stade-Lausanne-Ouchy
+         Etoile Carouge FC        -  FC Vaduz
+
+
+Matchday 9
+[Fri Sep/27]
+  19.30  FC Schaffhausen          -  FC Wil 1900
+         Stade-Lausanne-Ouchy     -  Etoile Carouge FC
+         Stade Nyonnais           -  FC Aarau
+  20.15  FC Thun Berner Oberland  -  Neuchâtel Xamax FCS
+[Sun Sep/29]
+  14.15  FC Vaduz                 -  AC Bellinzona
+
+
+Matchday 10
+[Fri Oct/4]
+  AC Bellinzona            -  FC Thun Berner Oberland
+  Etoile Carouge FC        -  Stade Nyonnais
+  FC Aarau                 -  FC Vaduz
+  FC Wil 1900              -  Stade-Lausanne-Ouchy
+  Neuchâtel Xamax FCS      -  FC Schaffhausen
+
+
+Matchday 11
+[Fri Oct/18]
+  FC Schaffhausen          -  FC Aarau
+  Stade-Lausanne-Ouchy     -  AC Bellinzona
+  FC Vaduz                 -  FC Thun Berner Oberland
+  Neuchâtel Xamax FCS      -  Etoile Carouge FC
+  Stade Nyonnais           -  FC Wil 1900
+
+
+Matchday 12
+[Fri Oct/25]
+  AC Bellinzona            -  Neuchâtel Xamax FCS
+  Etoile Carouge FC        -  Stade-Lausanne-Ouchy
+  FC Aarau                 -  Stade Nyonnais
+  FC Thun Berner Oberland  -  FC Schaffhausen
+  FC Wil 1900              -  FC Vaduz
+
+
+Matchday 13
+[Fri Nov/1]
+  Etoile Carouge FC        -  FC Aarau
+  FC Schaffhausen          -  AC Bellinzona
+  Stade-Lausanne-Ouchy     -  FC Vaduz
+  Neuchâtel Xamax FCS      -  FC Wil 1900
+  Stade Nyonnais           -  FC Thun Berner Oberland
+
+
+Matchday 14
+[Fri Nov/8]
+  AC Bellinzona            -  FC Aarau
+  Stade-Lausanne-Ouchy     -  Stade Nyonnais
+  FC Thun Berner Oberland  -  Etoile Carouge FC
+  FC Vaduz                 -  Neuchâtel Xamax FCS
+  FC Wil 1900              -  FC Schaffhausen
+
+
+Matchday 15
+[Fri Nov/22]
+  Etoile Carouge FC        -  AC Bellinzona
+  FC Aarau                 -  FC Wil 1900
+  FC Schaffhausen          -  Stade-Lausanne-Ouchy
+  Neuchâtel Xamax FCS      -  FC Thun Berner Oberland
+  Stade Nyonnais           -  FC Vaduz
+
+
+Matchday 16
+[Fri Nov/29]
+  AC Bellinzona            -  Stade Nyonnais
+  Stade-Lausanne-Ouchy     -  Neuchâtel Xamax FCS
+  FC Thun Berner Oberland  -  FC Aarau
+  FC Vaduz                 -  FC Schaffhausen
+  FC Wil 1900              -  Etoile Carouge FC
+
+
+Matchday 17
+[Fri Dec/6]
+  AC Bellinzona            -  FC Vaduz
+  Etoile Carouge FC        -  FC Schaffhausen
+  FC Aarau                 -  Stade-Lausanne-Ouchy
+  FC Thun Berner Oberland  -  FC Wil 1900
+  Stade Nyonnais           -  Neuchâtel Xamax FCS
+
+
+Matchday 18
+[Fri Dec/13]
+  FC Schaffhausen          -  Stade Nyonnais
+  Stade-Lausanne-Ouchy     -  FC Thun Berner Oberland
+  FC Vaduz                 -  Etoile Carouge FC
+  FC Wil 1900              -  AC Bellinzona
+  Neuchâtel Xamax FCS      -  FC Aarau

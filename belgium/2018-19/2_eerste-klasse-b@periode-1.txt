@@ -1,0 +1,140 @@
+= Belgium Eerste klasse B 2018/19, Periode 1
+
+# 56 match(es), 8 team(s), 14 round(s)
+
+
+
+Matchday 1
+[Fri Aug/3]
+  20.30  Lommel SK                1-0 (1-0)  Union Saint-Gilloise
+[Sat Aug/4]
+  17.00  Oud-Heverlee Leuven      1-1 (1-0)  KV Mechelen
+  20.30  KVC Westerlo             2-1 (1-0)  KSV Roeselare
+[Sun Aug/5]
+  16.00  AFC Tubize               3-3 (1-3)  KFCO Beerschot Wilrijk
+
+
+Matchday 2
+[Fri Aug/10]
+  20.30  KFCO Beerschot Wilrijk   1-1 (1-1)  KVC Westerlo
+[Sat Aug/11]
+  17.00  KSV Roeselare            2-2 (1-1)  KV Mechelen
+  20.30  Lommel SK                2-2 (0-1)  AFC Tubize
+[Sun Aug/12]
+  16.00  Union Saint-Gilloise     1-2 (1-1)  Oud-Heverlee Leuven
+
+
+Matchday 3
+[Fri Aug/17]
+  20.30  KV Mechelen              1-2 (0-0)  Lommel SK
+[Sat Aug/18]
+  17.00  KVC Westerlo             1-3 (0-0)  Union Saint-Gilloise
+  20.30  AFC Tubize               0-0  KSV Roeselare
+[Sun Aug/19]
+  16.00  Oud-Heverlee Leuven      1-1 (1-0)  KFCO Beerschot Wilrijk
+
+
+Matchday 4
+[Fri Aug/31]
+  20.30  KFCO Beerschot Wilrijk   1-0 (1-0)  Union Saint-Gilloise
+[Sat Sep/1]
+  17.00  Oud-Heverlee Leuven      1-3 (0-1)  KVC Westerlo
+  20.30  KSV Roeselare            2-2 (1-2)  Lommel SK
+[Sun Sep/2]
+  16.00  KV Mechelen              1-0 (1-0)  AFC Tubize
+
+
+Matchday 5
+[Sat Sep/8]
+  17.00  Lommel SK                1-1 (0-1)  Oud-Heverlee Leuven
+  20.30  KVC Westerlo             2-1 (0-0)  AFC Tubize
+[Sun Sep/9]
+  14.30  Union Saint-Gilloise     2-2 (0-1)  KV Mechelen
+  18.00  KSV Roeselare            2-1 (1-0)  KFCO Beerschot Wilrijk
+
+
+Matchday 6
+[Fri Sep/14]
+  20.30  KFCO Beerschot Wilrijk   1-0 (0-0)  KV Mechelen
+[Sat Sep/15]
+  17.00  AFC Tubize               3-1 (2-0)  Oud-Heverlee Leuven
+  20.30  Union Saint-Gilloise     2-0 (0-0)  KSV Roeselare
+[Sun Sep/16]
+  16.00  KVC Westerlo             4-1 (2-0)  Lommel SK
+
+
+Matchday 7
+[Fri Sep/21]
+  20.30  AFC Tubize               0-2 (0-0)  Union Saint-Gilloise
+[Sat Sep/22]
+  17.00  KFCO Beerschot Wilrijk   1-3 (0-1)  Lommel SK
+  20.30  Oud-Heverlee Leuven      0-2 (0-1)  KSV Roeselare
+[Sun Sep/23]
+  16.00  KV Mechelen              2-0 (0-0)  KVC Westerlo
+
+
+Matchday 8
+[Fri Sep/28]
+  20.30  KSV Roeselare            2-1 (0-1)  AFC Tubize
+[Sat Sep/29]
+  17.00  KVC Westerlo             1-2 (1-1)  KFCO Beerschot Wilrijk
+  20.30  Lommel SK                0-3 (0-0)  KV Mechelen
+[Sun Sep/30]
+  16.00  Oud-Heverlee Leuven      1-3 (0-2)  Union Saint-Gilloise
+
+
+Matchday 9
+[Fri Oct/5]
+  20.30  KV Mechelen              3-0 (2-0)  Oud-Heverlee Leuven
+[Sat Oct/6]
+  17.00  Lommel SK                3-1 (2-0)  KSV Roeselare
+  20.30  KFCO Beerschot Wilrijk   1-0 (0-0)  AFC Tubize
+[Sun Oct/7]
+  16.00  Union Saint-Gilloise     2-0 (0-0)  KVC Westerlo
+
+
+Matchday 10
+[Tue Oct/30]
+  20.30  Union Saint-Gilloise     2-0 (0-0)  KFCO Beerschot Wilrijk
+         AFC Tubize               0-3 (0-3)  KV Mechelen
+[Wed Oct/31]
+  20.30  KSV Roeselare            0-1 (0-0)  KVC Westerlo
+[Tue Dec/4]
+  20.30  Oud-Heverlee Leuven      1-2 (1-1)  Lommel SK
+
+
+Matchday 11
+[Fri Oct/19]
+  20.30  KVC Westerlo             0-1 (0-1)  Oud-Heverlee Leuven
+[Sat Oct/20]
+  17.00  KSV Roeselare            1-1 (0-0)  Union Saint-Gilloise
+  20.30  AFC Tubize               0-2 (0-0)  Lommel SK
+[Sun Oct/21]
+  16.00  KV Mechelen              3-0 (2-0)  KFCO Beerschot Wilrijk
+
+
+Matchday 12
+[Fri Oct/26]
+  20.30  KFCO Beerschot Wilrijk   3-1 (2-0)  Oud-Heverlee Leuven
+[Sat Oct/27]
+  17.00  Union Saint-Gilloise     3-2 (0-1)  AFC Tubize
+  20.30  KV Mechelen              3-0 (0-0)  KSV Roeselare
+[Sun Oct/28]
+  16.00  Lommel SK                0-1 (0-0)  KVC Westerlo
+
+
+Matchday 13
+[Sat Nov/3]
+  17.00  Oud-Heverlee Leuven      4-1 (1-1)  AFC Tubize
+  20.30  KFCO Beerschot Wilrijk   2-1 (1-1)  KSV Roeselare
+[Sun Nov/4]
+  16.00  Union Saint-Gilloise     1-1 (0-1)  Lommel SK
+  20.00  KVC Westerlo             0-3 (0-2)  KV Mechelen
+
+
+Matchday 14
+[Fri Nov/9]
+  20.30  KSV Roeselare            0-4 (0-4)  Oud-Heverlee Leuven
+         KV Mechelen              2-1 (1-0)  Union Saint-Gilloise
+         Lommel SK                1-2 (0-2)  KFCO Beerschot Wilrijk
+         AFC Tubize               2-0 (1-0)  KVC Westerlo

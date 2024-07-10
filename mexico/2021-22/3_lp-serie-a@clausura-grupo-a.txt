@@ -1,0 +1,172 @@
+= Mexico LP - Serie A 2021/22, Clausura Grupo A
+
+# 91 match(es), 14 team(s), 13 round(s)
+
+
+
+Matchday 1
+[Sat Jan/15]
+  10.00  Cimarrones de Sonora II  1-1 (1-0)  Alacranes de Durango
+  15.30  Mazorqueros              3-2 (1-2)  Colima FC
+  16.00  Catedráticos Elite       0-2 (0-2)  Coras de Nayarit
+[Tue Mar/1]
+  17.00  Tecos Fútbol Club        2-1 (0-0)  Correcaminos UAT II
+[Wed Mar/2]
+  16.00  Saltillo FC              1-0 (0-0)  Tuzos de la UAZ
+[Wed Mar/9]
+  15.30  Tritones Vallarta        4-1 (1-1)  Mineros de Fresnillo FC
+[Thu Apr/7]
+  11.00  Gavilanes de Matamoros   2-2 (2-2)  Leones Negros II
+
+
+Matchday 2
+[Fri Jan/21]
+  20.00  Alacranes de Durango     3-1 (0-0)  Saltillo FC
+[Sat Jan/22]
+  11.00  Leones Negros II         0-1 (0-0)  Mazorqueros
+  16.00  Correcaminos UAT II      0-2 (0-2)  Cimarrones de Sonora II
+  17.00  Mineros de Fresnillo FC  2-2 (0-1)  Catedráticos Elite
+[Wed Mar/23]
+  15.30  Tuzos de la UAZ          2-2 (0-1)  Tritones Vallarta
+  18.00  Colima FC                0-1 (0-0)  Tecos Fútbol Club
+[Tue Mar/29]
+  20.30  Coras de Nayarit         1-1 (0-0)  Gavilanes de Matamoros
+
+
+Matchday 3
+[Fri Jan/28]
+  19.00  Tecos Fútbol Club        1-1 (1-0)  Leones Negros II
+[Sat Jan/29]
+  15.30  Tritones Vallarta        1-0 (0-0)  Alacranes de Durango
+         Mazorqueros              1-1 (1-1)  Coras de Nayarit
+  16.00  Catedráticos Elite       0-2 (0-2)  Tuzos de la UAZ
+         Saltillo FC              2-1 (2-0)  Cimarrones de Sonora II
+         Gavilanes de Matamoros   1-0 (1-0)  Mineros de Fresnillo FC
+  19.00  Colima FC                1-0 (1-0)  Correcaminos UAT II
+
+
+Matchday 4
+[Fri Feb/4]
+  20.00  Alacranes de Durango     6-0 (2-0)  Catedráticos Elite
+  21.30  Coras de Nayarit         1-0 (0-0)  Tecos Fútbol Club
+[Sat Feb/5]
+  11.00  Cimarrones de Sonora II  1-3 (0-1)  Tritones Vallarta
+         Leones Negros II         1-2 (1-1)  Colima FC
+  15.30  Tuzos de la UAZ          1-1 (1-1)  Gavilanes de Matamoros
+  16.00  Correcaminos UAT II      1-1 (0-0)  Saltillo FC
+  17.00  Mineros de Fresnillo FC  1-3 (0-2)  Mazorqueros
+
+
+Matchday 5
+[Fri Feb/11]
+  19.00  Tecos Fútbol Club        2-2 (1-1)  Mineros de Fresnillo FC
+[Sat Feb/12]
+  11.00  Leones Negros II         0-1 (0-0)  Correcaminos UAT II
+  15.30  Mazorqueros              4-0 (0-0)  Tuzos de la UAZ
+         Gavilanes de Matamoros   1-1 (1-0)  Alacranes de Durango
+  16.00  Catedráticos Elite       1-2 (0-0)  Cimarrones de Sonora II
+  19.00  Colima FC                0-1 (0-1)  Coras de Nayarit
+[Mon Feb/14]
+  15.30  Tritones Vallarta        2-1 (0-0)  Saltillo FC
+
+
+Matchday 6
+[Fri Feb/18]
+  12.00  Cimarrones de Sonora II  0-0  Gavilanes de Matamoros
+  20.00  Alacranes de Durango     1-1 (1-1)  Mazorqueros
+  20.30  Coras de Nayarit         3-0 (2-0)  Leones Negros II
+[Sat Feb/19]
+  15.30  Tuzos de la UAZ          5-0 (4-0)  Tecos Fútbol Club
+  16.00  Correcaminos UAT II      1-3 (0-2)  Tritones Vallarta
+         Saltillo FC              3-0 (1-0)  Catedráticos Elite
+  17.00  Mineros de Fresnillo FC  0-0  Colima FC
+
+
+Matchday 7
+[Fri Feb/25]
+  19.00  Tecos Fútbol Club        0-2 (0-0)  Alacranes de Durango
+  21.30  Coras de Nayarit         2-0 (1-0)  Correcaminos UAT II
+[Sat Feb/26]
+  11.00  Leones Negros II         0-0  Mineros de Fresnillo FC
+  16.00  Catedráticos Elite       1-3 (0-0)  Tritones Vallarta
+         Gavilanes de Matamoros   1-2 (0-1)  Saltillo FC
+  19.00  Colima FC                1-1 (1-0)  Tuzos de la UAZ
+[Mon Feb/28]
+  15.30  Mazorqueros              2-1 (1-1)  Cimarrones de Sonora II
+
+
+Matchday 8
+[Fri Mar/4]
+  17.00  Mineros de Fresnillo FC  5-3 (2-2)  Coras de Nayarit
+  20.00  Alacranes de Durango     6-1 (3-1)  Colima FC
+[Sat Mar/5]
+  11.00  Cimarrones de Sonora II  0-1 (0-0)  Tecos Fútbol Club
+  15.30  Tritones Vallarta        1-0 (1-0)  Gavilanes de Matamoros
+  16.00  Saltillo FC              1-5 (0-2)  Mazorqueros
+[Wed Mar/16]
+  11.00  Correcaminos UAT II      1-1 (1-1)  Catedráticos Elite
+[Tue Mar/29]
+  15.30  Tuzos de la UAZ          2-3 (1-1)  Leones Negros II
+
+
+Matchday 9
+[Fri Mar/11]
+  19.00  Tecos Fútbol Club        1-2 (0-1)  Saltillo FC
+  21.30  Coras de Nayarit         2-2 (0-1)  Tuzos de la UAZ
+[Sat Mar/12]
+  11.00  Leones Negros II         2-4 (0-1)  Alacranes de Durango
+  15.30  Mazorqueros              1-0 (0-0)  Tritones Vallarta
+  19.00  Colima FC                0-1 (0-0)  Cimarrones de Sonora II
+[Sun Mar/13]
+  17.00  Mineros de Fresnillo FC  1-3 (0-1)  Correcaminos UAT II
+[Mon Mar/14]
+  15.30  Gavilanes de Matamoros   3-0 (2-0)  Catedráticos Elite
+
+
+Matchday 10
+[Sat Mar/19]
+  10.00  Cimarrones de Sonora II  4-0 (2-0)  Leones Negros II
+  15.30  Tritones Vallarta        1-1 (0-0)  Tecos Fútbol Club
+         Tuzos de la UAZ          1-1 (1-1)  Mineros de Fresnillo FC
+  16.00  Correcaminos UAT II      0-3 (0-2)  Gavilanes de Matamoros
+         Catedráticos Elite       0-2 (0-0)  Mazorqueros
+         Saltillo FC              2-1 (0-1)  Colima FC
+[Mon Mar/21]
+  17.00  Alacranes de Durango     0-0  Coras de Nayarit
+
+
+Matchday 11
+[Fri Mar/25]
+  19.00  Tecos Fútbol Club        1-1 (1-0)  Catedráticos Elite
+  20.30  Coras de Nayarit         2-1 (1-1)  Cimarrones de Sonora II
+[Sat Mar/26]
+  11.00  Leones Negros II         2-1 (2-1)  Saltillo FC
+  15.30  Tuzos de la UAZ          4-1 (4-1)  Correcaminos UAT II
+         Mazorqueros              0-0  Gavilanes de Matamoros
+  16.30  Colima FC                0-2 (0-1)  Tritones Vallarta
+  17.00  Mineros de Fresnillo FC  2-3 (0-2)  Alacranes de Durango
+
+
+Matchday 12
+[Fri Apr/1]
+  21.00  Alacranes de Durango     1-1 (0-1)  Tuzos de la UAZ
+[Sat Apr/2]
+  12.00  Cimarrones de Sonora II  2-2 (1-0)  Mineros de Fresnillo FC
+  16.30  Tritones Vallarta        1-2 (1-0)  Leones Negros II
+         Mazorqueros              5-1 (4-1)  Correcaminos UAT II
+  17.00  Catedráticos Elite       3-3 (2-1)  Colima FC
+         Saltillo FC              2-1 (0-0)  Coras de Nayarit
+         Gavilanes de Matamoros   1-1 (1-0)  Tecos Fútbol Club
+
+
+Matchday 13
+[Fri Apr/8]
+  19.00  Tecos Fútbol Club        2-2 (1-1)  Mazorqueros
+  21.30  Coras de Nayarit         1-0 (0-0)  Tritones Vallarta
+[Sat Apr/9]
+  15.30  Tuzos de la UAZ          1-3 (0-2)  Cimarrones de Sonora II
+  16.00  Correcaminos UAT II      0-4 (0-2)  Alacranes de Durango
+  16.30  Colima FC                0-0  Gavilanes de Matamoros
+  17.00  Mineros de Fresnillo FC  0-5 (0-4)  Saltillo FC
+[Sun Apr/10]
+  11.00  Leones Negros II         0-0  Catedráticos Elite

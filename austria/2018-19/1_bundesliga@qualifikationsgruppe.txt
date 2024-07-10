@@ -1,0 +1,74 @@
+= Austria Bundesliga 2018/19, Qualifikationsgruppe
+
+# 30 match(es), 6 team(s), 10 round(s)
+
+
+
+Matchday 23
+[Sat Mar/30]
+  17.00  Rapid Wien               3-0 (1-0)  FC Admira Wacker
+         TSV Hartberg             0-2 (0-2)  FC Wacker Innsbruck
+         SCR Altach               2-1 (1-1)  SV Mattersburg
+
+
+Matchday 24
+[Sat Apr/6]
+  17.00  FC Wacker Innsbruck      0-2 (0-1)  Rapid Wien
+         FC Admira Wacker         1-1 (1-0)  SCR Altach
+         SV Mattersburg           3-0 (0-0)  TSV Hartberg
+
+
+Matchday 25
+[Sat Apr/13]
+  17.00  FC Wacker Innsbruck      1-3 (0-1)  FC Admira Wacker
+         TSV Hartberg             0-1 (0-0)  SCR Altach
+         Rapid Wien               2-1 (0-0)  SV Mattersburg
+
+
+Matchday 26
+[Sat Apr/20]
+  17.00  SCR Altach               2-2 (0-0)  Rapid Wien
+         FC Admira Wacker         2-1 (1-1)  TSV Hartberg
+         SV Mattersburg           3-1 (1-0)  FC Wacker Innsbruck
+
+
+Matchday 27
+[Tue Apr/23]
+  19.00  FC Wacker Innsbruck      0-4 (0-0)  SCR Altach
+         FC Admira Wacker         0-2 (0-0)  SV Mattersburg
+         TSV Hartberg             2-4 (1-1)  Rapid Wien
+
+
+Matchday 28
+[Sat Apr/27]
+  17.00  SCR Altach               1-4 (1-1)  FC Wacker Innsbruck
+         SV Mattersburg           1-1 (1-0)  FC Admira Wacker
+         Rapid Wien               3-4 (2-2)  TSV Hartberg
+
+
+Matchday 29
+[Sat May/4]
+  17.00  FC Admira Wacker         3-4 (0-3)  Rapid Wien
+         FC Wacker Innsbruck      1-0 (1-0)  TSV Hartberg
+         SV Mattersburg           0-0  SCR Altach
+
+
+Matchday 30
+[Sat May/11]
+  17.00  SCR Altach               2-2 (1-2)  FC Admira Wacker
+         TSV Hartberg             2-1 (0-0)  SV Mattersburg
+         Rapid Wien               1-0 (0-0)  FC Wacker Innsbruck
+
+
+Matchday 31
+[Sat May/18]
+  17.00  FC Admira Wacker         3-2 (2-0)  FC Wacker Innsbruck
+         SCR Altach               3-1 (1-0)  TSV Hartberg
+         SV Mattersburg           1-0 (1-0)  Rapid Wien
+
+
+Matchday 32
+[Sat May/25]
+  17.00  Rapid Wien               1-2 (0-0)  SCR Altach
+         TSV Hartberg             3-1 (1-0)  FC Admira Wacker
+         FC Wacker Innsbruck      4-0 (2-0)  SV Mattersburg

@@ -1,0 +1,123 @@
+= Mexico LP - Serie A 2022/23, Clausura Grupo C
+
+# 55 match(es), 11 team(s), 11 round(s)
+
+
+
+Matchday 1
+[Fri Jan/6]
+  12.00  CF Pachuca II            4-0 (2-0)  Cafetaleros de Chiapas
+[Sat Jan/7]
+  15.00  Deportivo Venados        1-2 (1-0)  Yalmakan FC
+  16.00  Deportivo Dongu          1-2 (1-2)  Inter Playa
+[Sun Jan/8]
+  Real de Arteaga          0-1  Escorpiones              [awarded]
+[Wed Feb/22]
+  12.00  Leviatán FC              4-3 (3-1)  Sporting Canamy
+
+
+Matchday 2
+[Fri Jan/13]
+  16.00  Inter Playa              8-0 (4-0)  Real de Arteaga
+[Sat Jan/14]
+  14.00  Yalmakan FC              0-0  Montañeses FC
+  16.00  Sporting Canamy          2-2 (1-1)  Deportivo Dongu
+         Escorpiones              3-1 (1-0)  Deportivo Venados
+  17.00  Cafetaleros de Chiapas   2-0 (0-0)  Leviatán FC
+
+
+Matchday 3
+[Fri Jan/20]
+  12.00  CF Pachuca II            8-1 (5-1)  Yalmakan FC
+[Sat Jan/21]
+  15.00  Deportivo Venados        8-0 (3-0)  Real de Arteaga
+  16.00  Sporting Canamy          0-0  Inter Playa
+         Deportivo Dongu          1-2 (0-1)  Cafetaleros de Chiapas
+[Sun Jan/22]
+  12.00  Montañeses FC            1-0 (1-0)  Escorpiones
+
+
+Matchday 4
+[Fri Jan/27]
+  17.00  Inter Playa              2-2 (0-0)  Deportivo Venados
+[Sat Jan/28]
+  14.00  Yalmakan FC              2-0 (1-0)  Leviatán FC
+  15.00  Escorpiones              0-4 (0-2)  CF Pachuca II
+  16.00  Cafetaleros de Chiapas   3-2 (2-1)  Sporting Canamy
+[Sun Jan/29]
+  16.30  Real de Arteaga          1-7 (1-5)  Montañeses FC
+
+
+Matchday 5
+[Fri Feb/3]
+  15.00  Leviatán FC              1-4 (1-1)  Escorpiones
+  16.00  CF Pachuca II            8-0 (4-0)  Real de Arteaga
+[Sat Feb/4]
+  16.00  Deportivo Dongu          2-1 (0-0)  Yalmakan FC
+         Cafetaleros de Chiapas   1-0 (0-0)  Inter Playa
+[Sun Feb/5]
+  12.00  Montañeses FC            1-0 (1-0)  Deportivo Venados
+
+
+Matchday 6
+[Fri Feb/10]
+  16.00  Inter Playa              3-2 (2-0)  Montañeses FC
+[Sat Feb/11]
+  14.00  Yalmakan FC              1-2 (0-0)  Sporting Canamy
+  16.00  Deportivo Venados        2-1 (0-0)  CF Pachuca II
+         Escorpiones              0-1 (0-0)  Deportivo Dongu
+[Sun Feb/12]
+  16.00  Real de Arteaga          0-2 (0-2)  Leviatán FC
+
+
+Matchday 7
+[Fri Feb/17]
+  12.00  CF Pachuca II            4-1 (2-0)  Montañeses FC
+         Leviatán FC              0-5 (0-2)  Deportivo Venados
+[Sat Feb/18]
+  16.00  Sporting Canamy          2-1 (1-1)  Escorpiones
+         Deportivo Dongu          13-0 (9-0)  Real de Arteaga
+         Cafetaleros de Chiapas   3-2 (2-0)  Yalmakan FC
+
+
+Matchday 8
+[Fri Feb/24]
+  17.00  Inter Playa              2-0 (1-0)  CF Pachuca II
+[Sat Feb/25]
+  16.00  Deportivo Venados        0-1 (0-1)  Deportivo Dongu
+         Escorpiones              0-0  Cafetaleros de Chiapas
+[Sun Feb/26]
+  12.00  Montañeses FC            4-0 (3-0)  Leviatán FC
+  16.00  Real de Arteaga          0-9 (0-3)  Sporting Canamy
+
+
+Matchday 9
+[Fri Mar/3]
+  12.00  Leviatán FC              0-8 (0-5)  CF Pachuca II
+[Sat Mar/4]
+  14.00  Yalmakan FC              0-1 (0-1)  Inter Playa
+  16.00  Deportivo Dongu          1-2 (0-1)  Montañeses FC
+         Cafetaleros de Chiapas   6-0 (2-0)  Real de Arteaga
+[Mon Mar/6]
+  20.00  Sporting Canamy          2-4 (2-0)  Deportivo Venados
+
+
+Matchday 10
+[Fri Mar/10]
+  12.00  CF Pachuca II            0-2 (0-0)  Deportivo Dongu
+         Leviatán FC              0-2 (0-1)  Inter Playa
+[Sat Mar/11]
+  15.00  Deportivo Venados        2-0 (0-0)  Cafetaleros de Chiapas
+         Escorpiones              1-0 (0-0)  Yalmakan FC
+[Sun Mar/12]
+  12.00  Montañeses FC            2-0 (2-0)  Sporting Canamy
+
+
+Matchday 11
+[Fri Mar/17]
+  17.00  Inter Playa              1-1 (0-1)  Escorpiones
+[Sat Mar/18]
+  14.00  Yalmakan FC              5-0 (2-0)  Real de Arteaga
+  16.00  Sporting Canamy          0-3 (0-1)  CF Pachuca II
+         Deportivo Dongu          9-0 (4-0)  Leviatán FC
+         Cafetaleros de Chiapas   2-1 (1-0)  Montañeses FC

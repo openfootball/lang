@@ -1,0 +1,160 @@
+= Mexico LP - Serie A 2021/22, Clausura Grupo B
+
+# 78 match(es), 13 team(s), 13 round(s)
+
+
+
+Matchday 1
+[Sat Jan/15]
+  16.00  Cafetaleros de Chiapas   4-2 (3-1)  Escorpiones
+  16.15  Sporting Canamy          2-2 (0-0)  Lobos ULMX
+[Sun Jan/16]
+  12.00  Montañeses FC            3-0 (2-0)  Deportivo Dongu
+  15.00  Yalmakan FC              0-0  Inter Playa
+[Mon Jan/17]
+  Leviatán FC              0-3  Reboceros de La Piedad   [awarded]
+[Wed Mar/23]
+  12.00  Inter de Querétaro       0-1 (0-0)  Cañoneros FC
+
+
+Matchday 2
+[Sat Jan/22]
+  10.00  Inter Playa              0-0  Cafetaleros de Chiapas
+  15.00  Deportivo Dongu          2-1 (2-1)  Leviatán FC
+[Sun Jan/23]
+  15.00  Lobos ULMX               0-1 (0-1)  Yalmakan FC
+  16.00  Reboceros de La Piedad   1-1 (0-0)  Sporting Canamy
+[Wed Mar/16]
+  12.00  Cañoneros FC             1-1 (1-0)  Montañeses FC
+[Wed Mar/30]
+  15.00  Escorpiones              1-0 (0-0)  CD Zap
+
+
+Matchday 3
+[Sat Jan/29]
+  15.00  Inter de Querétaro       0-2 (0-1)  Escorpiones
+  16.15  Sporting Canamy          2-1 (1-1)  Deportivo Dongu
+[Sun Jan/30]
+  14.00  Yalmakan FC              0-0  Reboceros de La Piedad
+  15.00  Lobos ULMX               1-4 (0-2)  Inter Playa
+  15.30  CD Zap                   1-4 (0-1)  Cafetaleros de Chiapas
+[Wed Feb/23]
+  15.00  Leviatán FC              0-3 (0-2)  Cañoneros FC
+
+
+Matchday 4
+[Fri Feb/4]
+  14.00  Inter Playa              3-2 (2-2)  CD Zap
+[Sat Feb/5]
+  12.00  Cañoneros FC             1-3 (1-1)  Sporting Canamy
+  15.00  Escorpiones              3-2 (1-0)  Montañeses FC
+         Deportivo Dongu          0-2 (0-0)  Yalmakan FC
+  16.00  Cafetaleros de Chiapas   4-0 (4-0)  Inter de Querétaro
+[Mon Feb/7]
+  16.00  Reboceros de La Piedad   1-2 (0-1)  Lobos ULMX
+
+
+Matchday 5
+[Sat Feb/12]
+  15.00  Leviatán FC              1-5 (0-2)  Escorpiones
+         Inter de Querétaro       0-3 (0-0)  CD Zap
+[Sun Feb/13]
+  12.00  Montañeses FC            1-1 (1-1)  Cafetaleros de Chiapas
+  15.00  Yalmakan FC              3-0 (1-0)  Cañoneros FC
+         Lobos ULMX               2-0 (0-0)  Deportivo Dongu
+  16.00  Reboceros de La Piedad   2-0 (1-0)  Inter Playa
+
+
+Matchday 6
+[Fri Feb/18]
+  15.00  Inter Playa              3-0 (0-0)  Inter de Querétaro
+[Sat Feb/19]
+  12.00  Cañoneros FC             0-1 (0-1)  Lobos ULMX
+  15.00  Deportivo Dongu          0-4 (0-4)  Reboceros de La Piedad
+  16.00  Cafetaleros de Chiapas   4-0 (3-0)  Leviatán FC
+[Sun Feb/20]
+  15.30  CD Zap                   0-1 (0-0)  Montañeses FC
+[Mon Feb/21]
+  18.00  Escorpiones              0-1 (0-1)  Sporting Canamy
+
+
+Matchday 7
+[Sat Feb/26]
+  15.00  Leviatán FC              0-4 (0-2)  CD Zap
+         Deportivo Dongu          1-4 (0-1)  Inter Playa
+  16.15  Sporting Canamy          1-1 (1-0)  Cafetaleros de Chiapas
+[Sun Feb/27]
+  12.00  Montañeses FC            1-2 (1-1)  Inter de Querétaro
+  15.00  Yalmakan FC              0-1 (0-0)  Escorpiones
+  16.00  Reboceros de La Piedad   5-0 (0-0)  Cañoneros FC
+
+
+Matchday 8
+[Fri Mar/4]
+  16.00  Inter Playa              4-1 (1-0)  Montañeses FC
+[Sat Mar/5]
+  12.00  Cañoneros FC             1-0 (1-0)  Deportivo Dongu
+  15.00  Escorpiones              0-1 (0-0)  Lobos ULMX
+         Inter de Querétaro       2-2 (0-2)  Leviatán FC
+  16.00  Cafetaleros de Chiapas   1-0 (0-0)  Yalmakan FC
+[Thu Mar/24]
+  10.00  CD Zap                   2-1 (0-0)  Sporting Canamy
+
+
+Matchday 9
+[Sat Mar/12]
+  12.00  Cañoneros FC             0-1 (0-1)  Inter Playa
+  15.00  Leviatán FC              0-4 (0-3)  Montañeses FC
+  16.15  Sporting Canamy          2-0 (0-0)  Inter de Querétaro
+[Sun Mar/13]
+  12.00  Lobos ULMX               0-0  Cafetaleros de Chiapas
+  14.00  Yalmakan FC              1-1 (1-0)  CD Zap
+  16.00  Reboceros de La Piedad   3-1 (1-0)  Escorpiones
+
+
+Matchday 10
+[Fri Mar/18]
+  15.30  CD Zap                   3-1 (2-0)  Lobos ULMX
+  16.00  Inter Playa              4-0 (1-0)  Leviatán FC
+[Sat Mar/19]
+  15.00  Inter de Querétaro       0-2 (0-2)  Yalmakan FC
+         Escorpiones              5-3 (2-2)  Deportivo Dongu
+  18.00  Cafetaleros de Chiapas   2-0 (1-0)  Reboceros de La Piedad
+[Sun Mar/20]
+  12.00  Montañeses FC            1-0 (0-0)  Sporting Canamy
+
+
+Matchday 11
+[Sat Mar/26]
+  12.00  Cañoneros FC             0-1 (0-0)  Escorpiones
+  15.00  Deportivo Dongu          1-2 (1-0)  Cafetaleros de Chiapas
+[Sun Mar/27]
+  16.00  Yalmakan FC              1-0 (1-0)  Montañeses FC
+         Lobos ULMX               0-0  Inter de Querétaro
+  17.00  Reboceros de La Piedad   1-2 (1-2)  CD Zap
+[Mon Mar/28]
+  17.15  Sporting Canamy          3-1 (1-0)  Leviatán FC
+
+
+Matchday 12
+[Sat Apr/2]
+  16.00  Leviatán FC              1-3 (1-2)  Yalmakan FC
+         Inter de Querétaro       1-1 (0-0)  Reboceros de La Piedad
+  17.15  Sporting Canamy          1-2 (0-1)  Inter Playa
+  19.00  Cafetaleros de Chiapas   8-0 (4-0)  Cañoneros FC
+[Sun Apr/3]
+  15.30  CD Zap                   2-1 (0-0)  Deportivo Dongu
+[Mon Apr/4]
+  16.00  Montañeses FC            1-0 (1-0)  Lobos ULMX
+
+
+Matchday 13
+[Fri Apr/8]
+  16.00  Inter Playa              6-1 (4-0)  Escorpiones
+[Sat Apr/9]
+  12.00  Cañoneros FC             3-2 (2-1)  CD Zap
+  15.00  Deportivo Dongu          6-1 (4-1)  Inter de Querétaro
+[Sun Apr/10]
+  15.00  Yalmakan FC              2-0 (1-0)  Sporting Canamy
+         Lobos ULMX               1-0 (0-0)  Leviatán FC
+  16.00  Reboceros de La Piedad   0-3 (0-0)  Montañeses FC

@@ -1,0 +1,44 @@
+= Belgium Eerste klasse A 2021/22, Europe
+
+# 12 match(es), 4 team(s), 6 round(s)
+
+
+
+Matchday 1
+[Sat Apr/23]
+  20.45  KV Mechelen              1-0 (0-0)  Sporting Charleroi
+[Sun Apr/24]
+  16.00  KAA Gent                 0-1 (0-0)  KRC Genk
+
+
+Matchday 2
+[Fri Apr/29]
+  20.45  KRC Genk                 4-2 (1-0)  KV Mechelen
+[Sat Apr/30]
+  18.30  Sporting Charleroi       1-3 (1-0)  KAA Gent
+
+
+Matchday 3
+[Fri May/6]
+  20.45  Sporting Charleroi       2-2 (1-0)  KRC Genk
+[Sat May/7]
+  20.45  KAA Gent                 1-0 (0-0)  KV Mechelen
+
+
+Matchday 4
+[Tue May/10]
+  18.45  KV Mechelen              1-2 (0-1)  KAA Gent
+  21.00  KRC Genk                 3-2 (0-1)  Sporting Charleroi
+
+
+Matchday 5
+[Sat May/14]
+  20.45  Sporting Charleroi       3-2 (1-1)  KV Mechelen
+[Sun May/15]
+  16.00  KRC Genk                 0-2 (0-1)  KAA Gent
+
+
+Matchday 6
+[Sat May/21]
+  20.45  KAA Gent                 1-2 (1-1)  Sporting Charleroi
+         KV Mechelen              0-0  KRC Genk

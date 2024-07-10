@@ -1,0 +1,86 @@
+= Belgium Eerste klasse A 2016/17, Playoff I
+
+# 30 match(es), 6 team(s), 10 round(s)
+
+
+
+Matchday 1
+[Fri Mar/31]
+  20.30  SV Zulte Waregem         1-2 (0-1)  RSC Anderlecht
+[Sat Apr/1]
+  18.00  Sporting Charleroi       1-1 (0-0)  KV Oostende
+[Sun Apr/2]
+  18.00  KAA Gent                 2-1 (2-1)  Club Brugge KV
+
+
+Matchday 2
+[Fri Apr/7]
+  20.30  KV Oostende              1-1 (0-0)  SV Zulte Waregem
+[Sat Apr/8]
+  18.00  Club Brugge KV           1-1 (0-0)  Sporting Charleroi
+[Sun Apr/9]
+  18.00  RSC Anderlecht           0-0  KAA Gent
+
+
+Matchday 3
+[Sun Apr/16]
+  18.00  KV Oostende              0-1 (0-0)  RSC Anderlecht
+[Mon Apr/17]
+  14.30  SV Zulte Waregem         2-2 (2-1)  Club Brugge KV
+  18.00  Sporting Charleroi       0-1 (0-1)  KAA Gent
+
+
+Matchday 4
+[Fri Apr/21]
+  20.30  KAA Gent                 1-1 (0-0)  KV Oostende
+[Sat Apr/22]
+  18.00  Sporting Charleroi       2-0 (0-0)  SV Zulte Waregem
+[Sun Apr/23]
+  18.00  RSC Anderlecht           2-0 (2-0)  Club Brugge KV
+
+
+Matchday 5
+[Tue Apr/25]
+  20.30  SV Zulte Waregem         0-2 (0-1)  KAA Gent
+[Wed Apr/26]
+  20.30  Club Brugge KV           3-1 (2-1)  KV Oostende
+[Thu Apr/27]
+  20.30  RSC Anderlecht           0-1 (0-1)  Sporting Charleroi
+
+
+Matchday 6
+[Sun Apr/30]
+  14.30  KAA Gent                 0-0  RSC Anderlecht
+  18.00  KV Oostende              1-0 (0-0)  Sporting Charleroi
+[Mon May/1]
+  18.00  Club Brugge KV           2-1 (2-1)  SV Zulte Waregem
+
+
+Matchday 7
+[Fri May/5]
+  20.30  Sporting Charleroi       1-3 (0-1)  Club Brugge KV
+[Sun May/7]
+  14.30  KV Oostende              4-3 (1-1)  KAA Gent
+  18.00  RSC Anderlecht           2-0 (1-0)  SV Zulte Waregem
+
+
+Matchday 8
+[Sat May/13]
+  18.00  SV Zulte Waregem         3-1 (3-1)  KV Oostende
+[Sun May/14]
+  14.30  KAA Gent                 1-1 (1-1)  Sporting Charleroi
+  18.00  Club Brugge KV           1-1 (1-1)  RSC Anderlecht
+
+
+Matchday 9
+[Thu May/18]
+  20.30  KAA Gent                 5-2 (2-0)  SV Zulte Waregem
+         Sporting Charleroi       1-3 (1-0)  RSC Anderlecht
+         KV Oostende              2-1 (1-0)  Club Brugge KV
+
+
+Matchday 10
+[Sun May/21]
+  14.30  Club Brugge KV           2-1 (1-0)  KAA Gent
+         RSC Anderlecht           3-2 (1-1)  KV Oostende
+         SV Zulte Waregem         2-2 (0-2)  Sporting Charleroi

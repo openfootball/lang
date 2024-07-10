@@ -1,0 +1,44 @@
+= Belgium Eerste klasse A 2020/21, Championship
+
+# 12 match(es), 4 team(s), 6 round(s)
+
+
+
+Matchday 1
+[Fri Apr/30]
+  20.45  Royal Antwerp FC         2-3 (0-1)  KRC Genk
+[Sun May/2]
+  18.30  Club Brugge KV           2-2 (0-0)  RSC Anderlecht
+
+
+Matchday 2
+[Fri May/7]
+  20.45  KRC Genk                 3-0 (0-0)  Club Brugge KV
+[Sat May/8]
+  20.45  RSC Anderlecht           2-2 (0-0)  Royal Antwerp FC
+
+
+Matchday 3
+[Wed May/12]
+  20.45  KRC Genk                 1-1 (0-1)  RSC Anderlecht
+[Thu May/13]
+  18.30  Royal Antwerp FC         0-0  Club Brugge KV
+
+
+Matchday 4
+[Sat May/15]
+  20.45  RSC Anderlecht           1-2 (1-1)  KRC Genk
+[Sun May/16]
+  18.30  Club Brugge KV           2-1 (0-0)  Royal Antwerp FC
+
+
+Matchday 5
+[Thu May/20]
+  18.30  KRC Genk                 4-0 (1-0)  Royal Antwerp FC
+  21.00  RSC Anderlecht           3-3 (1-1)  Club Brugge KV
+
+
+Matchday 6
+[Sun May/23]
+  18.30  Royal Antwerp FC         1-0 (0-0)  RSC Anderlecht
+         Club Brugge KV           1-2 (0-0)  KRC Genk

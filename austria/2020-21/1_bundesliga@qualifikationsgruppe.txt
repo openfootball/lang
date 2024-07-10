@@ -1,0 +1,74 @@
+= Austria Bundesliga 2020/21, Qualifikationsgruppe
+
+# 30 match(es), 6 team(s), 10 round(s)
+
+
+
+Matchday 23
+[Sat Apr/3]
+  17.00  Austria Wien             2-0 (0-0)  SCR Altach
+         SKN St. Pölten           0-1 (0-1)  FC Admira Wacker
+         SV Ried                  3-2 (1-2)  TSV Hartberg
+
+
+Matchday 24
+[Sat Apr/10]
+  17.00  TSV Hartberg             1-0 (0-0)  Austria Wien
+         SCR Altach               1-0 (0-0)  SKN St. Pölten
+         FC Admira Wacker         0-2 (0-0)  SV Ried
+
+
+Matchday 25
+[Sat Apr/17]
+  17.00  SKN St. Pölten           1-2 (1-1)  Austria Wien
+         SV Ried                  0-0  SCR Altach
+         FC Admira Wacker         0-1 (0-0)  TSV Hartberg
+
+
+Matchday 26
+[Tue Apr/20]
+  18.30  TSV Hartberg             0-0  SKN St. Pölten
+         SCR Altach               0-1 (0-0)  FC Admira Wacker
+  20.30  Austria Wien             2-2 (1-1)  SV Ried
+
+
+Matchday 27
+[Sat Apr/24]
+  17.00  SV Ried                  2-1 (0-0)  SKN St. Pölten
+         SCR Altach               2-2 (2-1)  TSV Hartberg
+         FC Admira Wacker         0-2 (0-1)  Austria Wien
+
+
+Matchday 28
+[Tue Apr/27]
+  18.30  SKN St. Pölten           0-0  SV Ried
+         TSV Hartberg             2-1 (1-1)  SCR Altach
+         Austria Wien             0-0  FC Admira Wacker
+
+
+Matchday 29
+[Sat May/8]
+  17.00  SCR Altach               2-1 (2-0)  Austria Wien
+         FC Admira Wacker         2-0 (1-0)  SKN St. Pölten
+         TSV Hartberg             1-1 (0-0)  SV Ried
+
+
+Matchday 30
+[Tue May/11]
+  18.30  SV Ried                  0-0  FC Admira Wacker
+         SKN St. Pölten           3-3 (2-0)  SCR Altach
+  20.30  Austria Wien             3-1 (2-0)  TSV Hartberg
+
+
+Matchday 31
+[Sat May/15]
+  17.00  Austria Wien             2-1 (1-1)  SKN St. Pölten
+         SCR Altach               3-0 (1-0)  SV Ried
+         TSV Hartberg             2-0 (1-0)  FC Admira Wacker
+
+
+Matchday 32
+[Fri May/21]
+  19.00  SKN St. Pölten           0-1 (0-1)  TSV Hartberg
+         FC Admira Wacker         1-1 (0-0)  SCR Altach
+         SV Ried                  3-2 (0-1)  Austria Wien

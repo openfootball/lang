@@ -1,0 +1,35 @@
+= Mexico LP - Serie A 2017/18, Clausura Liguilla
+
+# 14 match(es), 8 team(s), 3 round(s)
+
+
+
+Quarterfinals
+[Wed Apr/25]
+  17.00  Tepatitlán               0-2  Loros UCOL
+  19.00  Inter Playa              2-2  Club Irapuato
+  20.00  Alacranes de Durango     0-1  Reboceros de La Piedad
+[Thu Apr/26]
+  19.30  Atlético Reynosa         1-1  Tuxtla FC
+[Sat Apr/28]
+  16.00  Loros UCOL               1-1  Tepatitlán
+  19.00  Club Irapuato            3-0  Inter Playa
+  20.00  Reboceros de La Piedad   1-0  Alacranes de Durango
+[Sun Apr/29]
+  16.00  Tuxtla FC                1-2  Atlético Reynosa
+
+
+Semifinals
+[Wed May/2]
+  19.30  Atlético Reynosa         0-2  Loros UCOL
+  20.00  Club Irapuato            0-0  Reboceros de La Piedad
+[Sat May/5]
+  16.00  Loros UCOL               2-0  Atlético Reynosa
+  20.00  Reboceros de La Piedad   4-0  Club Irapuato
+
+
+Final
+[Wed May/9]
+  20.00  Reboceros de La Piedad   0-2  Loros UCOL
+[Sat May/12]
+  16.00  Loros UCOL               3-0  Reboceros de La Piedad

@@ -1,0 +1,336 @@
+= Mexico LP - Serie A 2020/21, Grupo B
+
+# 156 match(es), 13 team(s), 26 round(s)
+
+
+
+Matchday 1
+[Fri Sep/18]
+  16.30  Inter Playa              2-1 (1-0)  Cafessa Jalisco
+[Sat Sep/19]
+  11.00  Zitácuaro                3-0 (2-0)  Aguacateros CDU
+  16.00  Club de Ciervos          0-4 (0-1)  Cañoneros Marina
+[Sun Sep/20]
+  16.00  Deportivo Dongu          2-1 (1-1)  Azores de Hidalgo
+         Cafetaleros de Chiapas   4-0 (3-0)  Pioneros de Cancún
+[Wed Dec/16]
+  15.00  Club Irapuato            0-2 (0-1)  Cruz Azul Hidalgo
+
+
+Matchday 2
+[Fri Sep/25]
+  15.30  Aguacateros CDU          3-2 (2-1)  Azores de Hidalgo
+  16.00  Pioneros de Cancún       3-0 (2-0)  Zitácuaro
+[Sat Sep/26]
+  15.00  Cañoneros Marina         0-0  Inter Playa
+  19.00  Cafessa Jalisco          3-3 (1-2)  Cafetaleros de Chiapas
+[Sun Sep/27]
+  11.00  Cruz Azul Hidalgo        2-0 (1-0)  Club de Ciervos
+[Wed Nov/18]
+  15.00  CD Cuautla               1-3 (0-1)  Club Irapuato
+
+
+Matchday 3
+[Fri Oct/2]
+  11.00  Club de Ciervos          2-1 (0-1)  CD Cuautla
+[Sat Oct/3]
+  15.00  Cañoneros Marina         0-4 (0-3)  Cruz Azul Hidalgo
+[Sun Oct/4]
+  16.00  Azores de Hidalgo        1-2 (1-2)  Pioneros de Cancún
+         Club Irapuato            2-0 (1-0)  Deportivo Dongu
+[Tue Oct/6]
+  16.00  Inter Playa              1-1 (1-1)  Cafetaleros de Chiapas
+[Wed Dec/16]
+  11.00  Zitácuaro                1-3 (0-1)  Cafessa Jalisco
+
+
+Matchday 4
+[Fri Oct/9]
+  16.00  Deportivo Dongu          3-1 (1-1)  Club de Ciervos
+  19.00  Cafessa Jalisco          0-0  Azores de Hidalgo
+[Sat Oct/10]
+  16.00  Aguacateros CDU          0-4 (0-2)  Club Irapuato
+[Sun Oct/11]
+  11.00  Cruz Azul Hidalgo        2-1 (0-0)  Inter Playa
+  15.30  CD Cuautla               0-0  Cañoneros Marina
+[Thu Oct/22]
+  16.00  Cafetaleros de Chiapas   3-1 (0-0)  Zitácuaro
+
+
+Matchday 5
+[Sat Oct/17]
+  11.00  Cruz Azul Hidalgo        3-0 (2-0)  CD Cuautla
+  16.00  Club de Ciervos          1-3 (0-0)  Aguacateros CDU
+         Club Irapuato            4-1 (1-1)  Pioneros de Cancún
+[Sun Oct/18]
+  15.00  Cañoneros Marina         1-1 (1-0)  Deportivo Dongu
+  16.00  Azores de Hidalgo        0-4 (0-0)  Cafetaleros de Chiapas
+[Mon Oct/19]
+  16.00  Inter Playa              2-1 (1-0)  Zitácuaro
+
+
+Matchday 6
+[Sat Oct/24]
+  16.00  Pioneros de Cancún       4-0 (1-0)  Club de Ciervos
+  19.00  Cafessa Jalisco          4-3 (2-1)  Club Irapuato
+[Sun Oct/25]
+  11.00  Zitácuaro                1-1 (1-1)  Azores de Hidalgo
+  16.00  CD Cuautla               2-0 (1-0)  Inter Playa
+[Mon Oct/26]
+  12.00  Deportivo Dongu          0-4 (0-3)  Cruz Azul Hidalgo
+[Wed Dec/2]
+  15.00  Aguacateros CDU          3-0 (1-0)  Cañoneros Marina
+
+
+Matchday 7
+[Fri Oct/30]
+  16.30  Inter Playa              4-1 (3-0)  Azores de Hidalgo
+[Sat Oct/31]
+  15.00  Cañoneros Marina         0-1 (0-1)  Pioneros de Cancún
+[Sun Nov/1]
+  15.00  CD Cuautla               0-0  Deportivo Dongu
+[Mon Nov/2]
+  15.00  Club de Ciervos          0-5 (0-2)  Cafessa Jalisco
+[Wed Dec/2]
+  15.00  Club Irapuato            4-2 (2-0)  Cafetaleros de Chiapas
+[Wed Dec/9]
+  11.00  Cruz Azul Hidalgo        1-0 (0-0)  Aguacateros CDU
+
+
+Matchday 8
+[Fri Nov/6]
+  12.00  Deportivo Dongu          0-2 (0-0)  Inter Playa
+  15.00  Pioneros de Cancún       3-3 (2-3)  Cruz Azul Hidalgo
+[Sat Nov/7]
+  15.00  Aguacateros CDU          4-1 (1-1)  CD Cuautla
+  19.00  Cafessa Jalisco          1-0 (0-0)  Cañoneros Marina
+[Sun Nov/8]
+  11.00  Zitácuaro                0-0  Club Irapuato
+  15.00  Cafetaleros de Chiapas   2-0 (1-0)  Club de Ciervos
+
+
+Matchday 9
+[Fri Nov/13]
+  15.00  Club Irapuato            5-0 (2-0)  Azores de Hidalgo
+[Sat Nov/14]
+  15.00  Deportivo Dongu          2-2 (1-1)  Aguacateros CDU
+  15.30  Club de Ciervos          0-3 (0-2)  Zitácuaro
+[Sun Nov/15]
+  11.00  Cruz Azul Hidalgo        0-1 (0-1)  Cafessa Jalisco
+  15.00  CD Cuautla               0-2 (0-0)  Pioneros de Cancún
+[Mon Nov/16]
+  12.00  Cañoneros Marina         0-1 (0-1)  Cafetaleros de Chiapas
+
+
+Matchday 10
+[Fri Nov/20]
+  15.00  Aguacateros CDU          0-3 (0-3)  Inter Playa
+[Sat Nov/21]
+  11.00  Zitácuaro                1-0 (0-0)  Cañoneros Marina
+  15.00  Cafetaleros de Chiapas   1-1 (1-0)  Cruz Azul Hidalgo
+[Sun Nov/22]
+  12.00  Cafessa Jalisco          2-2 (1-1)  CD Cuautla
+  15.00  Azores de Hidalgo        2-1 (2-1)  Club de Ciervos
+         Pioneros de Cancún       0-0  Deportivo Dongu
+
+
+Matchday 11
+[Fri Nov/27]
+  16.00  Inter Playa              2-0 (1-0)  Club Irapuato
+[Sat Nov/28]
+  12.00  Cañoneros Marina         2-3 (1-1)  Azores de Hidalgo
+[Sun Nov/29]
+  16.00  CD Cuautla               1-2 (1-1)  Cafetaleros de Chiapas
+         Deportivo Dongu          0-1 (0-1)  Cafessa Jalisco
+[Mon Nov/30]
+  11.00  Cruz Azul Hidalgo        6-0 (4-0)  Zitácuaro
+[Tue Feb/2]
+  11.00  Aguacateros CDU          1-2 (1-2)  Pioneros de Cancún
+
+
+Matchday 12
+[Sat Dec/5]
+  11.00  Zitácuaro                2-0 (0-0)  CD Cuautla
+  15.00  Cafetaleros de Chiapas   7-0 (4-0)  Deportivo Dongu
+  19.00  Cafessa Jalisco          4-1 (4-0)  Aguacateros CDU
+[Sun Dec/6]
+  15.00  Azores de Hidalgo        0-3 (0-0)  Cruz Azul Hidalgo
+         Club Irapuato            0-0  Club de Ciervos
+[Tue Jan/26]
+  15.00  Inter Playa              2-0 (0-0)  Pioneros de Cancún
+
+
+Matchday 13
+[Fri Dec/11]
+  12.00  Cañoneros Marina         1-2 (0-1)  Club Irapuato
+[Sat Dec/12]
+  14.00  Pioneros de Cancún       0-3 (0-3)  Cafessa Jalisco
+  15.00  Aguacateros CDU          2-1 (0-0)  Cafetaleros de Chiapas
+[Sun Dec/13]
+  15.00  Deportivo Dongu          0-1 (0-1)  Zitácuaro
+[Wed Feb/10]
+  11.00  Club de Ciervos          0-3 (0-0)  Inter Playa
+[Wed Apr/7]
+  15.00  CD Cuautla               3-2 (2-1)  Azores de Hidalgo
+
+
+Matchday 14
+[Sat Jan/16]
+  15.00  Aguacateros CDU          1-0 (1-0)  Zitácuaro
+         Cruz Azul Hidalgo        2-2 (2-0)  Club Irapuato
+         Pioneros de Cancún       0-1 (0-1)  Cafetaleros de Chiapas
+  19.00  Cafessa Jalisco          0-2 (0-0)  Inter Playa
+[Wed Feb/17]
+  15.00  Azores de Hidalgo        1-4 (1-2)  Deportivo Dongu
+[Thu Mar/25]
+  12.00  Cañoneros Marina         0-1 (0-1)  Club de Ciervos
+
+
+Matchday 15
+[Fri Jan/22]
+  11.00  Zitácuaro                2-1 (1-1)  Pioneros de Cancún
+[Sat Jan/23]
+  15.00  Cafetaleros de Chiapas   0-0  Cafessa Jalisco
+[Wed Feb/10]
+  11.00  Azores de Hidalgo        0-0  Aguacateros CDU
+[Wed Feb/24]
+  11.00  Club de Ciervos          1-4 (1-4)  Cruz Azul Hidalgo
+  15.00  Inter Playa              4-0 (4-0)  Cañoneros Marina
+[Wed Mar/17]
+  15.00  Club Irapuato            2-1 (1-1)  CD Cuautla
+
+
+Matchday 16
+[Sat Jan/30]
+  15.00  Cafetaleros de Chiapas   2-2 (2-2)  Inter Playa
+         Cruz Azul Hidalgo        2-0 (0-0)  Cañoneros Marina
+         Deportivo Dongu          0-7 (0-3)  Club Irapuato
+  16.00  Pioneros de Cancún       4-1 (4-1)  Azores de Hidalgo
+[Sun Jan/31]
+  15.00  CD Cuautla               1-0 (0-0)  Club de Ciervos
+[Mon Feb/1]
+  19.00  Cafessa Jalisco          2-0 (2-0)  Zitácuaro
+
+
+Matchday 17
+[Fri Feb/5]
+  12.00  Cañoneros Marina         2-1 (0-1)  CD Cuautla
+  15.00  Club Irapuato            1-3 (0-2)  Aguacateros CDU
+  16.00  Inter Playa              1-1 (1-0)  Cruz Azul Hidalgo
+[Sat Feb/6]
+  11.00  Club de Ciervos          2-3 (1-1)  Deportivo Dongu
+         Zitácuaro                2-2 (1-0)  Cafetaleros de Chiapas
+[Sun Feb/7]
+  15.00  Azores de Hidalgo        2-0 (1-0)  Cafessa Jalisco
+
+
+Matchday 18
+[Fri Feb/12]
+  16.00  Pioneros de Cancún       0-3 (0-0)  Club Irapuato
+[Sat Feb/13]
+  11.00  Zitácuaro                0-1 (0-0)  Inter Playa
+  15.00  Cafetaleros de Chiapas   5-0 (3-0)  Azores de Hidalgo
+         Deportivo Dongu          4-2 (1-1)  Cañoneros Marina
+[Sun Feb/14]
+  15.00  CD Cuautla               0-1 (0-0)  Cruz Azul Hidalgo
+[Mon Feb/15]
+  15.00  Aguacateros CDU          2-0 (2-0)  Club de Ciervos
+
+
+Matchday 19
+[Fri Feb/19]
+  15.00  Inter Playa              3-0 (3-0)  CD Cuautla
+         Club Irapuato            0-0  Cafessa Jalisco
+[Sat Feb/20]
+  11.00  Club de Ciervos          1-1 (0-0)  Pioneros de Cancún
+  12.00  Cañoneros Marina         0-4 (0-2)  Aguacateros CDU
+  15.00  Cruz Azul Hidalgo        2-1 (0-0)  Deportivo Dongu
+[Sun Feb/21]
+  15.00  Azores de Hidalgo        2-2 (0-1)  Zitácuaro
+
+
+Matchday 20
+[Sat Feb/27]
+  15.00  Aguacateros CDU          1-2 (1-0)  Cruz Azul Hidalgo
+         Deportivo Dongu          2-1 (0-0)  CD Cuautla
+  16.00  Pioneros de Cancún       1-0 (1-0)  Cañoneros Marina
+  19.00  Cafessa Jalisco          3-0 (1-0)  Club de Ciervos
+[Sun Feb/28]
+  15.00  Azores de Hidalgo        1-4 (0-2)  Inter Playa
+[Mon Mar/1]
+  15.00  Cafetaleros de Chiapas   0-0  Club Irapuato
+
+
+Matchday 21
+[Fri Mar/5]
+  12.00  Cañoneros Marina         2-3 (0-2)  Cafessa Jalisco
+  15.00  Inter Playa              3-1 (0-1)  Deportivo Dongu
+[Sat Mar/6]
+  11.00  Club de Ciervos          0-4 (0-1)  Cafetaleros de Chiapas
+         Cruz Azul Hidalgo        0-1 (0-0)  Pioneros de Cancún
+[Sun Mar/7]
+  15.00  CD Cuautla               0-3 (0-0)  Aguacateros CDU
+         Club Irapuato            2-1 (1-1)  Zitácuaro
+
+
+Matchday 22
+[Fri Mar/12]
+  15.00  Pioneros de Cancún       4-1 (3-0)  CD Cuautla
+[Sat Mar/13]
+  15.00  Aguacateros CDU          1-1 (0-1)  Deportivo Dongu
+  19.00  Cafessa Jalisco          1-3 (0-2)  Cruz Azul Hidalgo
+[Sun Mar/14]
+  15.00  Azores de Hidalgo        1-4 (1-1)  Club Irapuato
+         Cafetaleros de Chiapas   9-1 (5-1)  Cañoneros Marina
+[Mon Mar/15]
+  11.00  Zitácuaro                0-0  Club de Ciervos
+
+
+Matchday 23
+[Fri Mar/19]
+  16.00  Inter Playa              4-1 (3-0)  Aguacateros CDU
+[Sat Mar/20]
+  11.00  Club de Ciervos          2-2 (1-1)  Azores de Hidalgo
+  12.00  Cañoneros Marina         1-2 (0-1)  Zitácuaro
+  15.00  Cruz Azul Hidalgo        1-1 (1-0)  Cafetaleros de Chiapas
+         Deportivo Dongu          2-1 (1-0)  Pioneros de Cancún
+[Sun Mar/21]
+  15.30  CD Cuautla               0-2 (0-1)  Cafessa Jalisco
+
+
+Matchday 24
+[Wed Mar/24]
+  10.00  Pioneros de Cancún       4-3 (1-0)  Aguacateros CDU
+[Fri Mar/26]
+  15.00  Club Irapuato            1-0 (1-0)  Inter Playa
+[Sat Mar/27]
+  15.00  Cafetaleros de Chiapas   2-1 (2-0)  CD Cuautla
+[Sun Mar/28]
+  12.00  Zitácuaro                1-0 (1-0)  Cruz Azul Hidalgo
+[Mon Mar/29]
+  16.00  Azores de Hidalgo        2-1 (1-0)  Cañoneros Marina
+[Wed Mar/31]
+  20.00  Cafessa Jalisco          1-0 (0-0)  Deportivo Dongu
+
+
+Matchday 25
+[Fri Apr/2]
+  15.30  Pioneros de Cancún       2-1 (1-1)  Inter Playa
+[Sat Apr/3]
+  12.00  Club de Ciervos          0-3 (0-0)  Club Irapuato
+  15.30  Aguacateros CDU          1-0 (1-0)  Cafessa Jalisco
+  16.00  Cruz Azul Hidalgo        3-2 (2-0)  Azores de Hidalgo
+         Deportivo Dongu          0-4 (0-2)  Cafetaleros de Chiapas
+[Sun Apr/4]
+  15.00  CD Cuautla               4-1 (2-1)  Zitácuaro
+
+
+Matchday 26
+[Fri Apr/9]
+  11.00  Zitácuaro                1-3 (0-1)  Deportivo Dongu
+  15.00  Club Irapuato            6-0 (2-0)  Cañoneros Marina
+  16.30  Inter Playa              8-0 (4-0)  Club de Ciervos
+  19.30  Cafessa Jalisco          0-0  Pioneros de Cancún
+[Sun Apr/11]
+  15.30  Azores de Hidalgo        0-2 (0-0)  CD Cuautla
+  16.00  Cafetaleros de Chiapas   2-4 (1-2)  Aguacateros CDU

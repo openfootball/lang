@@ -1,0 +1,35 @@
+= Mexico LP - Serie A 2020/21, Fase Final
+
+# 14 match(es), 8 team(s), 3 round(s)
+
+
+
+Quarterfinals
+[Sat Apr/17]
+  16.00  Cafetaleros de Chiapas   0-0  Alacranes de Durango
+  17.00  Colima FC                2-2 (1-1)  Inter Playa
+  19.00  Gavilanes de Matamoros   0-0  Cruz Azul Hidalgo
+[Sun Apr/18]
+  16.00  Reboceros de La Piedad   1-1 (0-1)  Club Irapuato
+[Fri Apr/23]
+  16.00  Inter Playa              1-1 (0-1)  Colima FC
+  20.30  Alacranes de Durango     0-0  Cafetaleros de Chiapas
+[Sat Apr/24]
+  16.00  Cruz Azul Hidalgo        1-0 (0-0)  Gavilanes de Matamoros
+  19.00  Club Irapuato            4-1 (1-1)  Reboceros de La Piedad
+
+
+Semifinals
+[Thu Apr/29]
+  20.00  Club Irapuato            0-0  Inter Playa
+  20.30  Alacranes de Durango     1-1 (1-1)  Cruz Azul Hidalgo
+[Sun May/2]
+  16.00  Cruz Azul Hidalgo        1-1 (1-1)  Alacranes de Durango
+         Inter Playa              1-2 (1-1)  Club Irapuato
+
+
+Final
+[Sun May/9]
+  19.30  Club Irapuato            2-0 (0-0)  Cruz Azul Hidalgo
+[Sun May/16]
+  12.00  Cruz Azul Hidalgo        1-1 (1-0)  Club Irapuato

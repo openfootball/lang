@@ -1,0 +1,37 @@
+= Mexico Primera División 2016/17, Apertura Playoffs
+
+# 14 match(es), 8 team(s), 3 round(s)
+
+
+
+Quarterfinals
+[Wed Nov/23]
+  19.30  Club León                3-0 (2-0)  Club Tijuana
+  21.30  Pumas UNAM               2-2 (1-1)  UANL Tigres
+[Thu Nov/24]
+  19.30  Club Necaxa              2-1 (1-0)  CF Pachuca
+  21.30  CF América               1-1 (1-1)  Deportivo Guadalajara
+[Sat Nov/26]
+  19.00  UANL Tigres              5-0 (2-0)  Pumas UNAM
+  21.00  Club Tijuana             3-2 (3-0)  Club León
+[Sun Nov/27]
+  18.06  Deportivo Guadalajara    0-1 (0-0)  CF América
+  20.06  CF Pachuca               0-0  Club Necaxa
+
+
+Semifinals
+[Wed Nov/30]
+  20.36  Club León                0-1 (0-0)  UANL Tigres
+[Thu Dec/1]
+  21.00  Club Necaxa              1-1 (0-0)  CF América
+[Sat Dec/3]
+  19.00  UANL Tigres              2-1 (1-1)  Club León
+[Sun Dec/4]
+  20.00  CF América               2-0 (0-0)  Club Necaxa
+
+
+Final
+[Thu Dec/22]
+  21.00  CF América               1-1 (0-1)  UANL Tigres
+[Sun Dec/25]
+  18.30  UANL Tigres              3-0 pen. 1-1 a.e.t. (0-0)  CF América

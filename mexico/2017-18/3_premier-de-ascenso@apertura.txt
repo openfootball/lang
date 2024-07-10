@@ -1,0 +1,416 @@
+= Mexico LP - Serie A 2017/18, Apertura
+
+# 306 match(es), 36 team(s), 17 round(s)
+
+
+
+Matchday 1
+[Fri Aug/11]
+  10.00  Club Tijuana II          3-3  Tepatitlán
+  12.00  CF Pachuca II            0-1  Deportivo Toluca II
+  16.00  Deportivo Guadalajara II  2-2  Gavilanes de Matamoros
+  19.30  Dorados UACH             3-1  CF Monterrey II
+  20.30  Alacranes de Durango     3-2  Atlético Reynosa
+[Sat Aug/12]
+  10.00  Monarcas Morelia II      2-1  UANL Tigres II
+  11.30  Atlas Guadalajara II     0-0  Deportivo Tepic
+  15.30  Tuxtla FC                0-2  Inter Playa
+  16.00  Loros UCOL               3-0  Tecos Fútbol Club
+         Real Zamora              2-3  Pumas UNAM II
+         Halcones de Morelos      1-0  Gallos Blancos II
+  17.00  Pioneros de Cancún       3-1  Puebla FC II
+  18.00  Sporting Canamy          1-2  CF América II
+  20.00  Pacific F. C.            0-2  Santos Laguna II
+         Reboceros de La Piedad   2-0  Lobos BUAP II
+[Sun Aug/13]
+  11.00  Club Necaxa II           1-1  Club León II
+  12.00  Cruz Azul Hidalgo        0-0  CD Veracruz II
+  16.00  Club Irapuato            2-2  Cruz Azul II
+
+
+Matchday 2
+[Fri Aug/18]
+  10.00  CF América II            1-2  Pioneros de Cancún
+         Lobos BUAP II            1-1  CF Pachuca II
+         Club León II             0-3  Loros UCOL
+         Pumas UNAM II            1-0  Halcones de Morelos
+  11.00  CD Veracruz II           3-1  Club Irapuato
+         Cruz Azul II             3-1  Sporting Canamy
+  12.00  Gallos Blancos II        5-1  Reboceros de La Piedad
+  17.00  CF Monterrey II          3-3  Atlas Guadalajara II
+  19.00  Tecos Fútbol Club        2-0  Monarcas Morelia II
+  20.30  Deportivo Tepic          0-1  Club Tijuana II
+[Sat Aug/19]
+  10.00  Deportivo Toluca II      3-1  Tuxtla FC
+  11.00  UANL Tigres II           2-0  Pacific F. C.
+         Santos Laguna II         2-2  Dorados UACH
+  12.00  Puebla FC II             2-2  Real Zamora
+  17.00  Gavilanes de Matamoros   2-0  Alacranes de Durango
+  19.00  Atlético Reynosa         2-0  Club Necaxa II
+         Inter Playa              2-0  Cruz Azul Hidalgo
+[Mon Aug/21]
+  17.00  Tepatitlán               3-2  Deportivo Guadalajara II
+
+
+Matchday 3
+[Fri Aug/25]
+  10.00  Club Tijuana II          4-2  CF Monterrey II
+         CD Veracruz II           2-1  Inter Playa
+  12.00  CF Pachuca II            1-1  Gallos Blancos II
+  16.00  Deportivo Guadalajara II  0-0  Deportivo Tepic
+  19.00  Tecos Fútbol Club        0-2  Club León II
+  19.30  Dorados UACH             0-0  UANL Tigres II
+  20.30  Alacranes de Durango     0-2  Tepatitlán
+[Sat Aug/26]
+  10.00  Monarcas Morelia II      2-0  Pacific F. C.
+  11.30  Atlas Guadalajara II     0-0  Santos Laguna II
+  16.00  Tuxtla FC                1-0  Lobos BUAP II
+         Loros UCOL               5-2  Atlético Reynosa
+         Real Zamora              1-3  CF América II
+         Halcones de Morelos      2-2  Puebla FC II
+  18.00  Pioneros de Cancún       1-0  Cruz Azul II
+[Sun Aug/27]
+  11.00  Club Necaxa II           2-2  Gavilanes de Matamoros
+  12.00  Cruz Azul Hidalgo        1-1  Deportivo Toluca II
+  16.00  Club Irapuato            3-1  Sporting Canamy
+[Mon Aug/28]
+  17.00  Reboceros de La Piedad   1-2  Pumas UNAM II
+
+
+Matchday 4
+[Fri Sep/1]
+  10.00  CF América II            3-3  Halcones de Morelos
+         Lobos BUAP II            2-0  Cruz Azul Hidalgo
+         Club León II             1-1  Monarcas Morelia II
+         Pumas UNAM II            1-1  CF Pachuca II
+  12.00  Gallos Blancos II        2-0  Tuxtla FC
+         Puebla FC II             0-3  Reboceros de La Piedad
+  17.00  CF Monterrey II          0-1  Deportivo Guadalajara II
+  20.00  Deportivo Tepic          2-2  Alacranes de Durango
+[Sat Sep/2]
+  10.00  Deportivo Toluca II      1-0  CD Veracruz II
+  11.00  Santos Laguna II         2-0  Club Tijuana II
+         UANL Tigres II           2-1  Atlas Guadalajara II
+         Cruz Azul II             0-3  Real Zamora
+  17.00  Gavilanes de Matamoros   2-0  Loros UCOL
+         Tepatitlán               2-1  Club Necaxa II
+  18.00  Sporting Canamy          0-1  Pioneros de Cancún
+  19.00  Atlético Reynosa         0-0  Tecos Fútbol Club
+         Inter Playa              1-5  Club Irapuato
+  20.00  Pacific F. C.            1-1  Dorados UACH
+
+
+Matchday 5
+[Fri Sep/8]
+  10.00  Club Tijuana II          2-1  UANL Tigres II
+         Club León II             1-1  Atlético Reynosa
+  11.00  CD Veracruz II           2-0  Lobos BUAP II
+  12.00  CF Pachuca II            2-2  Puebla FC II
+  16.00  Deportivo Guadalajara II  3-0  Santos Laguna II
+  19.00  Tecos Fútbol Club        3-0  Gavilanes de Matamoros
+  20.30  Alacranes de Durango     1-3  CF Monterrey II
+[Sat Sep/9]
+  10.00  Monarcas Morelia II      3-4  Dorados UACH
+  11.30  Atlas Guadalajara II     3-1  Pacific F. C.
+  15.30  Tuxtla FC                2-3  Pumas UNAM II
+  16.00  Loros UCOL               2-1  Tepatitlán
+         Real Zamora              2-3  Sporting Canamy
+         Halcones de Morelos      3-2  Cruz Azul II
+  19.00  Inter Playa              2-0  Deportivo Toluca II
+  20.00  Reboceros de La Piedad   2-1  CF América II
+[Sun Sep/10]
+  11.00  Club Necaxa II           3-2  Deportivo Tepic
+  16.00  Club Irapuato            3-2  Pioneros de Cancún
+[Mon Sep/11]
+  17.00  Cruz Azul Hidalgo        4-0  Gallos Blancos II
+
+
+Matchday 6
+[Fri Sep/15]
+  10.00  Lobos BUAP II            0-1  Inter Playa
+         Pumas UNAM II            1-0  Cruz Azul Hidalgo
+         CF América II            3-0  CF Pachuca II
+  12.00  Gallos Blancos II        0-0  CD Veracruz II
+         Puebla FC II             0-3  Tuxtla FC
+  17.00  CF Monterrey II          5-0  Club Necaxa II
+  19.30  Dorados UACH             0-0  Atlas Guadalajara II
+[Sat Sep/16]
+  10.00  Deportivo Toluca II      0-0  Club Irapuato
+  11.00  Santos Laguna II         4-0  Alacranes de Durango
+         UANL Tigres II           2-0  Deportivo Guadalajara II
+         Cruz Azul II             2-4  Reboceros de La Piedad
+  17.00  Gavilanes de Matamoros   3-0  Club León II
+         Tepatitlán               4-2  Tecos Fútbol Club
+         Pioneros de Cancún       1-2  Real Zamora
+  18.00  Sporting Canamy          4-2  Halcones de Morelos
+  19.00  Atlético Reynosa         0-1  Monarcas Morelia II
+  20.00  Pacific F. C.            1-2  Club Tijuana II
+[Mon Sep/18]
+  17.00  Deportivo Tepic          0-0  Loros UCOL
+
+
+Matchday 7
+[Wed Nov/1]
+  10.00  Club León II             1-0  Tepatitlán
+         Club Tijuana II          2-1  Dorados UACH
+         CF Pachuca II            2-3  Cruz Azul II
+         Deportivo Toluca II      1-2  Lobos BUAP II
+  11.00  CD Veracruz II           3-1  Pumas UNAM II
+         Club Necaxa II           0-1  Santos Laguna II
+  15.00  Halcones de Morelos      1-3  Pioneros de Cancún
+  16.00  Deportivo Guadalajara II  2-1  Pacific F. C.
+         Alacranes de Durango     1-3  UANL Tigres II
+         Tuxtla FC                2-1  CF América II
+         Loros UCOL               2-0  CF Monterrey II
+         Cruz Azul Hidalgo        0-3  Puebla FC II
+         Club Irapuato            4-0  Real Zamora
+  19.00  Inter Playa              2-1  Gallos Blancos II
+  20.00  Reboceros de La Piedad   3-2  Sporting Canamy
+[Thu Nov/2]
+  10.00  Monarcas Morelia II      1-1  Atlas Guadalajara II
+  19.00  Tecos Fútbol Club        1-3  Deportivo Tepic
+         Atlético Reynosa         4-2  Gavilanes de Matamoros
+
+
+Matchday 8
+[Fri Sep/29]
+  10.00  Lobos BUAP II            3-2  Club Irapuato
+         Pumas UNAM II            3-1  Inter Playa
+         CF América II            2-1  Cruz Azul Hidalgo
+  12.00  Gallos Blancos II        1-1  Deportivo Toluca II
+         Puebla FC II             0-0  CD Veracruz II
+         CF Pachuca II            2-1  Sporting Canamy
+  17.00  CF Monterrey II          1-1  Tecos Fútbol Club
+  19.30  Dorados UACH             0-0  Deportivo Guadalajara II
+  20.00  Deportivo Tepic          3-1  Club León II
+[Sat Sep/30]
+  11.00  Santos Laguna II         1-2  Loros UCOL
+         Cruz Azul II             2-2  Tuxtla FC
+  11.30  UANL Tigres II           1-0  Club Necaxa II
+         Atlas Guadalajara II     5-2  Club Tijuana II
+  17.00  Gavilanes de Matamoros   3-2  Monarcas Morelia II
+         Tepatitlán               3-0  Atlético Reynosa
+  18.00  Pioneros de Cancún       3-0  Reboceros de La Piedad
+  20.00  Pacific F. C.            3-0  Alacranes de Durango
+[Mon Oct/2]
+  17.00  Real Zamora              1-1  Halcones de Morelos
+
+
+Matchday 9
+[Fri Oct/6]
+  10.00  Club León II             2-3  CF Monterrey II
+         Lobos BUAP II            1-3  Gallos Blancos II
+  10.30  Monarcas Morelia II      2-0  Club Tijuana II
+  12.00  CF Pachuca II            1-0  Pioneros de Cancún
+  16.00  Deportivo Guadalajara II  0-0  Atlas Guadalajara II
+         Cruz Azul Hidalgo        3-1  Cruz Azul II
+  17.00  CD Veracruz II           2-1  CF América II
+  20.30  Alacranes de Durango     0-1  Dorados UACH
+[Sat Oct/7]
+  10.00  Deportivo Toluca II      2-0  Pumas UNAM II
+  16.00  Loros UCOL               4-1  UANL Tigres II
+         Club Irapuato            5-0  Halcones de Morelos
+  17.00  Gavilanes de Matamoros   0-1  Tepatitlán
+  19.00  Atlético Reynosa         1-0  Deportivo Tepic
+  20.00  Tuxtla FC                4-0  Sporting Canamy
+         Reboceros de La Piedad   2-0  Real Zamora
+[Sun Oct/8]
+  11.00  Club Necaxa II           3-1  Pacific F. C.
+[Tue Nov/14]
+  11.00  Tecos Fútbol Club        3-3  Santos Laguna II
+[Wed Nov/15]
+  19.00  Inter Playa              2-0  Puebla FC II
+
+
+Matchday 10
+[Wed Oct/11]
+  10.00  Club Tijuana II          2-0  Deportivo Guadalajara II
+         Pumas UNAM II            1-0  Lobos BUAP II
+  11.00  Santos Laguna II         3-3  Club León II
+         UANL Tigres II           0-0  Tecos Fútbol Club
+         CF América II            3-2  Inter Playa
+  11.30  Atlas Guadalajara II     0-2  Alacranes de Durango
+  12.00  Gallos Blancos II        1-2  Club Irapuato
+         Puebla FC II             2-2  Deportivo Toluca II
+  15.00  Cruz Azul II             1-3  CD Veracruz II
+  16.00  Real Zamora              2-0  CF Pachuca II
+  17.00  CF Monterrey II          4-0  Atlético Reynosa
+         Tepatitlán               1-1  Monarcas Morelia II
+  18.00  Pioneros de Cancún       2-1  Tuxtla FC
+  19.30  Dorados UACH             2-0  Club Necaxa II
+  20.00  Deportivo Tepic          1-1  Gavilanes de Matamoros
+         Pacific F. C.            0-1  Loros UCOL
+[Fri Oct/13]
+  16.00  Sporting Canamy          0-3  Cruz Azul Hidalgo
+[Wed Nov/8]
+  10.00  Halcones de Morelos      0-3  Reboceros de La Piedad
+
+
+Matchday 11
+[Sat Oct/14]
+  10.00  Monarcas Morelia II      1-0  Deportivo Guadalajara II
+         Deportivo Toluca II      1-1  CF América II
+  12.00  Club León II             0-0  UANL Tigres II
+         Gallos Blancos II        1-1  Pumas UNAM II
+  15.30  Tuxtla FC                2-1  Real Zamora
+  16.30  CD Veracruz II           1-1  Sporting Canamy
+  17.00  Tepatitlán               4-1  Deportivo Tepic
+         Gavilanes de Matamoros   1-1  CF Monterrey II
+  19.00  Tecos Fútbol Club        1-3  Pacific F. C.
+         Atlético Reynosa         0-2  Santos Laguna II
+         Inter Playa              5-1  Cruz Azul II
+  20.30  Alacranes de Durango     0-1  Club Tijuana II
+[Sun Oct/15]
+  10.00  Lobos BUAP II            1-1  Puebla FC II
+         CF Pachuca II            1-2  Halcones de Morelos
+  11.00  Club Necaxa II           1-0  Atlas Guadalajara II
+  12.00  Cruz Azul Hidalgo        5-1  Pioneros de Cancún
+[Mon Oct/16]
+  17.00  Loros UCOL               2-1  Dorados UACH
+[Thu Nov/16]
+  15.00  Club Irapuato            1-0  Reboceros de La Piedad
+
+
+Matchday 12
+[Thu Oct/19]
+  16.00  Halcones de Morelos      2-3  Tuxtla FC
+[Fri Oct/20]
+  10.00  Club Tijuana II          2-2  Club Necaxa II
+         Pumas UNAM II            2-0  Club Irapuato
+         CF América II            1-2  Lobos BUAP II
+  12.00  Puebla FC II             2-3  Gallos Blancos II
+  16.00  Deportivo Guadalajara II  2-1  Alacranes de Durango
+  17.00  CF Monterrey II          0-1  Tepatitlán
+  19.30  Dorados UACH             1-0  Tecos Fútbol Club
+  20.30  Deportivo Tepic          0-3  Monarcas Morelia II
+[Sat Oct/21]
+  11.00  Santos Laguna II         4-1  Gavilanes de Matamoros
+         Cruz Azul II             3-2  Deportivo Toluca II
+  11.30  UANL Tigres II           1-0  Atlético Reynosa
+         Atlas Guadalajara II     1-3  Loros UCOL
+  16.00  Real Zamora              1-1  Cruz Azul Hidalgo
+         Sporting Canamy          2-2  Inter Playa
+  18.00  Pioneros de Cancún       2-0  CD Veracruz II
+  19.00  Pacific F. C.            4-2  Club León II
+  20.00  Reboceros de La Piedad   3-1  CF Pachuca II
+
+
+Matchday 13
+[Fri Oct/27]
+  10.00  Club León II             2-0  Dorados UACH
+         Pumas UNAM II            3-2  Puebla FC II
+         Lobos BUAP II            3-3  Cruz Azul II
+         Monarcas Morelia II      5-0  Alacranes de Durango
+  11.00  CD Veracruz II           2-2  Real Zamora
+  12.00  Gallos Blancos II        2-0  CF América II
+  16.00  Tuxtla FC                0-2  Reboceros de La Piedad
+         Cruz Azul Hidalgo        1-0  Halcones de Morelos
+  20.30  Deportivo Tepic          2-1  CF Monterrey II
+[Sat Oct/28]
+  10.00  Deportivo Toluca II      4-1  Sporting Canamy
+  16.00  Loros UCOL               4-2  Club Tijuana II
+         Gavilanes de Matamoros   0-1  UANL Tigres II
+  17.00  Tepatitlán               3-0  Santos Laguna II
+  19.00  Atlético Reynosa         2-1  Pacific F. C.
+         Inter Playa              1-1  Pioneros de Cancún
+[Sun Oct/29]
+  11.00  Club Necaxa II           1-2  Deportivo Guadalajara II
+  16.00  Club Irapuato            4-0  CF Pachuca II
+[Mon Oct/30]
+  17.00  Tecos Fútbol Club        1-0  Atlas Guadalajara II
+
+
+Matchday 14
+[Sat Nov/4]
+  11.00  Santos Laguna II         0-4  Deportivo Tepic
+         Cruz Azul II             3-0  Gallos Blancos II
+  11.30  UANL Tigres II           2-2  Tepatitlán
+  16.00  CF América II            1-1  Pumas UNAM II
+         Real Zamora              2-1  Inter Playa
+         Halcones de Morelos      2-1  CD Veracruz II
+  17.00  Pioneros de Cancún       0-1  Deportivo Toluca II
+  18.00  Sporting Canamy          0-1  Lobos BUAP II
+  20.00  Reboceros de La Piedad   3-1  Cruz Azul Hidalgo
+  20.30  Alacranes de Durango     1-0  Club Necaxa II
+[Sun Nov/5]
+  10.00  Club Tijuana II          4-2  Tecos Fútbol Club
+         CF Pachuca II            0-1  Tuxtla FC
+         Deportivo Guadalajara II  3-2  Loros UCOL
+         CF Monterrey II          1-1  Monarcas Morelia II
+  11.00  Puebla FC II             2-2  Club Irapuato
+  11.30  Atlas Guadalajara II     0-2  Club León II
+  18.30  Dorados UACH             0-0  Atlético Reynosa
+[Mon Nov/6]
+  17.00  Pacific F. C.            0-1  Gavilanes de Matamoros
+
+
+Matchday 15
+[Fri Nov/10]
+  10.00  Club León II             1-2  Club Tijuana II
+         Pumas UNAM II            2-2  Cruz Azul II
+         Lobos BUAP II            0-0  Pioneros de Cancún
+  11.00  CD Veracruz II           1-1  Reboceros de La Piedad
+  12.00  Gallos Blancos II        3-3  Sporting Canamy
+         Puebla FC II             1-2  CF América II
+  15.00  Cruz Azul Hidalgo        1-0  CF Pachuca II
+  17.00  CF Monterrey II          2-1  Santos Laguna II
+  19.00  Tecos Fútbol Club        0-2  Deportivo Guadalajara II
+  20.30  Deportivo Tepic          1-1  UANL Tigres II
+[Sat Nov/11]
+  10.00  Monarcas Morelia II      1-1  Club Necaxa II
+         Deportivo Toluca II      1-1  Real Zamora
+  16.00  Loros UCOL               5-0  Alacranes de Durango
+         Tepatitlán               4-0  Pacific F. C.
+         Gavilanes de Matamoros   2-3  Dorados UACH
+  17.00  Atlético Reynosa         2-1  Atlas Guadalajara II
+  19.00  Inter Playa              0-0  Halcones de Morelos
+[Mon Nov/13]
+  17.00  Club Irapuato            2-1  Tuxtla FC
+
+
+Matchday 16
+[Fri Nov/17]
+  10.00  Club Tijuana II          1-2  Atlético Reynosa
+  12.00  CF Pachuca II            1-2  CD Veracruz II
+  16.00  Deportivo Guadalajara II  0-1  Club León II
+  19.30  Dorados UACH             0-0  Tepatitlán
+  20.30  Alacranes de Durango     1-2  Tecos Fútbol Club
+[Sat Nov/18]
+  10.00  Monarcas Morelia II      1-1  Santos Laguna II
+  11.00  UANL Tigres II           0-1  CF Monterrey II
+         Cruz Azul II             0-1  Puebla FC II
+  11.30  Atlas Guadalajara II     2-2  Gavilanes de Matamoros
+  15.30  Tuxtla FC                2-1  Cruz Azul Hidalgo
+  16.00  Real Zamora              3-2  Lobos BUAP II
+         Halcones de Morelos      2-2  Deportivo Toluca II
+  17.00  Pioneros de Cancún       0-0  Gallos Blancos II
+  18.00  Sporting Canamy          1-0  Pumas UNAM II
+  20.00  Pacific F. C.            0-4  Deportivo Tepic
+[Sun Nov/19]
+  11.00  Club Necaxa II           0-2  Loros UCOL
+  16.00  Club Irapuato            1-1  CF América II
+[Mon Nov/20]
+  17.00  Reboceros de La Piedad   2-2  Inter Playa
+
+
+Matchday 17
+[Fri Nov/24]
+  10.00  Club León II             4-0  Alacranes de Durango
+         CF América II            3-1  Cruz Azul II
+         Pumas UNAM II            4-2  Pioneros de Cancún
+         Lobos BUAP II            1-1  Halcones de Morelos
+  11.00  CD Veracruz II           0-1  Tuxtla FC
+  12.00  Gallos Blancos II        1-1  Real Zamora
+         Puebla FC II             1-0  Sporting Canamy
+  15.00  Cruz Azul Hidalgo        1-0  Club Irapuato
+  17.00  CF Monterrey II          1-0  Pacific F. C.
+  19.00  Tecos Fútbol Club        1-1  Club Necaxa II
+  20.00  Deportivo Tepic          0-0  Dorados UACH
+[Sat Nov/25]
+  10.00  Deportivo Toluca II      0-0  Reboceros de La Piedad
+  11.00  Santos Laguna II         1-4  UANL Tigres II
+  16.00  Loros UCOL               1-1  Monarcas Morelia II
+         Tepatitlán               2-0  Atlas Guadalajara II
+         Gavilanes de Matamoros   1-0  Club Tijuana II
+  17.00  Atlético Reynosa         0-1  Deportivo Guadalajara II
+  19.00  Inter Playa              1-1  CF Pachuca II

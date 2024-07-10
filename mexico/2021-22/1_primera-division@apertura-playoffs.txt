@@ -1,0 +1,46 @@
+= Mexico Primera División 2021/22, Apertura Playoffs
+
+# 18 match(es), 12 team(s), 4 round(s)
+
+
+
+Recalificación
+[Sat Nov/20]
+  19.00  Santos Laguna            2-0 (0-0)  Atlético San Luis
+  21.00  Puebla FC                6-5 pen. (2-2, 1-1)  Deportivo Guadalajara
+[Sun Nov/21]
+  17.00  Deportivo Toluca         1-2 (0-1)  Pumas UNAM
+  19.15  Cruz Azul                1-4 (1-2)  CF Monterrey
+
+
+Quarterfinals
+[Wed Nov/24]
+  19.00  Pumas UNAM               0-0  CF América
+  21.05  CF Monterrey             0-0  Atlas Guadalajara
+[Thu Nov/25]
+  19.00  Puebla FC                2-1 (1-1)  Club León
+  21.05  Santos Laguna            2-1 (2-0)  UANL Tigres
+[Sat Nov/27]
+  19.00  CF América               1-3 (1-2)  Pumas UNAM
+  21.05  Atlas Guadalajara        1-1 (1-0)  CF Monterrey
+[Sun Nov/28]
+  18.00  UANL Tigres              1-0 (0-0)  Santos Laguna
+  20.05  Club León                2-0 (1-0)  Puebla FC
+
+
+Semifinals
+[Wed Dec/1]
+  21.00  UANL Tigres              2-1 (0-0)  Club León
+[Thu Dec/2]
+  21.00  Pumas UNAM               0-1 (0-1)  Atlas Guadalajara
+[Sat Dec/4]
+  21.00  Club León                2-1 (1-1)  UANL Tigres
+[Sun Dec/5]
+  19.00  Atlas Guadalajara        0-1 (0-0)  Pumas UNAM
+
+
+Final
+[Thu Dec/9]
+  21.00  Club León                3-2 (1-1)  Atlas Guadalajara
+[Sun Dec/12]
+  20.15  Atlas Guadalajara        4-3 pen. 1-0 a.e.t. (1-0, 0-0)  Club León

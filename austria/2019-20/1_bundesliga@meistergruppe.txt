@@ -1,0 +1,75 @@
+= Austria Bundesliga 2019/20, Meistergruppe
+
+# 30 match(es), 6 team(s), 10 round(s)
+
+
+
+Matchday 23
+[Wed Jun/3]
+  18.30  LASK                     1-2 (1-1)  TSV Hartberg
+         Sturm Graz               1-2 (0-1)  Wolfsberger AC
+  20.30  RB Salzburg              2-0 (1-0)  Rapid Wien
+
+
+Matchday 24
+[Sun Jun/7]
+  17.00  Wolfsberger AC           3-3 (0-1)  LASK
+         TSV Hartberg             0-6 (0-4)  RB Salzburg
+  19.30  Rapid Wien               4-0 (2-0)  Sturm Graz
+
+
+Matchday 25
+[Wed Jun/10]
+  18.30  Wolfsberger AC           2-4 (2-1)  TSV Hartberg
+         LASK                     0-1 (0-0)  Rapid Wien
+  20.30  Sturm Graz               1-5 (1-4)  RB Salzburg
+
+
+Matchday 26
+[Sun Jun/14]
+  17.00  Rapid Wien               2-1 (1-0)  Wolfsberger AC
+         TSV Hartberg             1-2 (1-0)  Sturm Graz
+  19.30  RB Salzburg              3-1 (2-0)  LASK
+
+
+Matchday 27
+[Wed Jun/17]
+  18.30  Wolfsberger AC           0-0  RB Salzburg
+         TSV Hartberg             0-1 (0-1)  Rapid Wien
+  20.30  LASK                     4-0 (3-0)  Sturm Graz
+
+
+Matchday 28
+[Sun Jun/21]
+  17.00  RB Salzburg              2-2 (1-0)  Wolfsberger AC
+         Rapid Wien               0-1 (0-1)  TSV Hartberg
+  19.30  Sturm Graz               0-2 (0-1)  LASK
+
+
+Matchday 29
+[Wed Jun/24]
+  18.30  TSV Hartberg             1-5 (0-0)  LASK
+         Wolfsberger AC           2-0 (0-0)  Sturm Graz
+  20.30  Rapid Wien               2-7 (1-4)  RB Salzburg
+
+
+Matchday 30
+[Sun Jun/28]
+  17.00  LASK                     0-1 (0-0)  Wolfsberger AC
+         RB Salzburg              3-0 (1-0)  TSV Hartberg
+  19.30  Sturm Graz               2-3 (2-0)  Rapid Wien
+
+
+Matchday 31
+[Wed Jul/1]
+  20.30  RB Salzburg              5-2 (1-0)  Sturm Graz
+         Rapid Wien               3-1 (2-0)  LASK
+[Thu Jul/2]
+  18.30  TSV Hartberg             3-3 (1-0)  Wolfsberger AC
+
+
+Matchday 32
+[Sun Jul/5]
+  17.00  Sturm Graz               1-4 (1-3)  TSV Hartberg
+         LASK                     0-3 (0-0)  RB Salzburg
+         Wolfsberger AC           3-1 (2-0)  Rapid Wien

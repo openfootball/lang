@@ -1,0 +1,141 @@
+= Belgium Eerste klasse B 2017/18, Periode 1
+
+# 56 match(es), 8 team(s), 14 round(s)
+
+
+
+Matchday 1
+[Fri Aug/4]
+  20.30  KFCO Beerschot Wilrijk   3-0 (2-0)  Union Saint-Gilloise
+[Sat Aug/5]
+  17.00  AFC Tubize               1-3 (1-1)  KSV Roeselare
+  20.30  Oud-Heverlee Leuven      2-2 (1-1)  Lierse SK
+[Sun Aug/6]
+  16.00  KVC Westerlo             1-2 (1-0)  Cercle Brugge
+
+
+Matchday 2
+[Fri Aug/11]
+  20.30  Cercle Brugge            2-0 (0-0)  Union Saint-Gilloise
+[Sat Aug/12]
+  17.00  KSV Roeselare            3-1 (1-0)  Oud-Heverlee Leuven
+  20.30  KVC Westerlo             1-1 (0-0)  AFC Tubize
+[Sun Aug/13]
+  16.00  Lierse SK                2-2 (1-2)  KFCO Beerschot Wilrijk
+
+
+Matchday 3
+[Fri Aug/18]
+  20.30  Lierse SK                2-2 (0-1)  KSV Roeselare
+[Sat Aug/19]
+  17.00  Union Saint-Gilloise     3-0 (1-0)  KVC Westerlo
+  20.30  Oud-Heverlee Leuven      7-1 (3-0)  Cercle Brugge
+[Sun Aug/20]
+  16.00  KFCO Beerschot Wilrijk   1-0 (1-0)  AFC Tubize
+
+
+Matchday 4
+[Fri Sep/1]
+  20.30  KSV Roeselare            0-4 (0-1)  KFCO Beerschot Wilrijk
+[Sat Sep/2]
+  17.00  KVC Westerlo             2-2 (2-2)  Oud-Heverlee Leuven
+  20.30  Cercle Brugge            2-0 (1-0)  Lierse SK
+[Sun Sep/3]
+  16.00  AFC Tubize               0-0  Union Saint-Gilloise
+
+
+Matchday 5
+[Fri Sep/8]
+  20.30  Oud-Heverlee Leuven      2-0 (0-0)  AFC Tubize
+[Sat Sep/9]
+  17.00  Lierse SK                2-2 (2-1)  KVC Westerlo
+  20.30  Union Saint-Gilloise     4-0 (2-0)  KSV Roeselare
+[Sun Sep/10]
+  16.00  Cercle Brugge            0-1 (0-0)  KFCO Beerschot Wilrijk
+
+
+Matchday 6
+[Fri Sep/15]
+  20.30  Union Saint-Gilloise     0-0  Oud-Heverlee Leuven
+[Sat Sep/16]
+  17.00  KFCO Beerschot Wilrijk   2-2 (0-1)  KVC Westerlo
+  20.30  AFC Tubize               2-0 (0-0)  Lierse SK
+[Sun Sep/17]
+  16.00  KSV Roeselare            2-1 (0-1)  Cercle Brugge
+
+
+Matchday 7
+[Sat Sep/23]
+  17.00  Cercle Brugge            4-0 (2-0)  AFC Tubize
+  20.30  Lierse SK                2-1 (0-1)  Union Saint-Gilloise
+[Sun Sep/24]
+  16.00  Oud-Heverlee Leuven      1-1 (0-0)  KFCO Beerschot Wilrijk
+  20.00  KVC Westerlo             4-0 (2-0)  KSV Roeselare
+
+
+Matchday 8
+[Fri Sep/29]
+  20.30  Union Saint-Gilloise     1-2 (1-0)  Cercle Brugge
+[Sat Sep/30]
+  17.00  Oud-Heverlee Leuven      2-0 (1-0)  KSV Roeselare
+  20.30  AFC Tubize               1-2 (0-0)  KVC Westerlo
+[Sun Oct/1]
+  16.00  KFCO Beerschot Wilrijk   4-0 (0-0)  Lierse SK
+
+
+Matchday 9
+[Tue Oct/3]
+  20.30  Cercle Brugge            0-3 (0-1)  Oud-Heverlee Leuven
+[Wed Oct/4]
+  20.30  KVC Westerlo             0-3 (0-1)  Union Saint-Gilloise
+         AFC Tubize               0-1 (0-0)  KFCO Beerschot Wilrijk
+[Thu Oct/5]
+  20.30  KSV Roeselare            2-0 (2-0)  Lierse SK
+
+
+Matchday 10
+[Sat Oct/7]
+  20.30  KFCO Beerschot Wilrijk   0-3 (0-2)  Cercle Brugge
+[Sun Oct/8]
+  14.30  Lierse SK                1-1 (0-1)  AFC Tubize
+         KSV Roeselare            1-0 (0-0)  Union Saint-Gilloise
+  18.00  Oud-Heverlee Leuven      2-1 (0-0)  KVC Westerlo
+
+
+Matchday 11
+[Fri Oct/13]
+  20.30  AFC Tubize               1-2 (0-1)  Oud-Heverlee Leuven
+[Sat Oct/14]
+  17.00  Cercle Brugge            1-1 (0-1)  KSV Roeselare
+[Sun Oct/15]
+  16.00  KVC Westerlo             0-0  KFCO Beerschot Wilrijk
+[Mon Oct/16]
+  20.30  Union Saint-Gilloise     3-2 (3-0)  Lierse SK
+
+
+Matchday 12
+[Sat Oct/21]
+  17.00  Lierse SK                3-2 (2-0)  Cercle Brugge
+  20.30  KSV Roeselare            0-0  KVC Westerlo
+[Sun Oct/22]
+  16.00  KFCO Beerschot Wilrijk   2-2 (1-0)  Oud-Heverlee Leuven
+[Mon Oct/23]
+  20.30  Union Saint-Gilloise     1-2 (1-1)  AFC Tubize
+
+
+Matchday 13
+[Fri Oct/27]
+  20.30  KFCO Beerschot Wilrijk   5-0 (3-0)  KSV Roeselare
+[Sat Oct/28]
+  17.00  KVC Westerlo             0-1 (0-1)  Lierse SK
+  20.30  Oud-Heverlee Leuven      1-0 (0-0)  Union Saint-Gilloise
+[Sun Oct/29]
+  16.00  AFC Tubize               1-1 (0-0)  Cercle Brugge
+
+
+Matchday 14
+[Sun Nov/5]
+  16.00  Lierse SK                2-1 (0-0)  Oud-Heverlee Leuven
+         KSV Roeselare            1-0 (0-0)  AFC Tubize
+         Cercle Brugge            3-1 (1-0)  KVC Westerlo
+         Union Saint-Gilloise     0-3 (0-0)  KFCO Beerschot Wilrijk

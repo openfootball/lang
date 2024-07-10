@@ -1,0 +1,37 @@
+= Mexico Primera División 2018/19, Apertura Playoffs
+
+# 14 match(es), 8 team(s), 3 round(s)
+
+
+
+Quarterfinals
+[Wed Nov/28]
+  19.00  Gallos Blancos           0-2 (0-1)  Cruz Azul
+  21.06  CF Monterrey             1-0 (0-0)  Santos Laguna
+[Thu Nov/29]
+  19.00  Deportivo Toluca         2-2 (1-2)  CF América
+  21.00  UANL Tigres              2-1 (0-1)  Pumas UNAM
+[Sat Dec/1]
+  19.00  Cruz Azul                1-1 (1-0)  Gallos Blancos
+  21.00  Santos Laguna            0-2 (0-0)  CF Monterrey
+[Sun Dec/2]
+  12.00  Pumas UNAM               3-1 (0-0)  UANL Tigres
+  18.30  CF América               3-2 (2-0)  Deportivo Toluca
+
+
+Semifinals
+[Wed Dec/5]
+  20.06  CF Monterrey             1-0 (1-0)  Cruz Azul
+[Thu Dec/6]
+  20.45  Pumas UNAM               1-1 (0-1)  CF América
+[Sat Dec/8]
+  19.00  Cruz Azul                1-0 (0-0)  CF Monterrey
+[Sun Dec/9]
+  18.45  CF América               6-1 (3-1)  Pumas UNAM
+
+
+Final
+[Thu Dec/13]
+  20.30  CF América               0-0  Cruz Azul
+[Sun Dec/16]
+  18.30  Cruz Azul                0-2 (0-0)  CF América

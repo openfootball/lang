@@ -1,0 +1,75 @@
+= Austria Bundesliga 2022/23, Meistergruppe
+
+# 30 match(es), 6 team(s), 10 round(s)
+
+
+
+Matchday 23
+[Sun Apr/2]
+  14.30  Austria Wien             2-2 (0-0)  LASK
+         SK Austria Klagenfurt    0-3 (0-1)  RB Salzburg
+  17.30  Sturm Graz               3-1 (2-1)  Rapid Wien
+
+
+Matchday 24
+[Sun Apr/9]
+  14.30  RB Salzburg              3-3 (2-0)  Austria Wien
+         Rapid Wien               3-1 (1-0)  SK Austria Klagenfurt
+  17.00  LASK                     2-1 (0-0)  Sturm Graz
+
+
+Matchday 25
+[Sun Apr/16]
+  14.30  RB Salzburg              0-0  LASK
+         SK Austria Klagenfurt    0-2 (0-0)  Sturm Graz
+  17.00  Rapid Wien               3-3 (2-2)  Austria Wien
+
+
+Matchday 26
+[Sun Apr/23]
+  14.30  Austria Wien             1-2 (0-0)  SK Austria Klagenfurt
+         LASK                     3-1 (2-0)  Rapid Wien
+  17.00  Sturm Graz               0-2 (0-0)  RB Salzburg
+
+
+Matchday 27
+[Wed Apr/26]
+  18.30  Sturm Graz               3-2 (1-2)  Austria Wien
+  20.30  Rapid Wien               1-1 (1-1)  RB Salzburg
+[Sun Apr/30]
+  17.00  LASK                     4-0 (0-0)  SK Austria Klagenfurt
+
+
+Matchday 28
+[Sun May/7]
+  14.30  SK Austria Klagenfurt    1-1 (1-0)  LASK
+         Austria Wien             1-2 (0-2)  Sturm Graz
+  17.00  RB Salzburg              2-1 (1-0)  Rapid Wien
+
+
+Matchday 29
+[Sun May/14]
+  14.30  LASK                     0-1 (0-0)  RB Salzburg
+         Sturm Graz               4-1 (2-1)  SK Austria Klagenfurt
+  17.00  Austria Wien             3-1 (2-1)  Rapid Wien
+
+
+Matchday 30
+[Sun May/21]
+  14.30  SK Austria Klagenfurt    1-1 (0-0)  Austria Wien
+         Rapid Wien               1-1 (1-0)  LASK
+  17.00  RB Salzburg              2-1 (0-1)  Sturm Graz
+
+
+Matchday 31
+[Sun May/28]
+  17.00  LASK                     3-1 (1-0)  Austria Wien
+         RB Salzburg              3-2 (0-2)  SK Austria Klagenfurt
+         Rapid Wien               3-2 (2-2)  Sturm Graz
+
+
+Matchday 32
+[Sat Jun/3]
+  17.00  Austria Wien             1-1 (0-1)  RB Salzburg
+         SK Austria Klagenfurt    2-1 (0-0)  Rapid Wien
+         Sturm Graz               2-0 (2-0)  LASK

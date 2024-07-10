@@ -1,0 +1,88 @@
+= Belgium Eerste klasse A 2018/19, Playoff I
+
+# 30 match(es), 6 team(s), 10 round(s)
+
+
+
+Matchday 1
+[Fri Mar/29]
+  20.30  Standard Liège           3-1 (0-1)  Royal Antwerp FC
+[Sat Mar/30]
+  20.30  KRC Genk                 3-0 (1-0)  RSC Anderlecht
+[Sun Mar/31]
+  18.00  Club Brugge KV           3-0 (2-0)  KAA Gent
+
+
+Matchday 2
+[Tue Apr/2]
+  20.30  Royal Antwerp FC         1-0 (1-0)  KRC Genk
+[Wed Apr/3]
+  20.30  KAA Gent                 1-2 (0-1)  Standard Liège
+[Thu Apr/4]
+  20.30  RSC Anderlecht           2-3 (0-2)  Club Brugge KV
+
+
+Matchday 3
+[Sat Apr/6]
+  20.30  KRC Genk                 2-1 (2-0)  KAA Gent
+[Sun Apr/7]
+  18.00  RSC Anderlecht           1-2 (1-1)  Royal Antwerp FC
+[Mon Apr/8]
+  20.30  Club Brugge KV           4-0 (3-0)  Standard Liège
+
+
+Matchday 4
+[Fri Apr/12]
+  20.30  Standard Liège           5-0  RSC Anderlecht           [awarded]
+[Sat Apr/13]
+  20.30  KAA Gent                 1-2 (0-1)  Royal Antwerp FC
+[Sun Apr/14]
+  18.00  KRC Genk                 3-1 (1-1)  Club Brugge KV
+
+
+Matchday 5
+[Fri Apr/19]
+  20.30  Standard Liège           1-3 (0-1)  KRC Genk
+[Sun Apr/21]
+  18.00  RSC Anderlecht           0-0  KAA Gent
+[Mon Apr/22]
+  14.30  Royal Antwerp FC         0-0  Club Brugge KV
+
+
+Matchday 6
+[Fri Apr/26]
+  20.30  Royal Antwerp FC         2-1 (1-1)  Standard Liège
+[Sat Apr/27]
+  20.30  KAA Gent                 0-1 (0-0)  KRC Genk
+[Sun Apr/28]
+  18.00  Club Brugge KV           1-0 (0-0)  RSC Anderlecht
+
+
+Matchday 7
+[Fri May/3]
+  20.30  KRC Genk                 4-0 (1-0)  Royal Antwerp FC
+[Sun May/5]
+  14.30  RSC Anderlecht           2-1 (1-0)  Standard Liège
+  18.00  KAA Gent                 0-1 (0-1)  Club Brugge KV
+
+
+Matchday 8
+[Fri May/10]
+  20.30  Standard Liège           2-3 (1-1)  KAA Gent
+[Sun May/12]
+  14.30  Royal Antwerp FC         1-1 (0-1)  RSC Anderlecht
+  18.00  Club Brugge KV           3-2 (0-1)  KRC Genk
+
+
+Matchday 9
+[Thu May/16]
+  20.30  RSC Anderlecht           1-1 (0-1)  KRC Genk
+         Standard Liège           2-0 (0-0)  Club Brugge KV
+         Royal Antwerp FC         1-2 (1-1)  KAA Gent
+
+
+Matchday 10
+[Sun May/19]
+  18.00  Club Brugge KV           3-2 (1-0)  Royal Antwerp FC
+         KAA Gent                 2-1 (1-0)  RSC Anderlecht
+         KRC Genk                 0-0  Standard Liège

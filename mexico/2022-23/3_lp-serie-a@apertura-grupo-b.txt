@@ -1,0 +1,119 @@
+= Mexico LP - Serie A 2022/23, Apertura Grupo B
+
+# 55 match(es), 11 team(s), 11 round(s)
+
+
+
+Matchday 1
+[Sat Aug/27]
+  10.00  Correcaminos UAT II      0-2 (0-1)  Reboceros de La Piedad
+  16.00  Colima FC                1-1 (1-0)  Saltillo FC
+         Aguacateros CDU          3-0 (1-0)  Tulancingo
+  17.00  Gavilanes de Matamoros   1-0 (0-0)  Catedráticos Elite
+[Mon Aug/29]
+  16.30  Lobos ULMX               3-5 (3-2)  Tampico Madero
+
+
+Matchday 2
+[Sun Sep/4]
+  Catedráticos Elite       -  Colima FC                [cancelled]
+[Sat Sep/3]
+  19.00  Reboceros de La Piedad   4-1 (2-1)  Gavilanes de Matamoros
+         Tampico Madero           5-1 (4-1)  Inter de Querétaro
+[Sun Sep/4]
+  12.00  Tulancingo               0-1 (0-0)  Lobos ULMX
+[Wed Sep/21]
+  16.00  Aguacateros CDU          4-1 (1-0)  Saltillo FC
+
+
+Matchday 3
+[Wed Sep/7]
+  16.00  Aguacateros CDU          6-1 (2-1)  Catedráticos Elite
+  19.00  Colima FC                0-1 (0-0)  Reboceros de La Piedad
+  20.00  Correcaminos UAT II      2-4 (0-0)  Tampico Madero
+[Thu Sep/8]
+  12.00  Tulancingo               0-2 (0-1)  Saltillo FC
+  16.00  Lobos ULMX               1-0 (0-0)  Inter de Querétaro
+
+
+Matchday 4
+[Sat Sep/10]
+  19.00  Reboceros de La Piedad   3-1 (2-0)  Aguacateros CDU
+         Tampico Madero           2-0 (1-0)  Gavilanes de Matamoros
+[Sun Sep/11]
+  12.00  Catedráticos Elite       3-3 (1-1)  Tulancingo
+  16.30  Saltillo FC              3-1 (0-1)  Lobos ULMX
+[Mon Sep/12]
+  18.30  Inter de Querétaro       1-1 (1-1)  Correcaminos UAT II
+
+
+Matchday 5
+[Sat Sep/17]
+  16.00  Colima FC                2-2 (2-0)  Tampico Madero
+  18.00  Lobos ULMX               2-2 (1-1)  Correcaminos UAT II
+[Sun Sep/18]
+  12.00  Tulancingo               1-0 (1-0)  Reboceros de La Piedad
+  16.00  Saltillo FC              3-0 (1-0)  Catedráticos Elite
+[Mon Sep/19]
+  16.30  Gavilanes de Matamoros   4-1 (3-0)  Inter de Querétaro
+
+
+Matchday 6
+[Sat Sep/24]
+  10.00  Correcaminos UAT II      1-1 (1-1)  Gavilanes de Matamoros
+  16.00  Inter de Querétaro       1-3 (1-2)  Colima FC
+  19.00  Reboceros de La Piedad   1-0 (1-0)  Saltillo FC
+         Tampico Madero           2-2 (1-0)  Aguacateros CDU
+[Sun Sep/25]
+  12.00  Catedráticos Elite       1-2 (1-1)  Lobos ULMX
+
+
+Matchday 7
+[Wed Sep/28]
+  16.00  Aguacateros CDU          5-1 (2-0)  Inter de Querétaro
+  19.00  Colima FC                4-2 (2-0)  Correcaminos UAT II
+[Thu Sep/29]
+  12.00  Tulancingo               0-2 (0-1)  Tampico Madero
+  16.00  Lobos ULMX               0-5 (0-2)  Gavilanes de Matamoros
+  16.30  Catedráticos Elite       1-1 (1-0)  Reboceros de La Piedad
+
+
+Matchday 8
+[Sat Oct/1]
+  10.00  Correcaminos UAT II      2-3 (2-1)  Aguacateros CDU
+[Sun Oct/2]
+  16.00  Tampico Madero           3-0 (0-0)  Saltillo FC
+  17.00  Gavilanes de Matamoros   1-0 (0-0)  Colima FC
+  19.00  Reboceros de La Piedad   2-1 (0-0)  Lobos ULMX
+[Tue Oct/4]
+  18.00  Inter de Querétaro       0-0  Tulancingo
+
+
+Matchday 9
+[Sat Oct/8]
+  16.00  Aguacateros CDU          4-2 (2-1)  Gavilanes de Matamoros
+  16.30  Saltillo FC              3-1 (3-1)  Inter de Querétaro
+  18.00  Lobos ULMX               3-2 (1-1)  Colima FC
+[Sun Oct/9]
+  12.00  Catedráticos Elite       2-3 (1-3)  Tampico Madero
+         Tulancingo               2-3 (0-1)  Correcaminos UAT II
+
+
+Matchday 10
+[Sat Oct/15]
+  10.00  Correcaminos UAT II      0-2 (0-1)  Saltillo FC
+  16.00  Colima FC                3-1 (2-1)  Aguacateros CDU
+  17.00  Gavilanes de Matamoros   1-0 (0-0)  Tulancingo
+  20.00  Tampico Madero           2-1 (1-1)  Reboceros de La Piedad
+[Tue Oct/18]
+  18.00  Inter de Querétaro       2-1 (0-0)  Catedráticos Elite
+
+
+Matchday 11
+[Sat Oct/22]
+  16.00  Aguacateros CDU          1-1 (1-0)  Lobos ULMX
+  16.30  Saltillo FC              1-1 (0-0)  Gavilanes de Matamoros
+  19.00  Reboceros de La Piedad   5-0 (1-0)  Inter de Querétaro
+[Sun Oct/23]
+  12.00  Catedráticos Elite       2-5 (1-1)  Correcaminos UAT II
+         Tulancingo               0-0  Colima FC

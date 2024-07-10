@@ -1,0 +1,142 @@
+= Belgium Eerste klasse B 2016/17, Periode 2
+
+# 56 match(es), 8 team(s), 14 round(s)
+
+
+
+Matchday 1
+[Fri Nov/11]
+  20.30  Lierse SK                1-0 (1-0)  Union Saint-Gilloise
+[Sat Nov/12]
+  17.00  Lommel United            2-2 (1-2)  Oud-Heverlee Leuven
+  20.30  KSV Roeselare            1-1 (0-1)  AFC Tubize
+[Sun Nov/13]
+  16.00  Royal Antwerp FC         0-0  Cercle Brugge
+
+
+Matchday 2
+[Fri Nov/18]
+  20.30  Oud-Heverlee Leuven      0-0  Royal Antwerp FC
+[Sat Nov/19]
+  20.00  Union Saint-Gilloise     0-0  KSV Roeselare
+[Sun Nov/20]
+  12.30  AFC Tubize               0-3 (0-0)  Lierse SK
+  16.00  Cercle Brugge            1-0 (0-0)  Lommel United
+
+
+Matchday 3
+[Fri Nov/25]
+  20.30  KSV Roeselare            2-1 (0-0)  Lierse SK
+[Sat Nov/26]
+  17.00  Royal Antwerp FC         2-0 (2-0)  Union Saint-Gilloise
+  20.30  Lommel United            1-2 (1-0)  AFC Tubize
+[Sun Nov/27]
+  16.00  Oud-Heverlee Leuven      1-0 (0-0)  Cercle Brugge
+
+
+Matchday 4
+[Fri Dec/2]
+  20.30  Lierse SK                2-2 (0-0)  Royal Antwerp FC
+[Sat Dec/3]
+  17.00  Union Saint-Gilloise     1-2 (1-0)  Cercle Brugge
+  20.00  AFC Tubize               0-2 (0-0)  Oud-Heverlee Leuven
+[Sun Dec/4]
+  16.00  KSV Roeselare            2-1 (2-1)  Lommel United
+
+
+Matchday 5
+[Fri Dec/9]
+  20.30  Union Saint-Gilloise     1-1 (0-1)  Lommel United
+[Sat Dec/10]
+  17.00  Cercle Brugge            0-1 (0-0)  Lierse SK
+  20.30  Oud-Heverlee Leuven      1-2 (0-1)  KSV Roeselare
+[Sun Dec/11]
+  16.00  Royal Antwerp FC         1-1 (0-1)  AFC Tubize
+
+
+Matchday 6
+[Fri Dec/16]
+  20.30  Lommel United            2-4 (0-3)  Royal Antwerp FC
+[Sat Dec/17]
+  17.00  KSV Roeselare            3-1 (1-1)  Cercle Brugge
+  20.00  AFC Tubize               3-0 (2-0)  Union Saint-Gilloise
+[Sun Dec/18]
+  16.00  Lierse SK                1-1 (0-1)  Oud-Heverlee Leuven
+
+
+Matchday 7
+[Fri Jan/6]
+  20.30  Royal Antwerp FC         1-0 (0-0)  KSV Roeselare
+[Sat Jan/7]
+  20.00  Cercle Brugge            2-1 (1-1)  AFC Tubize
+[Sun Jan/8]
+  14.30  Union Saint-Gilloise     4-0 (2-0)  Oud-Heverlee Leuven
+  18.00  Lierse SK                5-1 (2-0)  Lommel United
+
+
+Matchday 8
+[Fri Jan/13]
+  20.30  Lommel United            1-1 (0-1)  KSV Roeselare
+[Sat Jan/14]
+  20.00  Oud-Heverlee Leuven      1-3 (1-0)  AFC Tubize
+[Sun Jan/15]
+  14.30  Cercle Brugge            0-1 (0-0)  Royal Antwerp FC
+  18.00  Union Saint-Gilloise     0-0  Lierse SK
+
+
+Matchday 9
+[Fri Jan/20]
+  20.30  AFC Tubize               2-0 (1-0)  Lommel United
+[Sat Jan/21]
+  17.00  Lierse SK                1-1 (0-0)  Cercle Brugge
+  20.30  Royal Antwerp FC         2-0 (1-0)  Oud-Heverlee Leuven
+[Sun Jan/22]
+  16.00  KSV Roeselare            0-1 (0-0)  Union Saint-Gilloise
+
+
+Matchday 10
+[Fri Jan/27]
+  20.30  Oud-Heverlee Leuven      2-3 (0-3)  Lierse SK
+[Sat Jan/28]
+  17.00  Lommel United            0-0  Union Saint-Gilloise
+  20.30  Cercle Brugge            2-2 (0-1)  KSV Roeselare
+[Sun Jan/29]
+  16.00  AFC Tubize               2-4 (1-2)  Royal Antwerp FC
+
+
+Matchday 11
+[Fri Feb/3]
+  20.30  Lommel United            0-1 (0-0)  Cercle Brugge
+[Sat Feb/4]
+  17.00  Union Saint-Gilloise     1-1 (0-1)  Royal Antwerp FC
+  20.30  Lierse SK                3-0 (0-0)  AFC Tubize
+[Sun Feb/5]
+  16.00  KSV Roeselare            2-1 (1-1)  Oud-Heverlee Leuven
+
+
+Matchday 12
+[Fri Feb/10]
+  20.30  Cercle Brugge            0-1 (0-0)  Union Saint-Gilloise
+[Sat Feb/11]
+  17.00  Oud-Heverlee Leuven      2-1 (2-1)  Lommel United
+  20.30  Royal Antwerp FC         0-2 (0-2)  Lierse SK
+[Sun Feb/12]
+  16.00  AFC Tubize               3-1 (1-1)  KSV Roeselare
+
+
+Matchday 13
+[Fri Feb/17]
+  20.30  Lommel United            1-1 (0-1)  Lierse SK
+[Sat Feb/18]
+  17.00  Cercle Brugge            1-0 (0-0)  Oud-Heverlee Leuven
+  20.30  KSV Roeselare            1-2 (0-1)  Royal Antwerp FC
+[Sun Feb/19]
+  16.00  Union Saint-Gilloise     2-0 (0-0)  AFC Tubize
+
+
+Matchday 14
+[Sun Feb/26]
+  16.00  Royal Antwerp FC         1-0 (0-0)  Lommel United
+         Lierse SK                1-1 (1-0)  KSV Roeselare
+         AFC Tubize               1-3 (1-1)  Cercle Brugge
+         Oud-Heverlee Leuven      2-0 (2-0)  Union Saint-Gilloise

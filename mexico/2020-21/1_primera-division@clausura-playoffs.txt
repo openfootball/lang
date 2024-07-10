@@ -1,0 +1,46 @@
+= Mexico Primera División 2020/21, Clausura Playoffs
+
+# 18 match(es), 12 team(s), 4 round(s)
+
+
+
+Recalificación
+[Sat May/8]
+  19.00  Atlas Guadalajara        1-0 (0-0)  UANL Tigres
+  21.15  Santos Laguna            5-0 (2-0)  Gallos Blancos
+[Sun May/9]
+  19.00  Club León                2-4 pen. (2-2, 1-1)  Deportivo Toluca
+  21.15  CF Pachuca               4-2 (0-1)  Deportivo Guadalajara
+
+
+Quarterfinals
+[Wed May/12]
+  19.00  Deportivo Toluca         2-1 (1-1)  Cruz Azul
+  21.05  Atlas Guadalajara        1-0 (0-0)  Puebla FC
+[Thu May/13]
+  19.00  CF Pachuca               3-1 (1-1)  CF América
+  21.05  Santos Laguna            2-1 (0-1)  CF Monterrey
+[Sat May/15]
+  18.00  Puebla FC                1-0 (0-0)  Atlas Guadalajara
+  20.05  Cruz Azul                3-1 (1-1)  Deportivo Toluca
+[Sun May/16]
+  18.00  CF Monterrey             1-1 (1-0)  Santos Laguna
+  20.05  CF América               4-2 (2-1)  CF Pachuca
+
+
+Semifinals
+[Wed May/19]
+  20.30  CF Pachuca               0-0  Cruz Azul
+[Thu May/20]
+  21.00  Santos Laguna            3-0 (2-0)  Puebla FC
+[Sat May/22]
+  20.00  Cruz Azul                1-0 (0-0)  CF Pachuca
+[Sun May/23]
+  19.00  Puebla FC                1-0 (0-0)  Santos Laguna
+
+
+Final
+[Thu May/27]
+  21.00  Santos Laguna            0-1 (0-0)  Cruz Azul
+[Sun May/30]
+  20.15  Cruz Azul                1-1 (0-1)  Santos Laguna

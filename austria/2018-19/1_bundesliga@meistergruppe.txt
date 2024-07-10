@@ -1,0 +1,74 @@
+= Austria Bundesliga 2018/19, Meistergruppe
+
+# 30 match(es), 6 team(s), 10 round(s)
+
+
+
+Matchday 23
+[Sun Mar/31]
+  14.30  Wolfsberger AC           0-3 (0-3)  LASK
+         Sturm Graz               0-1 (0-0)  SKN St. Pölten
+  17.00  RB Salzburg              5-1 (1-1)  Austria Wien
+
+
+Matchday 24
+[Sun Apr/7]
+  14.30  Austria Wien             0-1 (0-0)  Sturm Graz
+         SKN St. Pölten           1-3 (0-1)  Wolfsberger AC
+  17.00  LASK                     0-2 (0-1)  RB Salzburg
+
+
+Matchday 25
+[Sun Apr/14]
+  14.30  Wolfsberger AC           1-1 (1-1)  Austria Wien
+         LASK                     0-0  SKN St. Pölten
+  17.00  RB Salzburg              3-1 (0-1)  Sturm Graz
+
+
+Matchday 26
+[Sun Apr/21]
+  14.30  SKN St. Pölten           1-1 (0-1)  RB Salzburg
+         Sturm Graz               1-2 (1-0)  Wolfsberger AC
+  17.00  Austria Wien             2-2 (1-1)  LASK
+
+
+Matchday 27
+[Wed Apr/24]
+  19.00  RB Salzburg              3-1 (0-0)  Wolfsberger AC
+         LASK                     1-2 (0-0)  Sturm Graz
+         Austria Wien             2-2 (0-0)  SKN St. Pölten
+
+
+Matchday 28
+[Sun Apr/28]
+  14.30  Wolfsberger AC           2-1 (1-0)  RB Salzburg
+         SKN St. Pölten           1-2 (1-0)  Austria Wien
+  17.00  Sturm Graz               2-3 (2-1)  LASK
+
+
+Matchday 29
+[Sun May/5]
+  14.30  LASK                     3-0 (1-0)  Wolfsberger AC
+         SKN St. Pölten           0-1 (0-1)  Sturm Graz
+  17.00  Austria Wien             1-2 (0-0)  RB Salzburg
+
+
+Matchday 30
+[Sun May/12]
+  14.30  Sturm Graz               1-3 (1-1)  Austria Wien
+         Wolfsberger AC           4-0 (1-0)  SKN St. Pölten
+  17.00  RB Salzburg              2-1 (2-0)  LASK
+
+
+Matchday 31
+[Sun May/19]
+  17.00  Austria Wien             2-0 (0-0)  Wolfsberger AC
+         SKN St. Pölten           0-1 (0-0)  LASK
+         Sturm Graz               1-2 (1-1)  RB Salzburg
+
+
+Matchday 32
+[Sun May/26]
+  17.00  RB Salzburg              7-0 (2-0)  SKN St. Pölten
+         Wolfsberger AC           2-1 (0-1)  Sturm Graz
+         LASK                     5-2 (0-1)  Austria Wien

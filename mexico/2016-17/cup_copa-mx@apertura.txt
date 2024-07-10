@@ -1,0 +1,158 @@
+= Mexico Copa MX 2016/17, Apertura
+
+# 63 match(es), 24 team(s), 12 round(s)
+
+
+
+Gruppe 1
+[Wed Jul/20]
+  19.00  Club León                1-1  Club Celaya
+[Tue Jul/26]
+  21.00  Atlante                  0-1  Club León
+[Tue Aug/9]
+  19.00  Club Celaya              1-1  Atlante
+[Wed Aug/17]
+  19.00  Club Celaya              1-1  Club León
+[Tue Aug/23]
+  19.00  Club León                1-3  Atlante
+[Tue Sep/13]
+  19.00  Atlante                  2-2  Club Celaya
+
+
+Gruppe 2
+[Wed Jul/20]
+  21.00  Chiapas FC               1-1  Cafetaleros de Tapachula
+[Tue Jul/26]
+  19.00  Deportivo Guadalajara    1-4  Chiapas FC
+[Wed Aug/10]
+  20.30  Cafetaleros de Tapachula  0-0  Deportivo Guadalajara
+[Wed Aug/17]
+  19.00  Cafetaleros de Tapachula  1-1  Chiapas FC
+[Wed Aug/24]
+  21.00  Deportivo Guadalajara    1-0  Cafetaleros de Tapachula
+[Wed Sep/14]
+  19.00  Chiapas FC               2-2  Deportivo Guadalajara
+
+
+Gruppe 3
+[Tue Jul/19]
+  21.00  Cruz Azul                2-0  Deportivo Tepic
+[Wed Jul/27]
+  20.30  Leones Negros            2-2  Cruz Azul
+[Tue Aug/9]
+  21.00  Deportivo Tepic          1-0  Leones Negros
+[Wed Aug/17]
+  20.30  Deportivo Tepic          1-4 (1-2)  Cruz Azul
+[Tue Aug/23]
+  21.00  Cruz Azul                3-1  Leones Negros
+[Wed Sep/14]
+  21.00  Leones Negros            5-0  Deportivo Tepic
+
+
+Gruppe 4
+[Tue Jul/19]
+  19.00  Alebrijes de Oaxaca      0-0  Murciélagos FC
+[Wed Jul/27]
+  19.00  Monarcas Morelia         3-0  Alebrijes de Oaxaca
+[Tue Aug/9]
+  21.00  Murciélagos FC           1-1  Monarcas Morelia
+[Tue Aug/16]
+  21.00  Murciélagos FC           0-0  Alebrijes de Oaxaca
+[Wed Aug/24]
+  19.00  Alebrijes de Oaxaca      2-1  Monarcas Morelia
+[Tue Sep/13]
+  19.00  Monarcas Morelia         4-0  Murciélagos FC
+
+
+Gruppe 5
+[Wed Jul/20]
+  20.30  Venados FC               0-3  CF América
+[Tue Jul/26]
+  21.00  CF América               4-1  Mineros de Zacatecas
+[Tue Aug/9]
+  21.00  Mineros de Zacatecas     3-0  Venados FC
+[Tue Aug/16]
+  21.00  CF América               2-0  Venados FC
+[Wed Aug/24]
+  20.30  Mineros de Zacatecas     0-2  CF América
+[Tue Sep/13]
+  20.30  Venados FC               4-4  Mineros de Zacatecas
+
+
+Gruppe 6
+[Tue Jul/19]
+  21.00  Club Tijuana             3-0  Deportivo Toluca
+[Tue Jul/26]
+  19.00  Lobos BUAP               4-0  Club Tijuana
+[Tue Aug/9]
+  19.00  Lobos BUAP               1-1  Deportivo Toluca
+[Wed Aug/17]
+  21.00  Club Tijuana             1-1  Lobos BUAP
+[Tue Aug/23]
+  19.00  Deportivo Toluca         4-0  Lobos BUAP
+[Wed Sep/14]
+  20.30  Deportivo Toluca         2-1  Club Tijuana
+
+
+Gruppe 7
+[Tue Jul/19]
+  19.00  FC Juárez                5-0  CD Veracruz
+[Wed Jul/27]
+  21.00  Santos Laguna            1-1  FC Juárez
+[Wed Aug/10]
+  21.00  CD Veracruz              4-1  Santos Laguna
+[Tue Aug/16]
+  21.00  CD Veracruz              1-2  FC Juárez
+[Wed Aug/24]
+  21.00  FC Juárez                3-3  Santos Laguna
+[Tue Sep/13]
+  21.30  Santos Laguna            1-1  CD Veracruz
+
+
+Gruppe 8
+[Wed Jul/20]
+  19.00  Gallos Blancos           1-2  Puebla FC
+[Wed Jul/27]
+  21.00  Dorados de Sinaloa       1-2  Gallos Blancos
+[Wed Aug/10]
+  19.00  Puebla FC                2-1  Dorados de Sinaloa
+[Tue Aug/16]
+  19.00  Gallos Blancos           2-0  Dorados de Sinaloa
+[Tue Aug/23]
+  19.00  Puebla FC                1-1  Gallos Blancos
+[Tue Sep/13]
+  19.30  Dorados de Sinaloa       0-1  Puebla FC
+
+
+Round of 16
+[Tue Sep/27]
+  19.00  Puebla FC                3-2 (1-1)  Leones Negros
+         Chiapas FC               2-1 (2-0)  Atlante
+  21.00  Cruz Azul                4-0 (2-0)  Mineros de Zacatecas
+         Monarcas Morelia         0-1 (0-1)  Deportivo Guadalajara
+[Wed Sep/28]
+  19.00  Deportivo Toluca         4-3 (0-1)  Club León
+         Gallos Blancos           3-1 (1-1)  Lobos BUAP
+  21.00  CF América               1-0 (1-0)  CD Veracruz
+         FC Juárez                3-5 pen. (1-1, 0-0)  Alebrijes de Oaxaca
+
+
+Quarterfinals
+[Tue Oct/18]
+  20.30  CF América               3-2 (2-0)  Chiapas FC
+[Wed Oct/19]
+  19.00  Cruz Azul                1-3 (1-1)  Gallos Blancos
+  21.00  Puebla FC                0-2 (0-0)  Deportivo Toluca
+         Deportivo Guadalajara    1-0 (1-0)  Alebrijes de Oaxaca
+
+
+Semifinals
+[Tue Oct/25]
+  21.00  Deportivo Toluca         7-8 pen. (0-0)  Gallos Blancos
+[Wed Oct/26]
+  21.00  CF América               3-4 pen. (1-1, 1-0)  Deportivo Guadalajara
+
+
+Final
+[Wed Nov/2]
+  20.00  Gallos Blancos           3-2 pen. (0-0)  Deportivo Guadalajara

@@ -1,0 +1,45 @@
+= Belgium Eerste klasse B 2017/18, Relegation
+
+# 12 match(es), 4 team(s), 6 round(s)
+
+
+
+Matchday 1
+[Fri Mar/23]
+  20.30  KVC Westerlo             1-0 (0-0)  Union Saint-Gilloise
+[Sun Mar/25]
+  18.00  KSV Roeselare            0-0  AFC Tubize
+
+
+Matchday 2
+[Fri Mar/30]
+  20.30  AFC Tubize               0-2 (0-0)  KVC Westerlo
+[Mon Apr/2]
+  16.00  Union Saint-Gilloise     0-1 (0-0)  KSV Roeselare
+
+
+Matchday 3
+[Fri Apr/6]
+  20.30  Union Saint-Gilloise     1-1 (0-0)  AFC Tubize
+[Sun Apr/8]
+  20.00  KVC Westerlo             0-0  KSV Roeselare
+
+
+Matchday 4
+[Fri Apr/13]
+  20.30  AFC Tubize               0-1 (0-0)  Union Saint-Gilloise
+[Sun Apr/15]
+  16.00  KSV Roeselare            0-0  KVC Westerlo
+
+
+Matchday 5
+[Fri Apr/20]
+  20.30  Union Saint-Gilloise     0-2 (0-1)  KVC Westerlo
+[Sun Apr/22]
+  16.00  AFC Tubize               1-3 (1-1)  KSV Roeselare
+
+
+Matchday 6
+[Sun Apr/29]
+  16.00  KVC Westerlo             1-1 (0-0)  AFC Tubize
+         KSV Roeselare            1-0 (1-0)  Union Saint-Gilloise

@@ -1,0 +1,37 @@
+= Mexico Primera División 2018/19, Clausura Playoffs
+
+# 14 match(es), 8 team(s), 3 round(s)
+
+
+
+Quarterfinals
+[Wed May/8]
+  19.00  CF Pachuca               1-1 (1-1)  UANL Tigres
+  21.06  Club Tijuana             1-3 (0-1)  Club León
+[Thu May/9]
+  19.00  Club Necaxa              1-0 (1-0)  CF Monterrey
+  21.05  CF América               3-1 (2-1)  Cruz Azul
+[Sat May/11]
+  19.00  UANL Tigres              1-1 (0-0)  CF Pachuca
+  21.06  Club León                2-1 (2-1)  Club Tijuana
+[Sun May/12]
+  18.10  Cruz Azul                1-0 (0-0)  CF América
+  20.00  CF Monterrey             1-0 (1-0)  Club Necaxa
+
+
+Semifinals
+[Wed May/15]
+  21.06  CF Monterrey             1-0 (1-0)  UANL Tigres
+[Thu May/16]
+  20.30  CF América               0-1 (0-0)  Club León
+[Sat May/18]
+  19.00  UANL Tigres              1-0 (1-0)  CF Monterrey
+[Sun May/19]
+  20.06  Club León                0-1 (0-1)  CF América
+
+
+Final
+[Thu May/23]
+  20.45  UANL Tigres              1-0 (1-0)  Club León
+[Sun May/26]
+  20.06  Club León                0-0  UANL Tigres

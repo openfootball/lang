@@ -1,0 +1,116 @@
+= Mexico LP - Serie A 2022/23, Clausura Grupo A
+
+# 55 match(es), 11 team(s), 11 round(s)
+
+
+
+Matchday 1
+[Fri Jan/6]
+  21.30  Coras de Nayarit         0-2 (0-2)  Tritones Vallarta
+[Sat Jan/7]
+  12.00  Cimarrones de Sonora II  1-1 (0-0)  Chihuahua FC
+  15.00  Halcones de Zapopan      1-2 (0-0)  Los Cabos United
+  17.00  Tuzos de la UAZ          3-0 (2-0)  Mexicali FC
+         Mineros de Fresnillo FC  1-0 (1-0)  Leones Negros II
+
+
+Matchday 2
+[Fri Jan/13]
+  19.00  Tecos Fútbol Club        1-0 (0-0)  Tuzos de la UAZ
+  19.30  Chihuahua FC             3-1 (1-1)  Coras de Nayarit
+[Sat Jan/14]
+  11.00  Leones Negros II         0-0  Halcones de Zapopan
+  17.00  Los Cabos United         1-4 (0-2)  Cimarrones de Sonora II
+         Mexicali FC              4-2 (1-2)  Mineros de Fresnillo FC
+
+
+Matchday 3
+[Fri Jan/20]
+  15.00  Halcones de Zapopan      1-1 (0-0)  Mexicali FC
+[Sat Jan/21]
+  10.00  Cimarrones de Sonora II  4-1 (2-0)  Leones Negros II
+  17.00  Tuzos de la UAZ          1-0 (1-0)  Tritones Vallarta
+         Mineros de Fresnillo FC  0-2 (0-2)  Tecos Fútbol Club
+[Mon Jan/23]
+  17.30  Los Cabos United         2-0 (0-0)  Chihuahua FC
+
+
+Matchday 4
+[Fri Jan/27]
+  19.00  Tecos Fútbol Club        2-0 (0-0)  Halcones de Zapopan
+  20.30  Coras de Nayarit         1-0 (0-0)  Tuzos de la UAZ
+[Sat Jan/28]
+  11.00  Leones Negros II         0-1 (0-0)  Los Cabos United
+  16.00  Tritones Vallarta        3-0 (3-0)  Mineros de Fresnillo FC
+  17.00  Mexicali FC              1-1 (1-0)  Cimarrones de Sonora II
+
+
+Matchday 5
+[Fri Feb/3]
+  15.00  Halcones de Zapopan      0-3 (0-2)  Tritones Vallarta
+[Sat Feb/4]
+  10.00  Cimarrones de Sonora II  0-1 (0-1)  Tecos Fútbol Club
+  11.00  Leones Negros II         1-2 (0-0)  Chihuahua FC
+  17.00  Los Cabos United         3-0 (1-0)  Mexicali FC
+         Mineros de Fresnillo FC  1-0 (0-0)  Coras de Nayarit
+
+
+Matchday 6
+[Fri Feb/10]
+  19.00  Tecos Fútbol Club        1-1 (1-0)  Los Cabos United
+  19.30  Chihuahua FC             3-1 (3-1)  Tuzos de la UAZ
+  20.30  Coras de Nayarit         1-1 (0-0)  Halcones de Zapopan
+[Sat Feb/11]
+  16.00  Tritones Vallarta        4-1 (2-0)  Cimarrones de Sonora II
+  20.00  Mexicali FC              2-0 (2-0)  Leones Negros II
+
+
+Matchday 7
+[Sat Feb/18]
+  10.00  Cimarrones de Sonora II  2-0 (1-0)  Coras de Nayarit
+  11.00  Leones Negros II         0-2 (0-1)  Tecos Fútbol Club
+  17.00  Mineros de Fresnillo FC  1-1 (1-1)  Tuzos de la UAZ
+         Mexicali FC              1-3 (1-2)  Chihuahua FC
+  21.00  Los Cabos United         0-0  Tritones Vallarta
+
+
+Matchday 8
+[Fri Feb/24]
+  19.00  Tecos Fútbol Club        1-0 (0-0)  Mexicali FC
+  20.30  Coras de Nayarit         1-0 (1-0)  Los Cabos United
+[Sat Feb/25]
+  16.00  Tritones Vallarta        1-0 (1-0)  Leones Negros II
+  17.00  Tuzos de la UAZ          3-1 (1-0)  Halcones de Zapopan
+[Mon Feb/27]
+  21.00  Chihuahua FC             3-1 (2-1)  Mineros de Fresnillo FC
+
+
+Matchday 9
+[Fri Mar/3]
+  19.00  Tecos Fútbol Club        1-1 (0-1)  Chihuahua FC
+         Halcones de Zapopan      2-0 (1-0)  Mineros de Fresnillo FC
+[Sat Mar/4]
+  11.00  Cimarrones de Sonora II  0-2 (0-0)  Tuzos de la UAZ
+         Leones Negros II         1-2 (1-1)  Coras de Nayarit
+  17.00  Mexicali FC              0-1 (0-1)  Tritones Vallarta
+
+
+Matchday 10
+[Fri Mar/10]
+  16.00  Halcones de Zapopan      0-3 (0-2)  Chihuahua FC
+  20.30  Coras de Nayarit         3-1 (2-1)  Mexicali FC
+[Sat Mar/11]
+  16.00  Tritones Vallarta        2-1 (1-0)  Tecos Fútbol Club
+  17.00  Mineros de Fresnillo FC  0-1 (0-0)  Cimarrones de Sonora II
+[Mon Mar/13]
+  20.00  Tuzos de la UAZ          0-4 (0-2)  Los Cabos United
+
+
+Matchday 11
+[Fri Mar/17]
+  19.00  Tecos Fútbol Club        2-0 (1-0)  Coras de Nayarit
+  19.30  Chihuahua FC             2-1 (1-0)  Tritones Vallarta
+[Sat Mar/18]
+  11.00  Cimarrones de Sonora II  2-0 (2-0)  Halcones de Zapopan
+         Leones Negros II         1-3 (0-1)  Tuzos de la UAZ
+  17.00  Los Cabos United         0-1 (0-0)  Mineros de Fresnillo FC

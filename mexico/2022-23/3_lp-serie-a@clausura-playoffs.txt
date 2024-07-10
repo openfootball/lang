@@ -1,0 +1,37 @@
+= Mexico LP - Serie A 2022/23, Clausura Playoffs
+
+# 14 match(es), 8 team(s), 3 round(s)
+
+
+
+Quarterfinals
+[Fri Mar/24]
+  17.00  Inter Playa              1-0 (1-0)  Tritones Vallarta
+[Sat Mar/25]
+  16.00  Gavilanes de Matamoros   0-0  Tampico Madero
+         Deportivo Dongu          0-1 (0-1)  Chihuahua FC
+  18.00  Cafetaleros de Chiapas   1-0 (1-0)  Tecos Fútbol Club
+[Fri Mar/31]
+  20.00  Tecos Fútbol Club        1-1 (1-0)  Cafetaleros de Chiapas
+  21.00  Chihuahua FC             2-1 (1-0)  Deportivo Dongu
+[Sat Apr/1]
+  17.00  Tritones Vallarta        1-1 (1-0)  Inter Playa
+  21.00  Tampico Madero           1-1 (1-0)  Gavilanes de Matamoros
+
+
+Semifinals
+[Fri Apr/7]
+  18.00  Inter Playa              1-1 (1-1)  Chihuahua FC
+[Sun Apr/9]
+  19.00  Cafetaleros de Chiapas   1-0 (0-0)  Tampico Madero
+[Fri Apr/14]
+  21.00  Chihuahua FC             0-2 (0-1)  Inter Playa
+[Sat Apr/15]
+  21.00  Tampico Madero           2-0 (0-0)  Cafetaleros de Chiapas
+
+
+Final
+[Fri Apr/21]
+  18.00  Inter Playa              2-2 (0-2)  Tampico Madero
+[Sat Apr/29]
+  21.00  Tampico Madero           4-2 pen. 2-2 a.e.t. (2-2, 1-1)  Inter Playa

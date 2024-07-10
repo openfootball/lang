@@ -1,0 +1,142 @@
+= Belgium Eerste klasse B 2019/20, Periode 1
+
+# 56 match(es), 8 team(s), 14 round(s)
+
+
+
+Matchday 1
+[Fri Aug/2]
+  20.30  K Beerschot VA           1-0 (1-0)  Sporting Lokeren
+[Sat Aug/3]
+  17.00  Oud-Heverlee Leuven      1-0 (0-0)  Excelsior Virton
+  20.30  Lommel SK                0-2 (0-1)  KVC Westerlo
+[Sun Aug/4]
+  16.00  Union Saint-Gilloise     3-0 (1-0)  KSV Roeselare
+
+
+Matchday 2
+[Fri Aug/9]
+  20.30  KVC Westerlo             1-0 (0-0)  Oud-Heverlee Leuven
+[Sat Aug/10]
+  17.00  KSV Roeselare            1-1 (1-0)  K Beerschot VA
+  20.30  Excelsior Virton         0-1 (0-0)  Union Saint-Gilloise
+[Sun Aug/11]
+  16.00  Sporting Lokeren         0-0  Lommel SK
+
+
+Matchday 3
+[Fri Aug/16]
+  20.30  Oud-Heverlee Leuven      3-0 (2-0)  K Beerschot VA
+[Sat Aug/17]
+  17.00  Lommel SK                0-3 (0-1)  Excelsior Virton
+  20.30  KVC Westerlo             4-1 (4-1)  KSV Roeselare
+[Sun Aug/18]
+  16.00  Union Saint-Gilloise     3-1 (1-0)  Sporting Lokeren
+
+
+Matchday 4
+[Fri Aug/30]
+  20.30  K Beerschot VA           1-0 (0-0)  Union Saint-Gilloise
+[Sat Aug/31]
+  17.00  Sporting Lokeren         0-2 (0-2)  Oud-Heverlee Leuven
+  20.30  KSV Roeselare            1-1 (0-1)  Lommel SK
+[Sun Sep/1]
+  16.00  Excelsior Virton         1-0 (1-0)  KVC Westerlo
+
+
+Matchday 5
+[Fri Sep/6]
+  20.30  Lommel SK                2-2 (1-1)  Union Saint-Gilloise
+[Sat Sep/7]
+  17.00  KVC Westerlo             2-0 (1-0)  K Beerschot VA
+  20.30  Oud-Heverlee Leuven      4-0 (3-0)  KSV Roeselare
+[Sun Sep/8]
+  16.00  Excelsior Virton         4-0 (1-0)  Sporting Lokeren
+
+
+Matchday 6
+[Fri Sep/13]
+  20.30  Sporting Lokeren         1-1 (1-1)  KVC Westerlo
+[Sat Sep/14]
+  17.00  Union Saint-Gilloise     1-1 (0-0)  Oud-Heverlee Leuven
+  20.30  K Beerschot VA           2-0 (0-0)  Lommel SK
+[Sun Sep/15]
+  16.00  KSV Roeselare            0-5  Excelsior Virton         [awarded]
+
+
+Matchday 7
+[Fri Sep/20]
+  20.30  Sporting Lokeren         2-0 (2-0)  KSV Roeselare
+[Sat Sep/21]
+  17.00  Excelsior Virton         3-0 (1-0)  K Beerschot VA
+  20.30  KVC Westerlo             1-2 (1-2)  Union Saint-Gilloise
+[Sun Sep/22]
+  16.00  Oud-Heverlee Leuven      1-0 (0-0)  Lommel SK
+
+
+Matchday 8
+[Fri Sep/27]
+  20.30  KSV Roeselare            0-2 (0-0)  KVC Westerlo
+[Sat Sep/28]
+  17.00  Union Saint-Gilloise     2-1 (1-1)  Excelsior Virton
+  20.30  K Beerschot VA           1-2 (0-1)  Oud-Heverlee Leuven
+[Sun Sep/29]
+  16.00  Lommel SK                1-1 (1-1)  Sporting Lokeren
+
+
+Matchday 9
+[Fri Oct/4]
+  20.30  Lommel SK                2-1 (2-0)  KSV Roeselare
+[Sat Oct/5]
+  17.00  KVC Westerlo             0-1 (0-0)  Excelsior Virton
+  20.30  Oud-Heverlee Leuven      2-3 (2-2)  Sporting Lokeren
+[Sun Oct/6]
+  16.00  Union Saint-Gilloise     1-1 (0-0)  K Beerschot VA
+
+
+Matchday 10
+[Fri Oct/11]
+  20.30  K Beerschot VA           1-2 (0-1)  KVC Westerlo
+[Sat Oct/12]
+  17.00  KSV Roeselare            3-1 (3-0)  Oud-Heverlee Leuven
+  20.30  Excelsior Virton         1-0 (0-0)  Lommel SK
+[Sun Oct/13]
+  16.00  Sporting Lokeren         1-1 (0-1)  Union Saint-Gilloise
+
+
+Matchday 11
+[Fri Oct/18]
+  20.30  KVC Westerlo             2-0 (2-0)  Sporting Lokeren
+[Sat Oct/19]
+  17.00  KSV Roeselare            3-0 (0-0)  Union Saint-Gilloise
+  20.30  K Beerschot VA           2-1 (2-1)  Excelsior Virton
+[Sun Oct/20]
+  16.00  Lommel SK                0-2 (0-0)  Oud-Heverlee Leuven
+
+
+Matchday 12
+[Fri Oct/25]
+  20.30  Oud-Heverlee Leuven      2-1 (2-1)  KVC Westerlo
+[Sat Oct/26]
+  17.00  Sporting Lokeren         2-1 (2-1)  K Beerschot VA
+  20.30  Union Saint-Gilloise     2-1 (0-1)  Lommel SK
+[Sun Oct/27]
+  16.00  Excelsior Virton         3-2 (2-2)  KSV Roeselare
+
+
+Matchday 13
+[Sat Nov/2]
+  17.00  KVC Westerlo             1-1 (0-0)  Lommel SK
+  20.30  K Beerschot VA           2-1 (2-0)  KSV Roeselare
+[Sun Nov/3]
+  16.00  Sporting Lokeren         1-3 (0-1)  Excelsior Virton
+[Tue Feb/11]
+  20.30  Oud-Heverlee Leuven      0-0  Union Saint-Gilloise
+
+
+Matchday 14
+[Fri Nov/8]
+  20.30  Excelsior Virton         0-1 (0-1)  Oud-Heverlee Leuven
+         Union Saint-Gilloise     0-2 (0-1)  KVC Westerlo
+         Lommel SK                1-0 (0-0)  K Beerschot VA
+         KSV Roeselare            2-1 (0-0)  Sporting Lokeren

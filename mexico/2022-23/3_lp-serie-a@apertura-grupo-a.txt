@@ -1,0 +1,111 @@
+= Mexico LP - Serie A 2022/23, Apertura Grupo A
+
+# 55 match(es), 11 team(s), 11 round(s)
+
+
+
+Matchday 1
+[Fri Aug/26]
+  19.30  Chihuahua FC             1-1 (0-0)  Cimarrones de Sonora II
+[Sat Aug/27]
+  11.00  Leones Negros II         3-1 (1-1)  Mineros de Fresnillo FC
+  16.00  Tritones Vallarta        1-0 (0-0)  Coras de Nayarit
+  20.00  Mexicali FC              0-3 (0-0)  Tuzos de la UAZ
+  21.00  Los Cabos United         2-1 (0-0)  Halcones de Zapopan
+
+
+Matchday 2
+[Fri Sep/2]
+  20.30  Coras de Nayarit         3-0 (3-0)  Chihuahua FC
+[Sat Sep/3]
+  10.00  Cimarrones de Sonora II  1-3 (0-2)  Los Cabos United
+  16.00  Halcones de Zapopan      1-1 (0-0)  Leones Negros II
+         Tuzos de la UAZ          3-0 (1-0)  Tecos Fútbol Club
+  17.00  Mineros de Fresnillo FC  6-1 (4-1)  Mexicali FC
+
+
+Matchday 3
+[Wed Sep/7]
+  11.00  Leones Negros II         2-3 (1-1)  Cimarrones de Sonora II
+  16.00  Tritones Vallarta        1-2 (1-0)  Tuzos de la UAZ
+  17.00  Tecos Fútbol Club        2-3 (1-2)  Mineros de Fresnillo FC
+  18.00  Mexicali FC              1-2 (1-0)  Halcones de Zapopan
+  19.30  Chihuahua FC             2-1 (0-0)  Los Cabos United
+
+
+Matchday 4
+[Sat Sep/10]
+  12.00  Cimarrones de Sonora II  3-1 (3-0)  Mexicali FC
+  16.00  Halcones de Zapopan      3-1 (0-0)  Tecos Fútbol Club
+         Los Cabos United         1-0 (0-0)  Leones Negros II
+         Tuzos de la UAZ          3-0 (3-0)  Coras de Nayarit
+  17.00  Mineros de Fresnillo FC  0-1 (0-0)  Tritones Vallarta
+
+
+Matchday 5
+[Fri Sep/16]
+  19.00  Tecos Fútbol Club        4-1 (4-0)  Cimarrones de Sonora II
+  19.30  Chihuahua FC             4-0 (2-0)  Leones Negros II
+  20.30  Coras de Nayarit         2-0 (2-0)  Mineros de Fresnillo FC
+[Sat Sep/17]
+  16.00  Tritones Vallarta        3-2 (1-2)  Halcones de Zapopan
+  18.00  Mexicali FC              0-2 (0-1)  Los Cabos United
+
+
+Matchday 6
+[Sat Sep/24]
+  10.00  Cimarrones de Sonora II  0-1 (0-0)  Tritones Vallarta
+  11.00  Leones Negros II         5-0 (3-0)  Mexicali FC
+  16.00  Halcones de Zapopan      2-1 (2-1)  Coras de Nayarit
+  21.00  Los Cabos United         3-0 (0-0)  Tecos Fútbol Club
+[Sun Sep/25]
+  11.00  Tuzos de la UAZ          0-1 (0-1)  Chihuahua FC
+
+
+Matchday 7
+[Wed Sep/28]
+  16.00  Tritones Vallarta        1-1 (1-0)  Los Cabos United
+         Tuzos de la UAZ          3-3 (2-1)  Mineros de Fresnillo FC
+  17.00  Tecos Fútbol Club        0-3 (0-1)  Leones Negros II
+  19.30  Chihuahua FC             6-0 (4-0)  Mexicali FC
+  20.30  Coras de Nayarit         2-2 (0-1)  Cimarrones de Sonora II
+
+
+Matchday 8
+[Sat Oct/1]
+  11.00  Leones Negros II         0-3 (0-1)  Tritones Vallarta
+  16.00  Halcones de Zapopan      2-4 (2-1)  Tuzos de la UAZ
+  17.00  Mineros de Fresnillo FC  1-2 (1-1)  Chihuahua FC
+  18.00  Mexicali FC              0-3 (0-1)  Tecos Fútbol Club
+  20.00  Los Cabos United         0-0  Coras de Nayarit
+
+
+Matchday 9
+[Fri Oct/7]
+  20.00  Chihuahua FC             1-0 (0-0)  Tecos Fútbol Club
+  20.30  Coras de Nayarit         1-2 (1-0)  Leones Negros II
+[Sat Oct/8]
+  16.00  Tritones Vallarta        2-0 (2-0)  Mexicali FC
+         Tuzos de la UAZ          6-1 (2-0)  Cimarrones de Sonora II
+  17.00  Mineros de Fresnillo FC  4-0 (1-0)  Halcones de Zapopan
+
+
+Matchday 10
+[Fri Oct/14]
+  20.00  Chihuahua FC             0-0  Halcones de Zapopan
+[Sat Oct/15]
+  12.00  Cimarrones de Sonora II  2-1 (2-1)  Mineros de Fresnillo FC
+  18.00  Mexicali FC              1-1 (0-0)  Coras de Nayarit
+  20.00  Los Cabos United         1-0 (0-0)  Tuzos de la UAZ
+[Mon Oct/17]
+  16.30  Tecos Fútbol Club        3-1 (1-1)  Tritones Vallarta
+
+
+Matchday 11
+[Fri Oct/21]
+  20.30  Coras de Nayarit         3-2 (0-1)  Tecos Fútbol Club
+[Sat Oct/22]
+  16.00  Halcones de Zapopan      0-1 (0-0)  Cimarrones de Sonora II
+         Tritones Vallarta        0-0  Chihuahua FC
+         Tuzos de la UAZ          2-0 (0-0)  Leones Negros II
+  17.00  Mineros de Fresnillo FC  0-1 (0-0)  Los Cabos United
